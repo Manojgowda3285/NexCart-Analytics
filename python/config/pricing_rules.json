@@ -1,0 +1,287 @@
+{
+  "Smartphones": {
+    "cost_min": 8000,
+    "cost_max": 80000,
+    "margin_min": 12,
+    "margin_max": 22,
+    "gst": 18,
+    "weight_min": 0.18,
+    "weight_max": 0.3,
+    "return_window": 7
+  },
+
+  "Laptops": {
+    "cost_min": 25000,
+    "cost_max": 150000,
+    "margin_min": 10,
+    "margin_max": 18,
+    "gst": 18,
+    "weight_min": 1.2,
+    "weight_max": 2.8,
+    "return_window": 7
+  },
+
+  "Headphones": {
+    "cost_min": 500,
+    "cost_max": 20000,
+    "margin_min": 20,
+    "margin_max": 35,
+    "gst": 18,
+    "weight_min": 0.1,
+    "weight_max": 0.5,
+    "return_window": 7
+  },
+
+  "Smart Watches": {
+    "cost_min": 1500,
+    "cost_max": 40000,
+    "margin_min": 18,
+    "margin_max": 30,
+    "gst": 18,
+    "weight_min": 0.05,
+    "weight_max": 0.15,
+    "return_window": 7
+  },
+
+  "Men Clothing": {
+    "cost_min": 300,
+    "cost_max": 3500,
+    "margin_min": 35,
+    "margin_max": 60,
+    "gst": 12,
+    "weight_min": 0.2,
+    "weight_max": 0.6,
+    "return_window": 10
+  },
+
+  "Women Clothing": {
+    "cost_min": 400,
+    "cost_max": 5000,
+    "margin_min": 35,
+    "margin_max": 60,
+    "gst": 12,
+    "weight_min": 0.2,
+    "weight_max": 0.8,
+    "return_window": 10
+  },
+
+  "Shoes": {
+    "cost_min": 700,
+    "cost_max": 8000,
+    "margin_min": 30,
+    "margin_max": 50,
+    "gst": 12,
+    "weight_min": 0.5,
+    "weight_max": 1.5,
+    "return_window": 10
+  },
+
+  "Cookware": {
+    "cost_min": 300,
+    "cost_max": 5000,
+    "margin_min": 20,
+    "margin_max": 40,
+    "gst": 18,
+    "weight_min": 0.5,
+    "weight_max": 5,
+    "return_window": 7
+  },
+
+  "Kitchen Appliances": {
+    "cost_min": 1500,
+    "cost_max": 15000,
+    "margin_min": 18,
+    "margin_max": 30,
+    "gst": 18,
+    "weight_min": 2,
+    "weight_max": 8,
+    "return_window": 7
+  },
+
+  "Storage": {
+    "cost_min": 100,
+    "cost_max": 2500,
+    "margin_min": 20,
+    "margin_max": 35,
+    "gst": 18,
+    "weight_min": 0.2,
+    "weight_max": 2,
+    "return_window": 7
+  },
+
+  "Staples": {
+    "cost_min": 30,
+    "cost_max": 2000,
+    "margin_min": 8,
+    "margin_max": 15,
+    "gst": 5,
+    "weight_min": 0.5,
+    "weight_max": 10,
+    "return_window": 3
+  },
+
+  "Snacks": {
+    "cost_min": 10,
+    "cost_max": 500,
+    "margin_min": 15,
+    "margin_max": 25,
+    "gst": 12,
+    "weight_min": 0.05,
+    "weight_max": 1,
+    "return_window": 3
+  },
+
+  "Beverages": {
+    "cost_min": 50,
+    "cost_max": 800,
+    "margin_min": 12,
+    "margin_max": 20,
+    "gst": 12,
+    "weight_min": 0.2,
+    "weight_max": 2,
+    "return_window": 3
+  },
+
+  "Skin Care": {
+    "cost_min": 100,
+    "cost_max": 2500,
+    "margin_min": 35,
+    "margin_max": 60,
+    "gst": 18,
+    "weight_min": 0.05,
+    "weight_max": 0.5,
+    "return_window": 7
+  },
+
+  "Hair Care": {
+    "cost_min": 150,
+    "cost_max": 1500,
+    "margin_min": 30,
+    "margin_max": 50,
+    "gst": 18,
+    "weight_min": 0.1,
+    "weight_max": 1,
+    "return_window": 7
+  },
+
+  "Refrigerator": {
+    "cost_min": 18000,
+    "cost_max": 90000,
+    "margin_min": 10,
+    "margin_max": 18,
+    "gst": 18,
+    "weight_min": 45,
+    "weight_max": 90,
+    "return_window": 7
+  },
+
+  "Washing Machine": {
+    "cost_min": 15000,
+    "cost_max": 70000,
+    "margin_min": 10,
+    "margin_max": 18,
+    "gst": 18,
+    "weight_min": 35,
+    "weight_max": 80,
+    "return_window": 7
+  },
+
+  "Air Conditioner": {
+    "cost_min": 25000,
+    "cost_max": 80000,
+    "margin_min": 10,
+    "margin_max": 18,
+    "gst": 18,
+    "weight_min": 25,
+    "weight_max": 60,
+    "return_window": 7
+  },
+
+  "Office": {
+    "cost_min": 2000,
+    "cost_max": 20000,
+    "margin_min": 20,
+    "margin_max": 35,
+    "gst": 18,
+    "weight_min": 10,
+    "weight_max": 40,
+    "return_window": 10
+  },
+
+  "Bedroom": {
+    "cost_min": 5000,
+    "cost_max": 60000,
+    "margin_min": 18,
+    "margin_max": 30,
+    "gst": 18,
+    "weight_min": 15,
+    "weight_max": 80,
+    "return_window": 10
+  },
+
+  "Fitness": {
+    "cost_min": 300,
+    "cost_max": 15000,
+    "margin_min": 20,
+    "margin_max": 35,
+    "gst": 18,
+    "weight_min": 0.5,
+    "weight_max": 30,
+    "return_window": 10
+  },
+
+  "Outdoor": {
+    "cost_min": 400,
+    "cost_max": 10000,
+    "margin_min": 20,
+    "margin_max": 35,
+    "gst": 18,
+    "weight_min": 0.2,
+    "weight_max": 5,
+    "return_window": 10
+  },
+
+  "Programming": {
+    "cost_min": 300,
+    "cost_max": 1500,
+    "margin_min": 25,
+    "margin_max": 40,
+    "gst": 0,
+    "weight_min": 0.3,
+    "weight_max": 1.5,
+    "return_window": 7
+  },
+
+  "Business": {
+    "cost_min": 300,
+    "cost_max": 2000,
+    "margin_min": 25,
+    "margin_max": 40,
+    "gst": 0,
+    "weight_min": 0.3,
+    "weight_max": 1.5,
+    "return_window": 7
+  },
+
+  "Educational": {
+    "cost_min": 200,
+    "cost_max": 5000,
+    "margin_min": 25,
+    "margin_max": 40,
+    "gst": 12,
+    "weight_min": 0.2,
+    "weight_max": 3,
+    "return_window": 7
+  },
+
+  "Kids": {
+    "cost_min": 200,
+    "cost_max": 4000,
+    "margin_min": 25,
+    "margin_max": 40,
+    "gst": 12,
+    "weight_min": 0.2,
+    "weight_max": 5,
+    "return_window": 7
+  }
+}

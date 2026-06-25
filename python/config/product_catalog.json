@@ -1,0 +1,164 @@
+{
+  "Electronics": {
+    "Smartphones": {
+      "Samsung": ["Galaxy M35", "Galaxy S24", "Galaxy A55"],
+      "Apple": ["iPhone 15", "iPhone 15 Plus", "iPhone 16"],
+      "OnePlus": ["Nord CE4", "12R"],
+      "Realme": ["Narzo 70", "GT 6"],
+      "Redmi": ["Note 13 Pro", "13C"]
+    },
+
+    "Laptops": {
+      "Dell": ["Inspiron 15", "XPS 13"],
+      "HP": ["Pavilion 15", "Victus"],
+      "Lenovo": ["IdeaPad Slim 5", "Legion 5"],
+      "Asus": ["Vivobook 15", "ROG Strix"],
+      "Apple": ["MacBook Air M3", "MacBook Pro M4"]
+    },
+
+    "Headphones": {
+      "Boat": ["Rockerz 255", "Airdopes 141"],
+      "Sony": ["WH-CH520", "WH-1000XM5"],
+      "JBL": ["Tune 760NC", "Wave Buds"]
+    },
+
+    "Smart Watches": {
+      "Noise": ["ColorFit Pro", "Vision 3"],
+      "Fire-Boltt": ["Ninja Call", "Phoenix"],
+      "Samsung": ["Galaxy Watch 7"]
+    }
+  },
+
+  "Fashion": {
+    "Men Clothing": {
+      "Levis": ["511 Jeans", "Slim Fit Shirt"],
+      "Allen Solly": ["Formal Shirt", "Casual Shirt"],
+      "Peter England": ["Trouser", "Cotton Shirt"]
+    },
+
+    "Women Clothing": {
+      "Biba": ["Kurti", "Suit Set"],
+      "W": ["Printed Kurta", "Palazzo Set"],
+      "Libas": ["Anarkali", "Kurta"]
+    },
+
+    "Shoes": {
+      "Nike": ["Air Max", "Revolution 7"],
+      "Adidas": ["Ultraboost", "Run Falcon"],
+      "Puma": ["Smash V2", "Running Shoes"],
+      "Bata": ["Power Sneakers", "Formal Shoes"]
+    }
+  },
+
+  "Home & Kitchen": {
+    "Cookware": {
+      "Prestige": ["Pressure Cooker", "Non-Stick Pan"],
+      "Pigeon": ["Cookware Set", "Tawa"]
+    },
+
+    "Kitchen Appliances": {
+      "Butterfly": ["Mixer Grinder"],
+      "Prestige": ["Induction Cooktop"],
+      "Philips": ["Air Fryer"]
+    },
+
+    "Storage": {
+      "Milton": ["Water Bottle", "Lunch Box"],
+      "Cello": ["Container Set"]
+    }
+  },
+
+  "Grocery": {
+    "Staples": {
+      "Aashirvaad": ["Whole Wheat Atta"],
+      "Fortune": ["Basmati Rice", "Sunflower Oil"],
+      "Tata": ["Salt", "Tea"]
+    },
+
+    "Snacks": {
+      "Parle": ["Hide & Seek", "Monaco"],
+      "Britannia": ["Good Day", "Marie Gold"]
+    },
+
+    "Beverages": {
+      "Nestle": ["Nescafe Classic"],
+      "Bru": ["Instant Coffee"]
+    }
+  },
+
+  "Beauty & Personal Care": {
+    "Skin Care": {
+      "Nivea": ["Body Lotion"],
+      "Himalaya": ["Face Wash"],
+      "Mamaearth": ["Vitamin C Serum"]
+    },
+
+    "Hair Care": {
+      "Dove": ["Shampoo"],
+      "Loreal": ["Conditioner"]
+    }
+  },
+
+  "Appliances": {
+    "Refrigerator": {
+      "LG": ["260L Double Door"],
+      "Samsung": ["253L Frost Free"]
+    },
+
+    "Washing Machine": {
+      "IFB": ["Front Load 8kg"],
+      "Bosch": ["Series 6"]
+    },
+
+    "Air Conditioner": {
+      "Daikin": ["1.5 Ton Inverter"],
+      "Voltas": ["183V Vectra"]
+    }
+  },
+
+  "Furniture": {
+    "Office": {
+      "Green Soul": ["Ergonomic Chair"],
+      "Featherlite": ["Office Desk"]
+    },
+
+    "Bedroom": {
+      "Wakefit": ["Queen Bed"],
+      "SleepyCat": ["Mattress"]
+    }
+  },
+
+  "Sports": {
+    "Fitness": {
+      "Cult": ["Yoga Mat"],
+      "USI": ["Dumbbells"]
+    },
+
+    "Outdoor": {
+      "Yonex": ["Badminton Racquet"],
+      "Nivia": ["Football"]
+    }
+  },
+
+  "Books": {
+    "Programming": {
+      "Pearson": ["Python Programming", "SQL Fundamentals"]
+    },
+
+    "Business": {
+      "McGraw Hill": ["Business Analytics", "Marketing Management"]
+    }
+  },
+
+  "Toys": {
+    "Educational": {
+      "Funskool": ["Puzzle Set"],
+      "Lego": ["Classic Bricks"]
+    },
+
+    "Kids": {
+      "Hot Wheels": ["Car Pack"],
+      "Barbie": ["Dream Doll"]
+    }
+  }
+}

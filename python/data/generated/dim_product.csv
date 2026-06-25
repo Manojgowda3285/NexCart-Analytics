@@ -1,0 +1,283 @@
+ProductID,SKUCode,ProductName,SKUName,Category,SubCategory,Brand,Model,Variant,CostPrice,MarginPercent,MRP,DiscountPercent,SellingPrice,GSTPercent,WeightKg,Rating,LaunchDate,ProductLifecycle,ReturnWindowDays,IsActive
+P000251,SKU0000251,Daikin 1.5 Ton Inverter,Daikin 1.5 Ton Inverter 1 Ton,Appliances,Air Conditioner,Daikin,1.5 Ton Inverter,1 Ton,57595,11.6,64276,8,59134,18,56.45,4.1,2023-06-01,Declining,7,True
+P000252,SKU0000252,Daikin 1.5 Ton Inverter,Daikin 1.5 Ton Inverter 1.5 Ton,Appliances,Air Conditioner,Daikin,1.5 Ton Inverter,1.5 Ton,64506,10.7,71408,15,60697,18,44.25,4.5,2024-12-12,Mature,7,True
+P000253,SKU0000253,Daikin 1.5 Ton Inverter,Daikin 1.5 Ton Inverter 2 Ton,Appliances,Air Conditioner,Daikin,1.5 Ton Inverter,2 Ton,70266,12.4,78979,8,72661,18,42.81,4.6,2023-12-23,Declining,7,True
+P000254,SKU0000254,Voltas 183V Vectra,Voltas 183V Vectra 1 Ton,Appliances,Air Conditioner,Voltas,183V Vectra,1 Ton,48085,16.34,55942,10,50348,18,44.39,3.5,2025-10-08,Growth,7,True
+P000255,SKU0000255,Voltas 183V Vectra,Voltas 183V Vectra 1.5 Ton,Appliances,Air Conditioner,Voltas,183V Vectra,1.5 Ton,53855,16.43,62703,8,57687,18,38.94,3.6,2023-06-26,Declining,7,True
+P000256,SKU0000256,Voltas 183V Vectra,Voltas 183V Vectra 2 Ton,Appliances,Air Conditioner,Voltas,183V Vectra,2 Ton,58664,13.83,66777,18,54757,18,27.58,4.7,2025-04-18,Growth,7,False
+P000239,SKU0000239,LG 260L Double Door,LG 260L Double Door 260L,Appliances,Refrigerator,LG,260L Double Door,260L,51297,16.9,59966,0,59966,18,80.97,3.9,2024-11-10,Mature,7,True
+P000240,SKU0000240,LG 260L Double Door,LG 260L Double Door 320L,Appliances,Refrigerator,LG,260L Double Door,320L,56427,13.2,63875,20,51100,18,53.41,4.0,2025-03-02,Growth,7,True
+P000241,SKU0000241,LG 260L Double Door,LG 260L Double Door 420L,Appliances,Refrigerator,LG,260L Double Door,420L,61556,12.94,69521,12,61178,18,48.55,4.5,2023-06-19,Declining,7,True
+P000242,SKU0000242,Samsung 253L Frost Free,Samsung 253L Frost Free 260L,Appliances,Refrigerator,Samsung,253L Frost Free,260L,74313,14.36,84984,15,72236,18,74.74,3.6,2023-07-30,Declining,7,True
+P000243,SKU0000243,Samsung 253L Frost Free,Samsung 253L Frost Free 320L,Appliances,Refrigerator,Samsung,253L Frost Free,320L,81744,14.82,93858,18,76964,18,60.82,4.5,2023-12-08,Declining,7,True
+P000244,SKU0000244,Samsung 253L Frost Free,Samsung 253L Frost Free 420L,Appliances,Refrigerator,Samsung,253L Frost Free,420L,89176,16.96,104300,15,88655,18,89.1,3.9,2025-06-09,Growth,7,False
+P000250,SKU0000250,Bosch Series 6,Bosch Series 6 10kg,Appliances,Washing Machine,Bosch,Series 6,10kg,40142,16.2,46645,20,37316,18,47.85,4.9,2024-03-15,Mature,7,False
+P000248,SKU0000248,Bosch Series 6,Bosch Series 6 6kg,Appliances,Washing Machine,Bosch,Series 6,6kg,34019,14.59,38982,15,33135,18,47.54,3.9,2025-03-26,Growth,7,False
+P000249,SKU0000249,Bosch Series 6,Bosch Series 6 8kg,Appliances,Washing Machine,Bosch,Series 6,8kg,36741,10.21,40492,8,37253,18,76.11,4.2,2025-10-19,Growth,7,True
+P000247,SKU0000247,IFB Front Load 8kg,IFB Front Load 8kg 10kg,Appliances,Washing Machine,IFB,Front Load 8kg,10kg,40070,12.9,45239,0,45239,18,77.7,4.5,2023-11-11,Declining,7,True
+P000245,SKU0000245,IFB Front Load 8kg,IFB Front Load 8kg 6kg,Appliances,Washing Machine,IFB,Front Load 8kg,6kg,33958,15.37,39177,18,32125,18,68.75,4.2,2025-01-14,Growth,7,True
+P000246,SKU0000246,IFB Front Load 8kg,IFB Front Load 8kg 8kg,Appliances,Washing Machine,IFB,Front Load 8kg,8kg,36675,10.25,40434,20,32347,18,45.62,3.7,2023-03-13,Declining,7,True
+P000235,SKU0000235,Dove Shampoo,Dove Shampoo 180ml,Beauty & Personal Care,Hair Care,Dove,Shampoo,180ml,661,45.43,961,15,817,18,0.59,3.6,2023-10-01,Declining,7,True
+P000236,SKU0000236,Dove Shampoo,Dove Shampoo 340ml,Beauty & Personal Care,Hair Care,Dove,Shampoo,340ml,661,33.5,882,20,706,18,0.83,4.4,2025-09-07,Growth,7,True
+P000237,SKU0000237,Loreal Conditioner,Loreal Conditioner 180ml,Beauty & Personal Care,Hair Care,Loreal,Conditioner,180ml,1023,30.74,1337,10,1203,18,0.9,4.6,2023-03-31,Declining,7,True
+P000238,SKU0000238,Loreal Conditioner,Loreal Conditioner 340ml,Beauty & Personal Care,Hair Care,Loreal,Conditioner,340ml,1023,36.2,1393,18,1142,18,0.78,3.9,2025-08-27,Growth,7,True
+P000231,SKU0000231,Himalaya Face Wash,Himalaya Face Wash 100ml,Beauty & Personal Care,Skin Care,Himalaya,Face Wash,100ml,853,50.8,1286,10,1157,18,0.05,3.9,2023-10-22,Declining,7,True
+P000232,SKU0000232,Himalaya Face Wash,Himalaya Face Wash 200ml,Beauty & Personal Care,Skin Care,Himalaya,Face Wash,200ml,853,49.27,1273,8,1171,18,0.21,4.2,2023-06-25,Declining,7,False
+P000233,SKU0000233,Mamaearth Vitamin C Serum,Mamaearth Vitamin C Serum 100ml,Beauty & Personal Care,Skin Care,Mamaearth,Vitamin C Serum,100ml,1859,54.66,2875,0,2875,18,0.07,4.7,2025-03-10,Growth,7,True
+P000234,SKU0000234,Mamaearth Vitamin C Serum,Mamaearth Vitamin C Serum 200ml,Beauty & Personal Care,Skin Care,Mamaearth,Vitamin C Serum,200ml,1859,44.33,2683,0,2683,18,0.21,4.6,2025-01-01,Growth,7,True
+P000229,SKU0000229,Nivea Body Lotion,Nivea Body Lotion 100ml,Beauty & Personal Care,Skin Care,Nivea,Body Lotion,100ml,1261,55.87,1966,18,1612,18,0.16,4.6,2023-08-16,Declining,7,True
+P000230,SKU0000230,Nivea Body Lotion,Nivea Body Lotion 200ml,Beauty & Personal Care,Skin Care,Nivea,Body Lotion,200ml,1261,40.96,1778,20,1422,18,0.46,3.7,2023-05-09,Declining,7,True
+P000276,SKU0000276,McGraw Hill Business Analytics,McGraw Hill Business Analytics Hardcover,Books,Business,McGraw Hill,Business Analytics,Hardcover,1448,30.09,1884,15,1601,0,0.91,3.8,2023-10-23,Declining,7,True
+P000275,SKU0000275,McGraw Hill Business Analytics,McGraw Hill Business Analytics Paperback,Books,Business,McGraw Hill,Business Analytics,Paperback,1448,35.21,1958,5,1860,0,0.77,4.9,2023-09-21,Declining,7,True
+P000278,SKU0000278,McGraw Hill Marketing Management,McGraw Hill Marketing Management Hardcover,Books,Business,McGraw Hill,Marketing Management,Hardcover,856,27.1,1088,15,925,0,1.04,4.1,2023-11-29,Declining,7,True
+P000277,SKU0000277,McGraw Hill Marketing Management,McGraw Hill Marketing Management Paperback,Books,Business,McGraw Hill,Marketing Management,Paperback,856,25.58,1075,15,914,0,0.48,4.2,2025-08-28,Growth,7,True
+P000272,SKU0000272,Pearson Python Programming,Pearson Python Programming Hardcover,Books,Programming,Pearson,Python Programming,Hardcover,1062,33.96,1423,20,1138,0,1.32,4.3,2024-08-08,Mature,7,True
+P000271,SKU0000271,Pearson Python Programming,Pearson Python Programming Paperback,Books,Programming,Pearson,Python Programming,Paperback,1062,32.58,1408,10,1267,0,0.36,4.3,2024-03-16,Mature,7,True
+P000274,SKU0000274,Pearson SQL Fundamentals,Pearson SQL Fundamentals Hardcover,Books,Programming,Pearson,SQL Fundamentals,Hardcover,930,30.44,1213,12,1067,0,0.84,4.0,2023-05-31,Declining,7,True
+P000273,SKU0000273,Pearson SQL Fundamentals,Pearson SQL Fundamentals Paperback,Books,Programming,Pearson,SQL Fundamentals,Paperback,930,35.91,1264,18,1036,0,0.36,3.6,2025-01-19,Growth,7,True
+P000070,SKU0000070,Boat Airdopes 141,Boat Airdopes 141 Black,Electronics,Headphones,Boat,Airdopes 141,Black,6791,27.42,8653,10,7788,18,0.1,4.4,2023-10-30,Declining,7,True
+P000071,SKU0000071,Boat Airdopes 141,Boat Airdopes 141 Blue,Electronics,Headphones,Boat,Airdopes 141,Blue,6791,31.55,8934,5,8487,18,0.42,3.8,2025-05-20,Growth,7,True
+P000072,SKU0000072,Boat Airdopes 141,Boat Airdopes 141 White,Electronics,Headphones,Boat,Airdopes 141,White,6791,26.97,8623,10,7761,18,0.42,4.1,2023-09-06,Declining,7,True
+P000067,SKU0000067,Boat Rockerz 255,Boat Rockerz 255 Black,Electronics,Headphones,Boat,Rockerz 255,Black,3280,29.88,4260,12,3749,18,0.35,4.4,2025-11-21,Growth,7,True
+P000068,SKU0000068,Boat Rockerz 255,Boat Rockerz 255 Blue,Electronics,Headphones,Boat,Rockerz 255,Blue,3280,34.28,4404,10,3964,18,0.18,3.8,2024-09-27,Mature,7,True
+P000069,SKU0000069,Boat Rockerz 255,Boat Rockerz 255 White,Electronics,Headphones,Boat,Rockerz 255,White,3280,23.67,4056,20,3245,18,0.45,4.1,2023-05-30,Declining,7,True
+P000079,SKU0000079,JBL Tune 760NC,JBL Tune 760NC Black,Electronics,Headphones,JBL,Tune 760NC,Black,14198,34.14,19045,12,16760,18,0.48,4.7,2025-03-09,Growth,7,True
+P000080,SKU0000080,JBL Tune 760NC,JBL Tune 760NC Blue,Electronics,Headphones,JBL,Tune 760NC,Blue,14198,31.21,18629,10,16766,18,0.27,3.8,2025-09-26,Growth,7,True
+P000081,SKU0000081,JBL Tune 760NC,JBL Tune 760NC White,Electronics,Headphones,JBL,Tune 760NC,White,14198,25.04,17753,18,14557,18,0.47,4.7,2023-12-05,Declining,7,False
+P000082,SKU0000082,JBL Wave Buds,JBL Wave Buds Black,Electronics,Headphones,JBL,Wave Buds,Black,18525,20.4,22304,18,18289,18,0.27,3.6,2023-02-25,Declining,7,True
+P000083,SKU0000083,JBL Wave Buds,JBL Wave Buds Blue,Electronics,Headphones,JBL,Wave Buds,Blue,18525,22.73,22736,12,20008,18,0.28,4.0,2025-02-15,Growth,7,True
+P000084,SKU0000084,JBL Wave Buds,JBL Wave Buds White,Electronics,Headphones,JBL,Wave Buds,White,18525,33.19,24673,12,21712,18,0.13,3.9,2025-05-13,Growth,7,True
+P000076,SKU0000076,Sony WH-1000XM5,Sony WH-1000XM5 Black,Electronics,Headphones,Sony,WH-1000XM5,Black,16375,25.04,20475,5,19451,18,0.25,3.7,2023-10-11,Declining,7,True
+P000077,SKU0000077,Sony WH-1000XM5,Sony WH-1000XM5 Blue,Electronics,Headphones,Sony,WH-1000XM5,Blue,16375,23.21,20176,18,16544,18,0.29,4.0,2025-04-14,Growth,7,True
+P000078,SKU0000078,Sony WH-1000XM5,Sony WH-1000XM5 White,Electronics,Headphones,Sony,WH-1000XM5,White,16375,32.49,21695,18,17790,18,0.41,4.7,2023-02-10,Declining,7,True
+P000073,SKU0000073,Sony WH-CH520,Sony WH-CH520 Black,Electronics,Headphones,Sony,WH-CH520,Black,18728,28.93,24146,20,19317,18,0.46,4.1,2025-10-30,Growth,7,True
+P000074,SKU0000074,Sony WH-CH520,Sony WH-CH520 Blue,Electronics,Headphones,Sony,WH-CH520,Blue,18728,22.39,22921,20,18337,18,0.2,3.9,2025-07-10,Growth,7,True
+P000075,SKU0000075,Sony WH-CH520,Sony WH-CH520 White,Electronics,Headphones,Sony,WH-CH520,White,18728,31.49,24625,20,19700,18,0.13,3.9,2024-05-04,Mature,7,True
+P000063,SKU0000063,Apple MacBook Air M3,Apple MacBook Air M3 16GB/1TB SSD,Electronics,Laptops,Apple,MacBook Air M3,16GB/1TB SSD,183429,14.99,210925,5,200379,18,2.27,4.2,2024-09-07,Mature,7,True
+P000062,SKU0000062,Apple MacBook Air M3,Apple MacBook Air M3 16GB/512GB SSD,Electronics,Laptops,Apple,MacBook Air M3,16GB/512GB SSD,155209,13.49,176147,10,158532,18,2.72,4.1,2025-01-15,Growth,7,False
+P000061,SKU0000061,Apple MacBook Air M3,Apple MacBook Air M3 8GB/512GB SSD,Electronics,Laptops,Apple,MacBook Air M3,8GB/512GB SSD,141099,14.85,162052,5,153949,18,1.5,4.8,2025-02-27,Growth,7,True
+P000066,SKU0000066,Apple MacBook Pro M4,Apple MacBook Pro M4 16GB/1TB SSD,Electronics,Laptops,Apple,MacBook Pro M4,16GB/1TB SSD,171439,13.44,194480,15,165308,18,2.28,4.1,2025-08-10,Growth,7,True
+P000065,SKU0000065,Apple MacBook Pro M4,Apple MacBook Pro M4 16GB/512GB SSD,Electronics,Laptops,Apple,MacBook Pro M4,16GB/512GB SSD,145064,11.39,161587,12,142197,18,1.2,4.3,2025-04-11,Growth,7,True
+P000064,SKU0000064,Apple MacBook Pro M4,Apple MacBook Pro M4 8GB/512GB SSD,Electronics,Laptops,Apple,MacBook Pro M4,8GB/512GB SSD,131876,14.44,150919,10,135827,18,1.81,4.4,2025-05-11,Growth,7,True
+P000060,SKU0000060,Asus ROG Strix,Asus ROG Strix 16GB/1TB SSD,Electronics,Laptops,Asus,ROG Strix,16GB/1TB SSD,87164,17.87,102740,0,102740,18,1.75,4.3,2023-08-11,Declining,7,True
+P000059,SKU0000059,Asus ROG Strix,Asus ROG Strix 16GB/512GB SSD,Electronics,Laptops,Asus,ROG Strix,16GB/512GB SSD,73754,14.29,84293,0,84293,18,1.62,4.7,2023-08-25,Declining,7,True
+P000058,SKU0000058,Asus ROG Strix,Asus ROG Strix 8GB/512GB SSD,Electronics,Laptops,Asus,ROG Strix,8GB/512GB SSD,67049,17.74,78943,12,69470,18,1.84,4.4,2024-12-20,Mature,7,False
+P000057,SKU0000057,Asus Vivobook 15,Asus Vivobook 15 16GB/1TB SSD,Electronics,Laptops,Asus,Vivobook 15,16GB/1TB SSD,116327,16.56,135591,10,122032,18,1.51,3.5,2024-04-01,Mature,7,True
+P000056,SKU0000056,Asus Vivobook 15,Asus Vivobook 15 16GB/512GB SSD,Electronics,Laptops,Asus,Vivobook 15,16GB/512GB SSD,98430,10.31,108578,20,86862,18,2.67,3.8,2024-03-31,Mature,7,True
+P000055,SKU0000055,Asus Vivobook 15,Asus Vivobook 15 8GB/512GB SSD,Electronics,Laptops,Asus,Vivobook 15,8GB/512GB SSD,89482,16.42,104175,10,93758,18,2.32,3.7,2024-06-30,Mature,7,True
+P000039,SKU0000039,Dell Inspiron 15,Dell Inspiron 15 16GB/1TB SSD,Electronics,Laptops,Dell,Inspiron 15,16GB/1TB SSD,128599,16.82,150229,8,138211,18,1.33,4.8,2023-04-27,Declining,7,True
+P000038,SKU0000038,Dell Inspiron 15,Dell Inspiron 15 16GB/512GB SSD,Electronics,Laptops,Dell,Inspiron 15,16GB/512GB SSD,108814,15.89,126105,0,126105,18,2.13,3.6,2024-10-04,Mature,7,True
+P000037,SKU0000037,Dell Inspiron 15,Dell Inspiron 15 8GB/512GB SSD,Electronics,Laptops,Dell,Inspiron 15,8GB/512GB SSD,98922,15.29,114047,20,91238,18,1.55,3.8,2023-11-14,Declining,7,True
+P000042,SKU0000042,Dell XPS 13,Dell XPS 13 16GB/1TB SSD,Electronics,Laptops,Dell,XPS 13,16GB/1TB SSD,131945,12.09,147897,15,125712,18,1.41,3.9,2024-05-03,Mature,7,True
+P000041,SKU0000041,Dell XPS 13,Dell XPS 13 16GB/512GB SSD,Electronics,Laptops,Dell,XPS 13,16GB/512GB SSD,111646,14.76,128125,5,121719,18,2.1,4.4,2025-05-08,Growth,7,True
+P000040,SKU0000040,Dell XPS 13,Dell XPS 13 8GB/512GB SSD,Electronics,Laptops,Dell,XPS 13,8GB/512GB SSD,101496,10.54,112194,10,100975,18,2.62,3.7,2025-04-06,Growth,7,True
+P000045,SKU0000045,HP Pavilion 15,HP Pavilion 15 16GB/1TB SSD,Electronics,Laptops,HP,Pavilion 15,16GB/1TB SSD,120203,17.03,140674,15,119573,18,2.53,3.7,2024-08-06,Mature,7,True
+P000044,SKU0000044,HP Pavilion 15,HP Pavilion 15 16GB/512GB SSD,Electronics,Laptops,HP,Pavilion 15,16GB/512GB SSD,101710,10.59,112481,10,101233,18,2.69,3.9,2025-11-02,Growth,7,True
+P000043,SKU0000043,HP Pavilion 15,HP Pavilion 15 8GB/512GB SSD,Electronics,Laptops,HP,Pavilion 15,8GB/512GB SSD,92464,12.53,104050,5,98848,18,2.8,4.1,2023-01-20,Declining,7,False
+P000048,SKU0000048,HP Victus,HP Victus 16GB/1TB SSD,Electronics,Laptops,HP,Victus,16GB/1TB SSD,133362,11.63,148872,12,131007,18,2.65,4.2,2025-11-01,Growth,7,True
+P000047,SKU0000047,HP Victus,HP Victus 16GB/512GB SSD,Electronics,Laptops,HP,Victus,16GB/512GB SSD,112845,12.12,126522,5,120196,18,2.17,3.9,2023-11-15,Declining,7,True
+P000046,SKU0000046,HP Victus,HP Victus 8GB/512GB SSD,Electronics,Laptops,HP,Victus,8GB/512GB SSD,102586,17.87,120918,0,120918,18,1.37,4.8,2024-09-05,Mature,7,True
+P000051,SKU0000051,Lenovo IdeaPad Slim 5,Lenovo IdeaPad Slim 5 16GB/1TB SSD,Electronics,Laptops,Lenovo,IdeaPad Slim 5,16GB/1TB SSD,89112,15.53,102951,8,94715,18,2.13,4.7,2023-03-15,Declining,7,True
+P000050,SKU0000050,Lenovo IdeaPad Slim 5,Lenovo IdeaPad Slim 5 16GB/512GB SSD,Electronics,Laptops,Lenovo,IdeaPad Slim 5,16GB/512GB SSD,75403,12.1,84527,20,67622,18,1.38,4.3,2025-05-25,Growth,7,False
+P000049,SKU0000049,Lenovo IdeaPad Slim 5,Lenovo IdeaPad Slim 5 8GB/512GB SSD,Electronics,Laptops,Lenovo,IdeaPad Slim 5,8GB/512GB SSD,68548,15.07,78878,12,69413,18,2.43,3.5,2023-04-01,Declining,7,True
+P000054,SKU0000054,Lenovo Legion 5,Lenovo Legion 5 16GB/1TB SSD,Electronics,Laptops,Lenovo,Legion 5,16GB/1TB SSD,92108,16.4,107214,8,98637,18,2.38,3.5,2025-04-24,Growth,7,True
+P000053,SKU0000053,Lenovo Legion 5,Lenovo Legion 5 16GB/512GB SSD,Electronics,Laptops,Lenovo,Legion 5,16GB/512GB SSD,77937,10.82,86370,18,70823,18,1.58,4.8,2023-11-13,Declining,7,True
+P000052,SKU0000052,Lenovo Legion 5,Lenovo Legion 5 8GB/512GB SSD,Electronics,Laptops,Lenovo,Legion 5,8GB/512GB SSD,70852,10.33,78171,15,66445,18,1.54,4.8,2023-03-23,Declining,7,True
+P000089,SKU0000089,Fire-Boltt Ninja Call,Fire-Boltt Ninja Call Black Strap,Electronics,Smart Watches,Fire-Boltt,Ninja Call,Black Strap,23272,24.91,29069,18,23837,18,0.07,4.8,2025-03-23,Growth,7,True
+P000090,SKU0000090,Fire-Boltt Ninja Call,Fire-Boltt Ninja Call Silver Strap,Electronics,Smart Watches,Fire-Boltt,Ninja Call,Silver Strap,23272,27.97,29781,10,26803,18,0.08,4.5,2023-07-28,Declining,7,True
+P000091,SKU0000091,Fire-Boltt Phoenix,Fire-Boltt Phoenix Black Strap,Electronics,Smart Watches,Fire-Boltt,Phoenix,Black Strap,17016,27.55,21704,0,21704,18,0.12,4.2,2024-12-12,Mature,7,True
+P000092,SKU0000092,Fire-Boltt Phoenix,Fire-Boltt Phoenix Silver Strap,Electronics,Smart Watches,Fire-Boltt,Phoenix,Silver Strap,17016,25.77,21401,0,21401,18,0.06,4.7,2025-05-10,Growth,7,False
+P000085,SKU0000085,Noise ColorFit Pro,Noise ColorFit Pro Black Strap,Electronics,Smart Watches,Noise,ColorFit Pro,Black Strap,14756,30.0,19183,15,16306,18,0.13,4.4,2024-04-04,Mature,7,True
+P000086,SKU0000086,Noise ColorFit Pro,Noise ColorFit Pro Silver Strap,Electronics,Smart Watches,Noise,ColorFit Pro,Silver Strap,14756,27.05,18747,10,16872,18,0.11,4.7,2024-02-13,Mature,7,True
+P000087,SKU0000087,Noise Vision 3,Noise Vision 3 Black Strap,Electronics,Smart Watches,Noise,Vision 3,Black Strap,28567,26.03,36003,10,32403,18,0.13,4.5,2025-08-10,Growth,7,True
+P000088,SKU0000088,Noise Vision 3,Noise Vision 3 Silver Strap,Electronics,Smart Watches,Noise,Vision 3,Silver Strap,28567,25.29,35792,5,34002,18,0.06,4.9,2023-12-02,Declining,7,True
+P000093,SKU0000093,Samsung Galaxy Watch 7,Samsung Galaxy Watch 7 Black Strap,Electronics,Smart Watches,Samsung,Galaxy Watch 7,Black Strap,38863,28.7,50017,20,40014,18,0.12,4.1,2023-11-10,Declining,7,False
+P000094,SKU0000094,Samsung Galaxy Watch 7,Samsung Galaxy Watch 7 Silver Strap,Electronics,Smart Watches,Samsung,Galaxy Watch 7,Silver Strap,38863,21.24,47118,20,37694,18,0.12,4.1,2025-08-10,Growth,7,True
+P000010,SKU0000010,Apple iPhone 15,Apple iPhone 15 6GB/128GB/Blue,Electronics,Smartphones,Apple,iPhone 15,6GB/128GB/Blue,86005,12.71,96936,8,89181,18,0.2,4.5,2025-12-29,New Launch,7,True
+P000011,SKU0000011,Apple iPhone 15,Apple iPhone 15 8GB/128GB/Black,Electronics,Smartphones,Apple,iPhone 15,8GB/128GB/Black,86005,21.9,104840,10,94356,18,0.27,4.7,2024-10-26,Mature,7,True
+P000012,SKU0000012,Apple iPhone 15,Apple iPhone 15 8GB/256GB/Green,Electronics,Smartphones,Apple,iPhone 15,8GB/256GB/Green,100339,12.32,112701,15,95796,18,0.21,3.9,2025-04-01,Growth,7,False
+P000013,SKU0000013,Apple iPhone 15 Plus,Apple iPhone 15 Plus 6GB/128GB/Blue,Electronics,Smartphones,Apple,iPhone 15 Plus,6GB/128GB/Blue,74208,14.13,84694,20,67755,18,0.26,4.7,2025-03-21,Growth,7,True
+P000014,SKU0000014,Apple iPhone 15 Plus,Apple iPhone 15 Plus 8GB/128GB/Black,Electronics,Smartphones,Apple,iPhone 15 Plus,8GB/128GB/Black,74208,13.4,84152,12,74054,18,0.23,4.8,2025-05-27,Growth,7,True
+P000015,SKU0000015,Apple iPhone 15 Plus,Apple iPhone 15 Plus 8GB/256GB/Green,Electronics,Smartphones,Apple,iPhone 15 Plus,8GB/256GB/Green,86576,21.98,105605,20,84484,18,0.28,4.6,2023-07-06,Declining,7,True
+P000016,SKU0000016,Apple iPhone 16,Apple iPhone 16 6GB/128GB/Blue,Electronics,Smartphones,Apple,iPhone 16,6GB/128GB/Blue,68733,19.92,82425,18,67588,18,0.25,4.0,2023-05-11,Declining,7,True
+P000017,SKU0000017,Apple iPhone 16,Apple iPhone 16 8GB/128GB/Black,Electronics,Smartphones,Apple,iPhone 16,8GB/128GB/Black,68733,14.51,78706,0,78706,18,0.24,4.5,2023-08-23,Declining,7,True
+P000018,SKU0000018,Apple iPhone 16,Apple iPhone 16 8GB/256GB/Green,Electronics,Smartphones,Apple,iPhone 16,8GB/256GB/Green,80189,18.41,94952,5,90204,18,0.23,4.1,2024-08-24,Mature,7,False
+P000022,SKU0000022,OnePlus 12R,OnePlus 12R 6GB/128GB/Blue,Electronics,Smartphones,OnePlus,12R,6GB/128GB/Blue,66838,20.32,80419,12,70769,18,0.29,3.6,2024-05-05,Mature,7,False
+P000023,SKU0000023,OnePlus 12R,OnePlus 12R 8GB/128GB/Black,Electronics,Smartphones,OnePlus,12R,8GB/128GB/Black,66838,12.86,75433,20,60346,18,0.24,4.9,2023-05-22,Declining,7,True
+P000024,SKU0000024,OnePlus 12R,OnePlus 12R 8GB/256GB/Green,Electronics,Smartphones,OnePlus,12R,8GB/256GB/Green,77978,18.6,92482,8,85083,18,0.25,4.2,2024-06-26,Mature,7,False
+P000019,SKU0000019,OnePlus Nord CE4,OnePlus Nord CE4 6GB/128GB/Blue,Electronics,Smartphones,OnePlus,Nord CE4,6GB/128GB/Blue,62963,19.2,75052,8,69048,18,0.28,4.8,2025-11-05,Growth,7,True
+P000020,SKU0000020,OnePlus Nord CE4,OnePlus Nord CE4 8GB/128GB/Black,Electronics,Smartphones,OnePlus,Nord CE4,8GB/128GB/Black,62963,18.39,74542,10,67088,18,0.2,4.0,2023-11-10,Declining,7,False
+P000021,SKU0000021,OnePlus Nord CE4,OnePlus Nord CE4 8GB/256GB/Green,Electronics,Smartphones,OnePlus,Nord CE4,8GB/256GB/Green,73457,21.22,89045,0,89045,18,0.19,4.2,2024-10-25,Mature,7,True
+P000028,SKU0000028,Realme GT 6,Realme GT 6 6GB/128GB/Blue,Electronics,Smartphones,Realme,GT 6,6GB/128GB/Blue,40681,12.31,45689,15,38836,18,0.21,4.2,2023-05-26,Declining,7,True
+P000029,SKU0000029,Realme GT 6,Realme GT 6 8GB/128GB/Black,Electronics,Smartphones,Realme,GT 6,8GB/128GB/Black,40681,17.39,47755,20,38204,18,0.28,4.6,2024-05-12,Mature,7,True
+P000030,SKU0000030,Realme GT 6,Realme GT 6 8GB/256GB/Green,Electronics,Smartphones,Realme,GT 6,8GB/256GB/Green,47462,12.97,53618,18,43967,18,0.24,4.1,2024-12-26,Mature,7,True
+P000025,SKU0000025,Realme Narzo 70,Realme Narzo 70 6GB/128GB/Blue,Electronics,Smartphones,Realme,Narzo 70,6GB/128GB/Blue,41513,17.39,48732,10,43859,18,0.26,4.1,2024-09-30,Mature,7,True
+P000026,SKU0000026,Realme Narzo 70,Realme Narzo 70 8GB/128GB/Black,Electronics,Smartphones,Realme,Narzo 70,8GB/128GB/Black,41513,21.0,50231,20,40185,18,0.19,3.8,2023-09-05,Declining,7,True
+P000027,SKU0000027,Realme Narzo 70,Realme Narzo 70 8GB/256GB/Green,Electronics,Smartphones,Realme,Narzo 70,8GB/256GB/Green,48432,17.54,56927,10,51234,18,0.26,3.6,2023-01-15,Declining,7,True
+P000034,SKU0000034,Redmi 13C,Redmi 13C 6GB/128GB/Blue,Electronics,Smartphones,Redmi,13C,6GB/128GB/Blue,31719,21.99,38694,0,38694,18,0.28,4.8,2023-07-11,Declining,7,True
+P000035,SKU0000035,Redmi 13C,Redmi 13C 8GB/128GB/Black,Electronics,Smartphones,Redmi,13C,8GB/128GB/Black,31719,16.86,37067,10,33360,18,0.2,4.8,2025-04-01,Growth,7,True
+P000036,SKU0000036,Redmi 13C,Redmi 13C 8GB/256GB/Green,Electronics,Smartphones,Redmi,13C,8GB/256GB/Green,37005,15.9,42889,20,34311,18,0.29,4.1,2024-08-07,Mature,7,False
+P000031,SKU0000031,Redmi Note 13 Pro,Redmi Note 13 Pro 6GB/128GB/Blue,Electronics,Smartphones,Redmi,Note 13 Pro,6GB/128GB/Blue,32469,18.53,38486,5,36562,18,0.22,4.1,2023-05-05,Declining,7,True
+P000032,SKU0000032,Redmi Note 13 Pro,Redmi Note 13 Pro 8GB/128GB/Black,Electronics,Smartphones,Redmi,Note 13 Pro,8GB/128GB/Black,32469,14.49,37174,10,33457,18,0.2,3.7,2025-07-07,Growth,7,True
+P000033,SKU0000033,Redmi Note 13 Pro,Redmi Note 13 Pro 8GB/256GB/Green,Electronics,Smartphones,Redmi,Note 13 Pro,8GB/256GB/Green,37881,20.74,45738,5,43451,18,0.28,4.6,2025-06-26,Growth,7,True
+P000007,SKU0000007,Samsung Galaxy A55,Samsung Galaxy A55 6GB/128GB/Blue,Electronics,Smartphones,Samsung,Galaxy A55,6GB/128GB/Blue,85319,18.19,100839,15,85713,18,0.19,4.5,2024-01-29,Mature,7,True
+P000008,SKU0000008,Samsung Galaxy A55,Samsung Galaxy A55 8GB/128GB/Black,Electronics,Smartphones,Samsung,Galaxy A55,8GB/128GB/Black,85319,14.89,98023,5,93122,18,0.23,4.7,2024-04-21,Mature,7,True
+P000009,SKU0000009,Samsung Galaxy A55,Samsung Galaxy A55 8GB/256GB/Green,Electronics,Smartphones,Samsung,Galaxy A55,8GB/256GB/Green,99539,20.34,119785,8,110202,18,0.26,4.0,2025-01-28,Growth,7,True
+P000001,SKU0000001,Samsung Galaxy M35,Samsung Galaxy M35 6GB/128GB/Blue,Electronics,Smartphones,Samsung,Galaxy M35,6GB/128GB/Blue,85700,13.11,96935,12,85303,18,0.27,3.8,2024-05-16,Mature,7,True
+P000002,SKU0000002,Samsung Galaxy M35,Samsung Galaxy M35 8GB/128GB/Black,Electronics,Smartphones,Samsung,Galaxy M35,8GB/128GB/Black,85700,20.92,103628,5,98447,18,0.19,3.5,2025-05-14,Growth,7,True
+P000003,SKU0000003,Samsung Galaxy M35,Samsung Galaxy M35 8GB/256GB/Green,Electronics,Smartphones,Samsung,Galaxy M35,8GB/256GB/Green,99984,18.02,118001,10,106201,18,0.25,3.8,2025-05-09,Growth,7,True
+P000004,SKU0000004,Samsung Galaxy S24,Samsung Galaxy S24 6GB/128GB/Blue,Electronics,Smartphones,Samsung,Galaxy S24,6GB/128GB/Blue,63301,19.59,75702,8,69646,18,0.2,4.0,2025-05-15,Growth,7,False
+P000005,SKU0000005,Samsung Galaxy S24,Samsung Galaxy S24 8GB/128GB/Black,Electronics,Smartphones,Samsung,Galaxy S24,8GB/128GB/Black,63301,15.37,73030,5,69378,18,0.28,3.6,2025-02-17,Growth,7,True
+P000006,SKU0000006,Samsung Galaxy S24,Samsung Galaxy S24 8GB/256GB/Green,Electronics,Smartphones,Samsung,Galaxy S24,8GB/256GB/Green,73851,20.07,88673,20,70938,18,0.23,4.9,2023-09-13,Declining,7,True
+P000109,SKU0000109,Allen Solly Casual Shirt,Allen Solly Casual Shirt L,Fashion,Men Clothing,Allen Solly,Casual Shirt,L,2162,37.13,2965,10,2668,12,0.37,4.3,2023-08-31,Declining,10,True
+P000108,SKU0000108,Allen Solly Casual Shirt,Allen Solly Casual Shirt M,Fashion,Men Clothing,Allen Solly,Casual Shirt,M,2162,45.02,3135,5,2978,12,0.52,3.7,2023-04-20,Declining,10,False
+P000107,SKU0000107,Allen Solly Casual Shirt,Allen Solly Casual Shirt S,Fashion,Men Clothing,Allen Solly,Casual Shirt,S,2162,43.52,3103,0,3103,12,0.39,4.8,2024-06-01,Mature,10,True
+P000110,SKU0000110,Allen Solly Casual Shirt,Allen Solly Casual Shirt XL,Fashion,Men Clothing,Allen Solly,Casual Shirt,XL,2162,50.46,3253,18,2667,12,0.32,4.8,2025-07-11,Growth,10,True
+P000105,SKU0000105,Allen Solly Formal Shirt,Allen Solly Formal Shirt L,Fashion,Men Clothing,Allen Solly,Formal Shirt,L,1639,52.7,2503,8,2303,12,0.22,3.6,2024-07-15,Mature,10,True
+P000104,SKU0000104,Allen Solly Formal Shirt,Allen Solly Formal Shirt M,Fashion,Men Clothing,Allen Solly,Formal Shirt,M,1639,42.07,2329,5,2213,12,0.34,3.9,2024-02-02,Mature,10,True
+P000103,SKU0000103,Allen Solly Formal Shirt,Allen Solly Formal Shirt S,Fashion,Men Clothing,Allen Solly,Formal Shirt,S,1639,39.79,2291,20,1833,12,0.59,4.5,2024-07-20,Mature,10,True
+P000106,SKU0000106,Allen Solly Formal Shirt,Allen Solly Formal Shirt XL,Fashion,Men Clothing,Allen Solly,Formal Shirt,XL,1639,58.6,2599,20,2079,12,0.43,4.7,2023-07-30,Declining,10,True
+P000097,SKU0000097,Levis 511 Jeans,Levis 511 Jeans L,Fashion,Men Clothing,Levis,511 Jeans,L,1762,40.3,2472,12,2175,12,0.44,3.9,2024-11-28,Mature,10,True
+P000096,SKU0000096,Levis 511 Jeans,Levis 511 Jeans M,Fashion,Men Clothing,Levis,511 Jeans,M,1762,50.26,2648,18,2171,12,0.54,3.5,2024-11-19,Mature,10,True
+P000095,SKU0000095,Levis 511 Jeans,Levis 511 Jeans S,Fashion,Men Clothing,Levis,511 Jeans,S,1762,55.77,2745,5,2608,12,0.3,4.7,2024-07-25,Mature,10,True
+P000098,SKU0000098,Levis 511 Jeans,Levis 511 Jeans XL,Fashion,Men Clothing,Levis,511 Jeans,XL,1762,48.89,2623,10,2361,12,0.36,3.8,2023-06-25,Declining,10,True
+P000101,SKU0000101,Levis Slim Fit Shirt,Levis Slim Fit Shirt L,Fashion,Men Clothing,Levis,Slim Fit Shirt,L,1752,53.65,2692,15,2288,12,0.31,4.5,2024-12-21,Mature,10,True
+P000100,SKU0000100,Levis Slim Fit Shirt,Levis Slim Fit Shirt M,Fashion,Men Clothing,Levis,Slim Fit Shirt,M,1752,52.29,2668,12,2348,12,0.41,4.2,2025-01-25,Growth,10,True
+P000099,SKU0000099,Levis Slim Fit Shirt,Levis Slim Fit Shirt S,Fashion,Men Clothing,Levis,Slim Fit Shirt,S,1752,52.27,2668,20,2134,12,0.24,4.6,2025-07-06,Growth,10,True
+P000102,SKU0000102,Levis Slim Fit Shirt,Levis Slim Fit Shirt XL,Fashion,Men Clothing,Levis,Slim Fit Shirt,XL,1752,38.02,2418,10,2176,12,0.41,3.7,2024-10-08,Mature,10,True
+P000117,SKU0000117,Peter England Cotton Shirt,Peter England Cotton Shirt L,Fashion,Men Clothing,Peter England,Cotton Shirt,L,2614,55.61,4068,12,3580,12,0.48,3.7,2025-06-18,Growth,10,True
+P000116,SKU0000116,Peter England Cotton Shirt,Peter England Cotton Shirt M,Fashion,Men Clothing,Peter England,Cotton Shirt,M,2614,41.64,3702,8,3406,12,0.52,3.6,2023-05-27,Declining,10,True
+P000115,SKU0000115,Peter England Cotton Shirt,Peter England Cotton Shirt S,Fashion,Men Clothing,Peter England,Cotton Shirt,S,2614,55.1,4054,10,3649,12,0.29,3.7,2025-05-20,Growth,10,True
+P000118,SKU0000118,Peter England Cotton Shirt,Peter England Cotton Shirt XL,Fashion,Men Clothing,Peter England,Cotton Shirt,XL,2614,58.57,4145,20,3316,12,0.22,3.6,2025-06-15,Growth,10,True
+P000113,SKU0000113,Peter England Trouser,Peter England Trouser L,Fashion,Men Clothing,Peter England,Trouser,L,2138,46.26,3127,20,2502,12,0.32,3.5,2024-08-19,Mature,10,True
+P000112,SKU0000112,Peter England Trouser,Peter England Trouser M,Fashion,Men Clothing,Peter England,Trouser,M,2138,51.51,3239,8,2980,12,0.23,3.7,2024-05-06,Mature,10,True
+P000111,SKU0000111,Peter England Trouser,Peter England Trouser S,Fashion,Men Clothing,Peter England,Trouser,S,2138,42.63,3049,0,3049,12,0.28,4.8,2023-07-23,Declining,10,True
+P000114,SKU0000114,Peter England Trouser,Peter England Trouser XL,Fashion,Men Clothing,Peter England,Trouser,XL,2138,56.49,3346,5,3179,12,0.52,4.8,2024-04-23,Mature,10,True
+P000158,SKU0000158,Adidas Run Falcon,Adidas Run Falcon Size 10,Fashion,Shoes,Adidas,Run Falcon,Size 10,6862,39.1,9545,12,8400,12,1.44,4.7,2025-02-19,Growth,10,True
+P000155,SKU0000155,Adidas Run Falcon,Adidas Run Falcon Size 7,Fashion,Shoes,Adidas,Run Falcon,Size 7,6862,48.28,10175,20,8140,12,0.84,4.5,2024-08-27,Mature,10,True
+P000156,SKU0000156,Adidas Run Falcon,Adidas Run Falcon Size 8,Fashion,Shoes,Adidas,Run Falcon,Size 8,6862,49.26,10242,8,9423,12,1.22,4.7,2024-04-07,Mature,10,False
+P000157,SKU0000157,Adidas Run Falcon,Adidas Run Falcon Size 9,Fashion,Shoes,Adidas,Run Falcon,Size 9,6862,49.35,10248,15,8711,12,0.51,4.6,2023-07-04,Declining,10,True
+P000154,SKU0000154,Adidas Ultraboost,Adidas Ultraboost Size 10,Fashion,Shoes,Adidas,Ultraboost,Size 10,6752,33.51,9015,8,8294,12,1.41,4.2,2025-01-19,Growth,10,True
+P000151,SKU0000151,Adidas Ultraboost,Adidas Ultraboost Size 7,Fashion,Shoes,Adidas,Ultraboost,Size 7,6752,42.14,9597,15,8157,12,1.12,4.4,2024-03-24,Mature,10,True
+P000152,SKU0000152,Adidas Ultraboost,Adidas Ultraboost Size 8,Fashion,Shoes,Adidas,Ultraboost,Size 8,6752,44.42,9751,8,8971,12,1.15,4.8,2023-07-18,Declining,10,True
+P000153,SKU0000153,Adidas Ultraboost,Adidas Ultraboost Size 9,Fashion,Shoes,Adidas,Ultraboost,Size 9,6752,38.82,9373,15,7967,12,0.8,3.6,2023-09-27,Declining,10,True
+P000174,SKU0000174,Bata Formal Shoes,Bata Formal Shoes Size 10,Fashion,Shoes,Bata,Formal Shoes,Size 10,2954,46.95,4341,18,3560,12,1.41,4.2,2023-08-10,Declining,10,True
+P000171,SKU0000171,Bata Formal Shoes,Bata Formal Shoes Size 7,Fashion,Shoes,Bata,Formal Shoes,Size 7,2954,33.48,3943,0,3943,12,1.03,4.5,2023-09-17,Declining,10,True
+P000172,SKU0000172,Bata Formal Shoes,Bata Formal Shoes Size 8,Fashion,Shoes,Bata,Formal Shoes,Size 8,2954,39.52,4121,15,3503,12,0.95,4.3,2025-11-17,Growth,10,True
+P000173,SKU0000173,Bata Formal Shoes,Bata Formal Shoes Size 9,Fashion,Shoes,Bata,Formal Shoes,Size 9,2954,42.3,4204,12,3700,12,0.53,4.4,2025-07-27,Growth,10,False
+P000170,SKU0000170,Bata Power Sneakers,Bata Power Sneakers Size 10,Fashion,Shoes,Bata,Power Sneakers,Size 10,6112,47.33,9005,8,8285,12,1.29,4.0,2023-01-31,Declining,10,True
+P000167,SKU0000167,Bata Power Sneakers,Bata Power Sneakers Size 7,Fashion,Shoes,Bata,Power Sneakers,Size 7,6112,36.67,8353,8,7685,12,1.27,3.6,2024-02-25,Mature,10,True
+P000168,SKU0000168,Bata Power Sneakers,Bata Power Sneakers Size 8,Fashion,Shoes,Bata,Power Sneakers,Size 8,6112,34.32,8210,10,7389,12,1.29,4.6,2024-11-03,Mature,10,True
+P000169,SKU0000169,Bata Power Sneakers,Bata Power Sneakers Size 9,Fashion,Shoes,Bata,Power Sneakers,Size 9,6112,35.55,8285,8,7622,12,1.3,4.3,2023-09-24,Declining,10,True
+P000146,SKU0000146,Nike Air Max,Nike Air Max Size 10,Fashion,Shoes,Nike,Air Max,Size 10,7011,30.19,9128,20,7302,12,0.66,4.4,2024-08-12,Mature,10,True
+P000143,SKU0000143,Nike Air Max,Nike Air Max Size 7,Fashion,Shoes,Nike,Air Max,Size 7,7011,37.17,9617,18,7886,12,0.91,3.8,2023-10-26,Declining,10,True
+P000144,SKU0000144,Nike Air Max,Nike Air Max Size 8,Fashion,Shoes,Nike,Air Max,Size 8,7011,33.6,9367,8,8618,12,0.88,4.4,2023-06-11,Declining,10,True
+P000145,SKU0000145,Nike Air Max,Nike Air Max Size 9,Fashion,Shoes,Nike,Air Max,Size 9,7011,39.95,9812,8,9027,12,0.75,4.1,2024-04-20,Mature,10,True
+P000150,SKU0000150,Nike Revolution 7,Nike Revolution 7 Size 10,Fashion,Shoes,Nike,Revolution 7,Size 10,7225,41.32,10210,0,10210,12,1.4,4.7,2025-10-14,Growth,10,True
+P000147,SKU0000147,Nike Revolution 7,Nike Revolution 7 Size 7,Fashion,Shoes,Nike,Revolution 7,Size 7,7225,49.75,10819,12,9521,12,0.96,4.5,2025-05-18,Growth,10,True
+P000148,SKU0000148,Nike Revolution 7,Nike Revolution 7 Size 8,Fashion,Shoes,Nike,Revolution 7,Size 8,7225,49.99,10837,20,8670,12,1.07,3.8,2023-08-07,Declining,10,True
+P000149,SKU0000149,Nike Revolution 7,Nike Revolution 7 Size 9,Fashion,Shoes,Nike,Revolution 7,Size 9,7225,49.85,10827,12,9528,12,1.16,4.9,2023-02-14,Declining,10,True
+P000166,SKU0000166,Puma Running Shoes,Puma Running Shoes Size 10,Fashion,Shoes,Puma,Running Shoes,Size 10,5411,46.48,7926,5,7530,12,1.1,4.4,2024-03-10,Mature,10,True
+P000163,SKU0000163,Puma Running Shoes,Puma Running Shoes Size 7,Fashion,Shoes,Puma,Running Shoes,Size 7,5411,38.16,7476,12,6579,12,0.72,4.5,2023-03-09,Declining,10,True
+P000164,SKU0000164,Puma Running Shoes,Puma Running Shoes Size 8,Fashion,Shoes,Puma,Running Shoes,Size 8,5411,34.72,7290,15,6196,12,0.87,4.9,2023-07-23,Declining,10,False
+P000165,SKU0000165,Puma Running Shoes,Puma Running Shoes Size 9,Fashion,Shoes,Puma,Running Shoes,Size 9,5411,42.9,7732,0,7732,12,1.47,3.9,2025-03-26,Growth,10,False
+P000162,SKU0000162,Puma Smash V2,Puma Smash V2 Size 10,Fashion,Shoes,Puma,Smash V2,Size 10,3847,43.41,5517,18,4524,12,1.15,4.7,2023-11-13,Declining,10,True
+P000159,SKU0000159,Puma Smash V2,Puma Smash V2 Size 7,Fashion,Shoes,Puma,Smash V2,Size 7,3847,39.43,5364,15,4559,12,1.14,4.4,2024-03-29,Mature,10,True
+P000160,SKU0000160,Puma Smash V2,Puma Smash V2 Size 8,Fashion,Shoes,Puma,Smash V2,Size 8,3847,44.02,5540,18,4543,12,1.45,3.7,2023-08-27,Declining,10,True
+P000161,SKU0000161,Puma Smash V2,Puma Smash V2 Size 9,Fashion,Shoes,Puma,Smash V2,Size 9,3847,39.85,5380,5,5111,12,0.64,4.7,2024-04-25,Mature,10,True
+P000121,SKU0000121,Biba Kurti,Biba Kurti L,Fashion,Women Clothing,Biba,Kurti,L,3100,47.97,4587,20,3670,12,0.55,3.8,2024-07-23,Mature,10,True
+P000120,SKU0000120,Biba Kurti,Biba Kurti M,Fashion,Women Clothing,Biba,Kurti,M,3100,49.68,4640,0,4640,12,0.66,4.3,2024-07-05,Mature,10,True
+P000119,SKU0000119,Biba Kurti,Biba Kurti S,Fashion,Women Clothing,Biba,Kurti,S,3100,50.09,4653,0,4653,12,0.6,3.8,2023-07-07,Declining,10,True
+P000122,SKU0000122,Biba Kurti,Biba Kurti XL,Fashion,Women Clothing,Biba,Kurti,XL,3100,47.29,4566,5,4338,12,0.4,4.0,2025-08-20,Growth,10,True
+P000125,SKU0000125,Biba Suit Set,Biba Suit Set L,Fashion,Women Clothing,Biba,Suit Set,L,2438,56.62,3818,0,3818,12,0.31,4.1,2025-08-04,Growth,10,True
+P000124,SKU0000124,Biba Suit Set,Biba Suit Set M,Fashion,Women Clothing,Biba,Suit Set,M,2438,35.92,3314,5,3148,12,0.27,3.9,2024-10-06,Mature,10,True
+P000123,SKU0000123,Biba Suit Set,Biba Suit Set S,Fashion,Women Clothing,Biba,Suit Set,S,2438,43.25,3492,20,2794,12,0.44,4.4,2024-08-13,Mature,10,True
+P000126,SKU0000126,Biba Suit Set,Biba Suit Set XL,Fashion,Women Clothing,Biba,Suit Set,XL,2438,53.91,3752,20,3002,12,0.53,3.8,2023-04-16,Declining,10,False
+P000137,SKU0000137,Libas Anarkali,Libas Anarkali L,Fashion,Women Clothing,Libas,Anarkali,L,2758,49.75,4130,5,3924,12,0.75,3.6,2025-06-20,Growth,10,True
+P000136,SKU0000136,Libas Anarkali,Libas Anarkali M,Fashion,Women Clothing,Libas,Anarkali,M,2758,55.29,4283,18,3512,12,0.22,4.2,2023-11-08,Declining,10,True
+P000135,SKU0000135,Libas Anarkali,Libas Anarkali S,Fashion,Women Clothing,Libas,Anarkali,S,2758,49.29,4117,10,3705,12,0.65,3.6,2025-04-21,Growth,10,True
+P000138,SKU0000138,Libas Anarkali,Libas Anarkali XL,Fashion,Women Clothing,Libas,Anarkali,XL,2758,38.6,3823,8,3517,12,0.78,4.2,2023-06-03,Declining,10,True
+P000141,SKU0000141,Libas Kurta,Libas Kurta L,Fashion,Women Clothing,Libas,Kurta,L,3408,40.69,4795,5,4555,12,0.66,4.9,2025-06-07,Growth,10,True
+P000140,SKU0000140,Libas Kurta,Libas Kurta M,Fashion,Women Clothing,Libas,Kurta,M,3408,53.99,5248,0,5248,12,0.61,3.8,2023-05-21,Declining,10,True
+P000139,SKU0000139,Libas Kurta,Libas Kurta S,Fashion,Women Clothing,Libas,Kurta,S,3408,51.25,5155,15,4382,12,0.39,4.0,2025-12-28,New Launch,10,True
+P000142,SKU0000142,Libas Kurta,Libas Kurta XL,Fashion,Women Clothing,Libas,Kurta,XL,3408,37.51,4686,8,4311,12,0.23,4.8,2024-09-05,Mature,10,True
+P000133,SKU0000133,W Palazzo Set,W Palazzo Set L,Fashion,Women Clothing,W,Palazzo Set,L,2372,59.97,3794,20,3035,12,0.49,4.1,2023-11-01,Declining,10,True
+P000132,SKU0000132,W Palazzo Set,W Palazzo Set M,Fashion,Women Clothing,W,Palazzo Set,M,2372,58.36,3756,12,3305,12,0.38,3.9,2023-01-06,Declining,10,True
+P000131,SKU0000131,W Palazzo Set,W Palazzo Set S,Fashion,Women Clothing,W,Palazzo Set,S,2372,44.59,3430,8,3156,12,0.67,3.9,2023-05-23,Declining,10,True
+P000134,SKU0000134,W Palazzo Set,W Palazzo Set XL,Fashion,Women Clothing,W,Palazzo Set,XL,2372,54.07,3655,18,2997,12,0.72,4.8,2025-07-21,Growth,10,False
+P000129,SKU0000129,W Printed Kurta,W Printed Kurta L,Fashion,Women Clothing,W,Printed Kurta,L,3574,57.82,5640,20,4512,12,0.29,4.4,2023-08-29,Declining,10,False
+P000128,SKU0000128,W Printed Kurta,W Printed Kurta M,Fashion,Women Clothing,W,Printed Kurta,M,3574,52.74,5459,12,4804,12,0.26,4.3,2023-01-29,Declining,10,False
+P000127,SKU0000127,W Printed Kurta,W Printed Kurta S,Fashion,Women Clothing,W,Printed Kurta,S,3574,57.02,5612,20,4490,12,0.58,3.5,2023-09-06,Declining,10,True
+P000130,SKU0000130,W Printed Kurta,W Printed Kurta XL,Fashion,Women Clothing,W,Printed Kurta,XL,3574,42.3,5086,12,4476,12,0.79,4.7,2025-04-30,Growth,10,True
+P000262,SKU0000262,SleepyCat Mattress,SleepyCat Mattress King,Furniture,Bedroom,SleepyCat,Mattress,King,25601,20.05,30734,15,26124,18,16.84,4.7,2023-03-26,Declining,10,True
+P000261,SKU0000261,SleepyCat Mattress,SleepyCat Mattress Queen,Furniture,Bedroom,SleepyCat,Mattress,Queen,25601,25.5,32129,5,30523,18,53.47,4.4,2025-10-26,Growth,10,True
+P000260,SKU0000260,Wakefit Queen Bed,Wakefit Queen Bed King,Furniture,Bedroom,Wakefit,Queen Bed,King,38477,29.29,49747,12,43777,18,56.28,3.9,2023-06-11,Declining,10,True
+P000259,SKU0000259,Wakefit Queen Bed,Wakefit Queen Bed Queen,Furniture,Bedroom,Wakefit,Queen Bed,Queen,38477,19.84,46111,8,42422,18,61.11,4.0,2023-11-28,Declining,10,True
+P000258,SKU0000258,Featherlite Office Desk,Featherlite Office Desk Standard,Furniture,Office,Featherlite,Office Desk,Standard,12641,28.82,16284,8,14981,18,36.05,4.2,2025-06-05,Growth,10,True
+P000257,SKU0000257,Green Soul Ergonomic Chair,Green Soul Ergonomic Chair Standard,Furniture,Office,Green Soul,Ergonomic Chair,Standard,12662,21.11,15335,20,12268,18,36.34,4.0,2025-11-25,Growth,10,True
+P000227,SKU0000227,Bru Instant Coffee,Bru Instant Coffee 1L,Grocery,Beverages,Bru,Instant Coffee,1L,316,18.33,374,8,344,12,1.69,3.9,2023-03-20,Declining,3,True
+P000228,SKU0000228,Bru Instant Coffee,Bru Instant Coffee 2L,Grocery,Beverages,Bru,Instant Coffee,2L,316,13.11,357,20,286,12,1.83,4.4,2025-07-07,Growth,3,True
+P000226,SKU0000226,Bru Instant Coffee,Bru Instant Coffee 500ml,Grocery,Beverages,Bru,Instant Coffee,500ml,316,15.0,363,0,363,12,1.71,4.8,2024-10-14,Mature,3,True
+P000224,SKU0000224,Nestle Nescafe Classic,Nestle Nescafe Classic 1L,Grocery,Beverages,Nestle,Nescafe Classic,1L,327,16.11,380,18,312,12,0.6,4.8,2023-07-07,Declining,3,True
+P000225,SKU0000225,Nestle Nescafe Classic,Nestle Nescafe Classic 2L,Grocery,Beverages,Nestle,Nescafe Classic,2L,327,14.8,375,0,375,12,1.1,3.6,2025-04-29,Growth,3,True
+P000223,SKU0000223,Nestle Nescafe Classic,Nestle Nescafe Classic 500ml,Grocery,Beverages,Nestle,Nescafe Classic,500ml,327,17.69,385,5,366,12,0.49,3.6,2024-08-06,Mature,3,True
+P000217,SKU0000217,Britannia Good Day,Britannia Good Day 100g,Grocery,Snacks,Britannia,Good Day,100g,166,21.62,202,8,186,12,0.22,3.7,2025-02-10,Growth,3,True
+P000218,SKU0000218,Britannia Good Day,Britannia Good Day 250g,Grocery,Snacks,Britannia,Good Day,250g,166,21.25,201,8,185,12,0.4,3.6,2025-06-15,Growth,3,True
+P000219,SKU0000219,Britannia Good Day,Britannia Good Day 500g,Grocery,Snacks,Britannia,Good Day,500g,166,24.7,207,12,182,12,0.28,3.8,2025-07-08,Growth,3,False
+P000220,SKU0000220,Britannia Marie Gold,Britannia Marie Gold 100g,Grocery,Snacks,Britannia,Marie Gold,100g,357,19.69,427,10,384,12,0.59,4.4,2025-01-23,Growth,3,True
+P000221,SKU0000221,Britannia Marie Gold,Britannia Marie Gold 250g,Grocery,Snacks,Britannia,Marie Gold,250g,357,22.69,438,18,359,12,0.97,4.2,2025-10-26,Growth,3,True
+P000222,SKU0000222,Britannia Marie Gold,Britannia Marie Gold 500g,Grocery,Snacks,Britannia,Marie Gold,500g,357,23.01,439,8,404,12,0.51,3.6,2024-05-27,Mature,3,True
+P000211,SKU0000211,Parle Hide & Seek,Parle Hide & Seek 100g,Grocery,Snacks,Parle,Hide & Seek,100g,229,17.52,269,8,247,12,0.68,3.6,2024-11-13,Mature,3,False
+P000212,SKU0000212,Parle Hide & Seek,Parle Hide & Seek 250g,Grocery,Snacks,Parle,Hide & Seek,250g,229,18.1,270,18,221,12,0.94,4.3,2023-09-22,Declining,3,True
+P000213,SKU0000213,Parle Hide & Seek,Parle Hide & Seek 500g,Grocery,Snacks,Parle,Hide & Seek,500g,229,18.77,272,15,231,12,0.84,4.4,2023-09-19,Declining,3,True
+P000214,SKU0000214,Parle Monaco,Parle Monaco 100g,Grocery,Snacks,Parle,Monaco,100g,332,24.12,412,5,391,12,0.07,4.2,2025-05-17,Growth,3,True
+P000215,SKU0000215,Parle Monaco,Parle Monaco 250g,Grocery,Snacks,Parle,Monaco,250g,332,24.51,413,15,351,12,1.0,3.8,2025-09-22,Growth,3,True
+P000216,SKU0000216,Parle Monaco,Parle Monaco 500g,Grocery,Snacks,Parle,Monaco,500g,332,17.96,392,5,372,12,0.84,4.6,2025-11-05,Growth,3,True
+P000198,SKU0000198,Aashirvaad Whole Wheat Atta,Aashirvaad Whole Wheat Atta 10kg,Grocery,Staples,Aashirvaad,Whole Wheat Atta,10kg,1048,10.8,1161,5,1103,5,7.59,4.7,2025-03-21,Growth,3,True
+P000196,SKU0000196,Aashirvaad Whole Wheat Atta,Aashirvaad Whole Wheat Atta 1kg,Grocery,Staples,Aashirvaad,Whole Wheat Atta,1kg,1048,10.03,1153,18,945,5,2.13,4.9,2023-02-12,Declining,3,False
+P000197,SKU0000197,Aashirvaad Whole Wheat Atta,Aashirvaad Whole Wheat Atta 5kg,Grocery,Staples,Aashirvaad,Whole Wheat Atta,5kg,1048,11.22,1166,15,991,5,1.51,4.1,2023-06-30,Declining,3,True
+P000201,SKU0000201,Fortune Basmati Rice,Fortune Basmati Rice 10kg,Grocery,Staples,Fortune,Basmati Rice,10kg,1418,9.07,1547,5,1470,5,6.47,4.8,2023-12-29,Declining,3,True
+P000199,SKU0000199,Fortune Basmati Rice,Fortune Basmati Rice 1kg,Grocery,Staples,Fortune,Basmati Rice,1kg,1418,9.18,1548,5,1471,5,9.11,4.2,2025-12-22,Growth,3,True
+P000200,SKU0000200,Fortune Basmati Rice,Fortune Basmati Rice 5kg,Grocery,Staples,Fortune,Basmati Rice,5kg,1418,13.09,1604,8,1476,5,2.93,3.6,2024-04-28,Mature,3,True
+P000204,SKU0000204,Fortune Sunflower Oil,Fortune Sunflower Oil 10kg,Grocery,Staples,Fortune,Sunflower Oil,10kg,1198,8.52,1300,20,1040,5,4.0,3.6,2025-07-14,Growth,3,True
+P000202,SKU0000202,Fortune Sunflower Oil,Fortune Sunflower Oil 1kg,Grocery,Staples,Fortune,Sunflower Oil,1kg,1198,13.32,1358,20,1086,5,6.46,4.7,2024-10-23,Mature,3,True
+P000203,SKU0000203,Fortune Sunflower Oil,Fortune Sunflower Oil 5kg,Grocery,Staples,Fortune,Sunflower Oil,5kg,1198,8.48,1300,20,1040,5,6.12,4.6,2024-09-12,Mature,3,True
+P000207,SKU0000207,Tata Salt,Tata Salt 10kg,Grocery,Staples,Tata,Salt,10kg,1281,12.24,1438,8,1323,5,8.2,4.1,2023-05-07,Declining,3,True
+P000205,SKU0000205,Tata Salt,Tata Salt 1kg,Grocery,Staples,Tata,Salt,1kg,1281,14.05,1461,5,1388,5,6.01,4.0,2025-11-04,Growth,3,False
+P000206,SKU0000206,Tata Salt,Tata Salt 5kg,Grocery,Staples,Tata,Salt,5kg,1281,13.17,1450,0,1450,5,5.93,4.8,2025-07-10,Growth,3,True
+P000210,SKU0000210,Tata Tea,Tata Tea 10kg,Grocery,Staples,Tata,Tea,10kg,1352,10.37,1492,0,1492,5,1.4,3.6,2024-11-16,Mature,3,True
+P000208,SKU0000208,Tata Tea,Tata Tea 1kg,Grocery,Staples,Tata,Tea,1kg,1352,8.59,1468,8,1351,5,4.66,3.8,2023-03-22,Declining,3,True
+P000209,SKU0000209,Tata Tea,Tata Tea 5kg,Grocery,Staples,Tata,Tea,5kg,1352,11.66,1510,8,1389,5,3.19,4.0,2025-01-15,Growth,3,True
+P000181,SKU0000181,Pigeon Cookware Set,Pigeon Cookware Set 2L,Home & Kitchen,Cookware,Pigeon,Cookware Set,2L,3060,33.4,4082,18,3347,18,4.74,4.7,2024-12-25,Mature,7,True
+P000182,SKU0000182,Pigeon Cookware Set,Pigeon Cookware Set 3L,Home & Kitchen,Cookware,Pigeon,Cookware Set,3L,3060,38.32,4233,0,4233,18,2.08,4.3,2024-08-12,Mature,7,True
+P000183,SKU0000183,Pigeon Cookware Set,Pigeon Cookware Set 5L,Home & Kitchen,Cookware,Pigeon,Cookware Set,5L,3060,24.25,3802,20,3042,18,2.08,4.7,2024-04-04,Mature,7,True
+P000184,SKU0000184,Pigeon Tawa,Pigeon Tawa 2L,Home & Kitchen,Cookware,Pigeon,Tawa,2L,2180,35.25,2948,10,2653,18,4.89,4.7,2025-05-28,Growth,7,True
+P000185,SKU0000185,Pigeon Tawa,Pigeon Tawa 3L,Home & Kitchen,Cookware,Pigeon,Tawa,3L,2180,32.27,2883,0,2883,18,1.73,3.5,2024-07-01,Mature,7,True
+P000186,SKU0000186,Pigeon Tawa,Pigeon Tawa 5L,Home & Kitchen,Cookware,Pigeon,Tawa,5L,2180,38.43,3018,15,2565,18,1.14,3.8,2023-01-13,Declining,7,True
+P000178,SKU0000178,Prestige Non-Stick Pan,Prestige Non-Stick Pan 2L,Home & Kitchen,Cookware,Prestige,Non-Stick Pan,2L,3567,27.97,4565,5,4337,18,3.49,4.1,2024-10-02,Mature,7,True
+P000179,SKU0000179,Prestige Non-Stick Pan,Prestige Non-Stick Pan 3L,Home & Kitchen,Cookware,Prestige,Non-Stick Pan,3L,3567,23.05,4389,20,3511,18,0.88,3.6,2023-05-18,Declining,7,True
+P000180,SKU0000180,Prestige Non-Stick Pan,Prestige Non-Stick Pan 5L,Home & Kitchen,Cookware,Prestige,Non-Stick Pan,5L,3567,34.89,4812,15,4090,18,3.14,4.3,2023-09-24,Declining,7,True
+P000175,SKU0000175,Prestige Pressure Cooker,Prestige Pressure Cooker 2L,Home & Kitchen,Cookware,Prestige,Pressure Cooker,2L,2040,26.44,2579,8,2373,18,3.31,3.7,2023-05-15,Declining,7,True
+P000176,SKU0000176,Prestige Pressure Cooker,Prestige Pressure Cooker 3L,Home & Kitchen,Cookware,Prestige,Pressure Cooker,3L,2040,34.24,2738,18,2245,18,2.77,3.9,2025-12-22,Growth,7,True
+P000177,SKU0000177,Prestige Pressure Cooker,Prestige Pressure Cooker 5L,Home & Kitchen,Cookware,Prestige,Pressure Cooker,5L,2040,35.86,2772,5,2633,18,4.5,4.1,2024-03-16,Mature,7,True
+P000187,SKU0000187,Butterfly Mixer Grinder,Butterfly Mixer Grinder Standard,Home & Kitchen,Kitchen Appliances,Butterfly,Mixer Grinder,Standard,6120,19.7,7326,0,7326,18,3.29,4.5,2023-07-07,Declining,7,True
+P000189,SKU0000189,Philips Air Fryer,Philips Air Fryer Standard,Home & Kitchen,Kitchen Appliances,Philips,Air Fryer,Standard,5980,19.87,7168,0,7168,18,5.97,3.9,2023-06-17,Declining,7,True
+P000188,SKU0000188,Prestige Induction Cooktop,Prestige Induction Cooktop Standard,Home & Kitchen,Kitchen Appliances,Prestige,Induction Cooktop,Standard,8342,19.89,10001,12,8801,18,5.41,4.6,2024-10-26,Mature,7,True
+P000195,SKU0000195,Cello Container Set,Cello Container Set 1L,Home & Kitchen,Storage,Cello,Container Set,1L,1844,26.9,2340,5,2223,18,1.23,4.3,2024-10-03,Mature,7,True
+P000194,SKU0000194,Cello Container Set,Cello Container Set 500ml,Home & Kitchen,Storage,Cello,Container Set,500ml,1844,28.38,2367,15,2012,18,1.54,4.1,2023-05-28,Declining,7,True
+P000193,SKU0000193,Milton Lunch Box,Milton Lunch Box 1L,Home & Kitchen,Storage,Milton,Lunch Box,1L,932,21.8,1135,20,908,18,0.88,3.7,2025-05-31,Growth,7,True
+P000192,SKU0000192,Milton Lunch Box,Milton Lunch Box 500ml,Home & Kitchen,Storage,Milton,Lunch Box,500ml,932,20.12,1120,12,986,18,1.58,4.6,2024-03-08,Mature,7,True
+P000191,SKU0000191,Milton Water Bottle,Milton Water Bottle 1L,Home & Kitchen,Storage,Milton,Water Bottle,1L,1725,30.18,2246,20,1797,18,0.28,4.4,2025-12-15,Growth,7,True
+P000190,SKU0000190,Milton Water Bottle,Milton Water Bottle 500ml,Home & Kitchen,Storage,Milton,Water Bottle,500ml,1725,26.21,2177,10,1959,18,0.97,3.7,2025-11-15,Growth,7,True
+P000264,SKU0000264,Cult Yoga Mat,Cult Yoga Mat 10kg,Sports,Fitness,Cult,Yoga Mat,10kg,9964,27.47,12701,12,11177,18,24.24,4.2,2024-09-10,Mature,10,True
+P000265,SKU0000265,Cult Yoga Mat,Cult Yoga Mat 20kg,Sports,Fitness,Cult,Yoga Mat,20kg,9964,24.46,12401,5,11781,18,12.76,3.7,2023-05-03,Declining,10,True
+P000263,SKU0000263,Cult Yoga Mat,Cult Yoga Mat 5kg,Sports,Fitness,Cult,Yoga Mat,5kg,9964,31.57,13110,12,11537,18,12.79,4.6,2024-03-07,Mature,10,True
+P000267,SKU0000267,USI Dumbbells,USI Dumbbells 10kg,Sports,Fitness,USI,Dumbbells,10kg,7496,21.96,9142,15,7771,18,9.91,4.3,2025-11-20,Growth,10,True
+P000268,SKU0000268,USI Dumbbells,USI Dumbbells 20kg,Sports,Fitness,USI,Dumbbells,20kg,7496,24.01,9296,10,8366,18,9.06,3.6,2023-10-16,Declining,10,True
+P000266,SKU0000266,USI Dumbbells,USI Dumbbells 5kg,Sports,Fitness,USI,Dumbbells,5kg,7496,29.1,9677,15,8225,18,25.89,4.5,2024-10-15,Mature,10,False
+P000270,SKU0000270,Nivia Football,Nivia Football Standard,Sports,Outdoor,Nivia,Football,Standard,4585,27.47,5844,20,4675,18,2.59,4.7,2025-10-18,Growth,10,True
+P000269,SKU0000269,Yonex Badminton Racquet,Yonex Badminton Racquet Standard,Sports,Outdoor,Yonex,Badminton Racquet,Standard,6705,23.72,8295,8,7631,18,3.66,4.8,2024-11-01,Mature,10,True
+P000279,SKU0000279,Funskool Puzzle Set,Funskool Puzzle Set Standard,Toys,Educational,Funskool,Puzzle Set,Standard,3017,32.61,4001,20,3201,12,0.25,4.2,2024-09-05,Mature,7,True
+P000280,SKU0000280,Lego Classic Bricks,Lego Classic Bricks Standard,Toys,Educational,Lego,Classic Bricks,Standard,2088,39.7,2917,12,2567,12,0.94,4.3,2023-02-24,Declining,7,True
+P000282,SKU0000282,Barbie Dream Doll,Barbie Dream Doll Standard,Toys,Kids,Barbie,Dream Doll,Standard,2609,36.62,3564,18,2922,12,1.36,4.7,2023-10-30,Declining,7,True
+P000281,SKU0000281,Hot Wheels Car Pack,Hot Wheels Car Pack Standard,Toys,Kids,Hot Wheels,Car Pack,Standard,2929,33.68,3915,10,3524,12,1.02,4.3,2023-04-16,Declining,7,True
