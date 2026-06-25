@@ -1,6 +1,25 @@
+
+from pathlib import Path
 import pandas as pd
 import numpy as np
 from datetime import datetime
+
+
+
+# ----------------------------------------------------------
+# Project Paths
+# ----------------------------------------------------------
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+CONFIG_FOLDER = PROJECT_ROOT / "config"
+
+OUTPUT_FOLDER = PROJECT_ROOT / "data" / "generated"
+
+OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+
+
+
 
 def generate_date_range(start_date, end_date):
     """
@@ -108,9 +127,14 @@ def validate_data(dim_date):
     return
 
 def export_csv(dim_date):
+     
+    output_file = (
+        OUTPUT_FOLDER
+        / "dim_date.csv"
+    )
 
     dim_date.to_csv(
-    "data/generated/dim_date.csv",
+    output_file,
     index=False
 )
 

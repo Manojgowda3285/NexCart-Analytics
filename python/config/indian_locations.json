@@ -1,0 +1,364 @@
+[
+  {
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Region": "South",
+    "Pincode": "560001",
+    "Weight": 15
+  },
+  {
+    "City": "Mysuru",
+    "State": "Karnataka",
+    "Region": "South",
+    "Pincode": "570001",
+    "Weight": 5
+  },
+  {
+    "City": "Mangaluru",
+    "State": "Karnataka",
+    "Region": "South",
+    "Pincode": "575001",
+    "Weight": 4
+  },
+  {
+    "City": "Hubballi",
+    "State": "Karnataka",
+    "Region": "South",
+    "Pincode": "580020",
+    "Weight": 3
+  },
+  {
+    "City": "Belagavi",
+    "State": "Karnataka",
+    "Region": "South",
+    "Pincode": "590001",
+    "Weight": 2
+  },
+
+  {
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "Region": "South",
+    "Pincode": "600001",
+    "Weight": 12
+  },
+  {
+    "City": "Coimbatore",
+    "State": "Tamil Nadu",
+    "Region": "South",
+    "Pincode": "641001",
+    "Weight": 5
+  },
+  {
+    "City": "Madurai",
+    "State": "Tamil Nadu",
+    "Region": "South",
+    "Pincode": "625001",
+    "Weight": 4
+  },
+
+  {
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Region": "South",
+    "Pincode": "500001",
+    "Weight": 14
+  },
+  {
+    "City": "Warangal",
+    "State": "Telangana",
+    "Region": "South",
+    "Pincode": "506002",
+    "Weight": 3
+  },
+
+  {
+    "City": "Kochi",
+    "State": "Kerala",
+    "Region": "South",
+    "Pincode": "682001",
+    "Weight": 5
+  },
+  {
+    "City": "Thiruvananthapuram",
+    "State": "Kerala",
+    "Region": "South",
+    "Pincode": "695001",
+    "Weight": 4
+  },
+
+  {
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Region": "West",
+    "Pincode": "400001",
+    "Weight": 16
+  },
+  {
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Region": "West",
+    "Pincode": "411001",
+    "Weight": 10
+  },
+  {
+    "City": "Nagpur",
+    "State": "Maharashtra",
+    "Region": "West",
+    "Pincode": "440001",
+    "Weight": 5
+  },
+  {
+    "City": "Nashik",
+    "State": "Maharashtra",
+    "Region": "West",
+    "Pincode": "422001",
+    "Weight": 4
+  },
+
+  {
+    "City": "Ahmedabad",
+    "State": "Gujarat",
+    "Region": "West",
+    "Pincode": "380001",
+    "Weight": 10
+  },
+  {
+    "City": "Surat",
+    "State": "Gujarat",
+    "Region": "West",
+    "Pincode": "395003",
+    "Weight": 8
+  },
+  {
+    "City": "Vadodara",
+    "State": "Gujarat",
+    "Region": "West",
+    "Pincode": "390001",
+    "Weight": 5
+  },
+  {
+    "City": "Rajkot",
+    "State": "Gujarat",
+    "Region": "West",
+    "Pincode": "360001",
+    "Weight": 3
+  },
+
+  {
+    "City": "Indore",
+    "State": "Madhya Pradesh",
+    "Region": "West",
+    "Pincode": "452001",
+    "Weight": 5
+  },
+  {
+    "City": "Bhopal",
+    "State": "Madhya Pradesh",
+    "Region": "West",
+    "Pincode": "462001",
+    "Weight": 4
+  },
+
+  {
+    "City": "Panaji",
+    "State": "Goa",
+    "Region": "West",
+    "Pincode": "403001",
+    "Weight": 2
+  },
+
+  {
+    "City": "Delhi",
+    "State": "Delhi",
+    "Region": "North",
+    "Pincode": "110001",
+    "Weight": 15
+  },
+  {
+    "City": "Noida",
+    "State": "Uttar Pradesh",
+    "Region": "North",
+    "Pincode": "201301",
+    "Weight": 8
+  },
+  {
+    "City": "Gurugram",
+    "State": "Haryana",
+    "Region": "North",
+    "Pincode": "122001",
+    "Weight": 8
+  },
+  {
+    "City": "Chandigarh",
+    "State": "Chandigarh",
+    "Region": "North",
+    "Pincode": "160017",
+    "Weight": 5
+  },
+
+  {
+    "City": "Jaipur",
+    "State": "Rajasthan",
+    "Region": "North",
+    "Pincode": "302001",
+    "Weight": 6
+  },
+  {
+    "City": "Jodhpur",
+    "State": "Rajasthan",
+    "Region": "North",
+    "Pincode": "342001",
+    "Weight": 3
+  },
+
+  {
+    "City": "Lucknow",
+    "State": "Uttar Pradesh",
+    "Region": "North",
+    "Pincode": "226001",
+    "Weight": 7
+  },
+  {
+    "City": "Kanpur",
+    "State": "Uttar Pradesh",
+    "Region": "North",
+    "Pincode": "208001",
+    "Weight": 5
+  },
+  {
+    "City": "Agra",
+    "State": "Uttar Pradesh",
+    "Region": "North",
+    "Pincode": "282001",
+    "Weight": 3
+  },
+
+  {
+    "City": "Dehradun",
+    "State": "Uttarakhand",
+    "Region": "North",
+    "Pincode": "248001",
+    "Weight": 3
+  },
+
+  {
+    "City": "Amritsar",
+    "State": "Punjab",
+    "Region": "North",
+    "Pincode": "143001",
+    "Weight": 3
+  },
+  {
+    "City": "Ludhiana",
+    "State": "Punjab",
+    "Region": "North",
+    "Pincode": "141001",
+    "Weight": 4
+  },
+
+  {
+    "City": "Kolkata",
+    "State": "West Bengal",
+    "Region": "East",
+    "Pincode": "700001",
+    "Weight": 12
+  },
+  {
+    "City": "Howrah",
+    "State": "West Bengal",
+    "Region": "East",
+    "Pincode": "711101",
+    "Weight": 5
+  },
+  {
+    "City": "Siliguri",
+    "State": "West Bengal",
+    "Region": "East",
+    "Pincode": "734001",
+    "Weight": 3
+  },
+  {
+    "City": "Asansol",
+    "State": "West Bengal",
+    "Region": "East",
+    "Pincode": "713301",
+    "Weight": 2
+  },
+
+  {
+    "City": "Patna",
+    "State": "Bihar",
+    "Region": "East",
+    "Pincode": "800001",
+    "Weight": 6
+  },
+
+  {
+    "City": "Ranchi",
+    "State": "Jharkhand",
+    "Region": "East",
+    "Pincode": "834001",
+    "Weight": 4
+  },
+  {
+    "City": "Dhanbad",
+    "State": "Jharkhand",
+    "Region": "East",
+    "Pincode": "826001",
+    "Weight": 3
+  },
+
+  {
+    "City": "Bhubaneswar",
+    "State": "Odisha",
+    "Region": "East",
+    "Pincode": "751001",
+    "Weight": 5
+  },
+  {
+    "City": "Cuttack",
+    "State": "Odisha",
+    "Region": "East",
+    "Pincode": "753001",
+    "Weight": 3
+  },
+
+  {
+    "City": "Guwahati",
+    "State": "Assam",
+    "Region": "East",
+    "Pincode": "781001",
+    "Weight": 4
+  },
+
+  {
+    "City": "Raipur",
+    "State": "Chhattisgarh",
+    "Region": "Central",
+    "Pincode": "492001",
+    "Weight": 4
+  },
+  {
+    "City": "Bilaspur",
+    "State": "Chhattisgarh",
+    "Region": "Central",
+    "Pincode": "495001",
+    "Weight": 2
+  },
+
+  {
+    "City": "Jabalpur",
+    "State": "Madhya Pradesh",
+    "Region": "Central",
+    "Pincode": "482001",
+    "Weight": 3
+  },
+  {
+    "City": "Gwalior",
+    "State": "Madhya Pradesh",
+    "Region": "Central",
+    "Pincode": "474001",
+    "Weight": 3
+  }
+]

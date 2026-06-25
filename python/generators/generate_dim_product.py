@@ -1140,7 +1140,7 @@ def main():
         products
 
     )
-
+    print(products.head())
     print("\nProduct Dimension Generation Completed Successfully.")
 
 
