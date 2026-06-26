@@ -1,0 +1,501 @@
+SellerID,SellerCode,SellerName,SellerType,BusinessCategory,GSTNumber,PANNumber,City,State,Region,Pincode,RegistrationDate,SellerRating,CommissionRate,FulfillmentType,IsVerified,IsActive
+S000001,SELL000001,Shree Books Traders 001,Business,Books,08XIHFE1819N2Z0,OGMBJ0013M,Kochi,Kerala,South,682001,2022-10-13,4.6,10.71,Warehouse Fulfilled,True,True
+S000002,SELL000002,Shree Electronics Mart 002,Business,Electronics,35HOSAZ0265IRZ8,FYGWW2351M,Noida,Uttar Pradesh,North,201301,2025-02-23,4.1,13.25,Warehouse Fulfilled,True,True
+S000003,SELL000003,Tech Sports Retail 003,Business,Sports,17XORPM1849L3ZJ,QOXSF9310O,Pune,Maharashtra,West,411001,2022-11-15,4.1,13.82,Warehouse Fulfilled,True,True
+S000004,SELL000004,National Home & Kitchen Store 004,Individual,Home & Kitchen,07IOUTF5534WPZP,UPKDY1928R,Kanpur,Uttar Pradesh,North,208001,2025-01-03,4.0,15.53,Warehouse Fulfilled,True,True
+S000005,SELL000005,Royal Sports World 005,Business,Sports,36VKYCH0564CFZV,PFZPD3953J,Mysuru,Karnataka,South,570001,2025-09-16,4.1,11.45,Warehouse Fulfilled,True,True
+S000006,SELL000006,Elite Home & Kitchen Solutions 006,Business,Home & Kitchen,17HXRJI9696L9Z6,FWDHJ3287O,Pune,Maharashtra,West,411001,2025-10-04,4.2,15.62,Warehouse Fulfilled,True,True
+S000007,SELL000007,Global Books Retail 007,Business,Books,11TCMBT7848ASZ2,HSBKD1845A,Thiruvananthapuram,Kerala,South,695001,2025-08-03,4.6,8.88,Warehouse Fulfilled,True,True
+S000008,SELL000008,Tech Sports Solutions 008,Business,Sports,17YFQPU4893EXZ5,AMUFB5288H,Mysuru,Karnataka,South,570001,2025-03-07,4.7,11.57,Seller Fulfilled,True,True
+S000009,SELL000009,Sai Beauty Store 009,Business,Beauty,24HBHGC1718YKZZ,KQHMB2278N,Agra,Uttar Pradesh,North,282001,2025-01-08,4.2,15.51,Warehouse Fulfilled,True,True
+S000010,SELL000010,Modern Fashion Suppliers 010,Business,Fashion,35WJMTO8713HDZP,JOLOA1509E,Bengaluru,Karnataka,South,560001,2022-08-13,4.0,19.12,Warehouse Fulfilled,True,True
+S000011,SELL000011,Elite Grocery Hub 011,Business,Grocery,04CBKPQ3473RFZH,PYEZA2997M,Delhi,Delhi,North,110001,2022-01-24,4.6,4.46,Seller Fulfilled,True,True
+S000012,SELL000012,Shree Home & Kitchen Store 012,Business,Home & Kitchen,07VNLBN7010M7ZR,MICIB5133L,Surat,Gujarat,West,395003,2026-01-18,4.7,11.58,Seller Fulfilled,True,True
+S000013,SELL000013,Prime Sports Hub 013,Business,Sports,18HCOJD0801YUZB,ENZDK3267Y,Coimbatore,Tamil Nadu,South,641001,2026-04-11,4.0,14.77,Warehouse Fulfilled,False,True
+S000014,SELL000014,Tech Beauty Enterprises 014,Individual,Beauty,01IZZLJ6872GPZ8,VIDVU4309D,Patna,Bihar,East,800001,2023-09-22,4.1,13.45,Seller Fulfilled,True,True
+S000015,SELL000015,Shree Sports Hub 015,Business,Sports,04QQFCQ1219CVZV,PLMCN3619F,Chennai,Tamil Nadu,South,600001,2024-08-31,4.8,10.83,Seller Fulfilled,True,True
+S000016,SELL000016,Global Grocery Store 016,Business,Grocery,27KIGTH4624OYZJ,NKGEI5107N,Jaipur,Rajasthan,North,302001,2024-02-04,4.4,6.07,Warehouse Fulfilled,True,True
+S000017,SELL000017,Modern Grocery Mart 017,Business,Grocery,33ELCFL4278WHZA,QJTQG4980I,Bengaluru,Karnataka,South,560001,2025-12-20,4.5,4.92,Warehouse Fulfilled,False,True
+S000018,SELL000018,Prime Fashion Suppliers 018,Business,Fashion,17DXRHI4935G8ZB,DFOBR4874C,Chennai,Tamil Nadu,South,600001,2025-03-15,4.5,19.7,Warehouse Fulfilled,True,True
+S000019,SELL000019,Smart Books Solutions 019,Business,Books,01YEUAF7868AMZ4,CXLJJ1128B,Vadodara,Gujarat,West,390001,2026-02-02,3.8,10.61,Seller Fulfilled,True,True
+S000020,SELL000020,Shree Sports Mart 020,Business,Sports,09JLZCL3315Y3Z5,PKZZL8692A,Delhi,Delhi,North,110001,2022-10-15,4.3,11.39,Warehouse Fulfilled,True,True
+S000021,SELL000021,Modern Sports Enterprises 021,Business,Sports,02XKZBZ3421MCZB,DWTYO0733O,Gwalior,Madhya Pradesh,Central,474001,2022-01-31,4.9,14.63,Warehouse Fulfilled,True,True
+S000022,SELL000022,Smart Fashion Traders 022,Business,Fashion,02MKIPY4586VDZ8,QLLQC8501G,Bengaluru,Karnataka,South,560001,2024-03-10,4.2,23.49,Seller Fulfilled,True,True
+S000023,SELL000023,Modern Sports Suppliers 023,Business,Sports,28XZKBT8169GNZ3,HZIRU4060V,Mumbai,Maharashtra,West,400001,2022-04-30,4.5,12.71,Warehouse Fulfilled,True,True
+S000024,SELL000024,Modern Grocery Retail 024,Business,Grocery,13NCVTT5148JOZQ,JIMAQ6564Y,Indore,Madhya Pradesh,West,452001,2023-01-16,3.8,4.27,Seller Fulfilled,True,True
+S000025,SELL000025,Global Grocery World 025,Business,Grocery,12MRAAJ3699UKZ2,RNGEY5777Y,Gurugram,Haryana,North,122001,2024-05-08,4.5,6.26,Warehouse Fulfilled,True,True
+S000026,SELL000026,Global Home & Kitchen Store 026,Business,Home & Kitchen,11JQVGK1343Z6Z2,PENXE3200D,Jaipur,Rajasthan,North,302001,2023-09-07,4.4,15.57,Warehouse Fulfilled,False,True
+S000027,SELL000027,Shree Grocery Enterprises 027,Business,Grocery,27WWMLM3201YDZY,DDJPH6328D,Indore,Madhya Pradesh,West,452001,2022-09-29,4.8,7.52,Warehouse Fulfilled,True,True
+S000028,SELL000028,Modern Sports Store 028,Business,Sports,09VQRGK7986RUZE,QWPOR7277X,Jabalpur,Madhya Pradesh,Central,482001,2025-09-01,4.4,13.34,Warehouse Fulfilled,True,True
+S000029,SELL000029,Prime Fashion Enterprises 029,Individual,Fashion,34UHILC4345KWZ8,OYSJT8122N,Agra,Uttar Pradesh,North,282001,2022-11-15,4.2,22.23,Warehouse Fulfilled,True,True
+S000030,SELL000030,Modern Home & Kitchen Suppliers 030,Business,Home & Kitchen,05NKRLN0366YRZ5,EAWTW9096Y,Dhanbad,Jharkhand,East,826001,2022-04-15,3.9,12.54,Seller Fulfilled,True,True
+S000031,SELL000031,Prime Books Retail 031,Business,Books,27XXRGH7346PZZG,UKDIN0656I,Delhi,Delhi,North,110001,2024-05-25,4.5,8.45,Warehouse Fulfilled,False,True
+S000032,SELL000032,Royal Electronics World 032,Business,Electronics,02SSVCC6272BQZJ,DUVWY4653R,Ahmedabad,Gujarat,West,380001,2022-03-27,4.2,14.49,Seller Fulfilled,True,True
+S000033,SELL000033,Global Fashion Enterprises 033,Business,Fashion,27CPAJB5310YHZD,NJPIE0330Q,Delhi,Delhi,North,110001,2024-04-12,4.9,23.25,Warehouse Fulfilled,False,True
+S000034,SELL000034,Sai Sports Distributors 034,Business,Sports,08OWITF9912JEZ8,KRYZT1904M,Kanpur,Uttar Pradesh,North,208001,2023-11-12,4.6,12.06,Warehouse Fulfilled,True,True
+S000035,SELL000035,Shree Fashion Distributors 035,Individual,Fashion,05DWYAV9190LGZK,GPVAA8651F,Siliguri,West Bengal,East,734001,2023-04-01,4.1,24.43,Seller Fulfilled,True,True
+S000036,SELL000036,Tech Fashion Mart 036,Business,Fashion,07LUOHN2849ZSZK,ULRUP8776F,Mumbai,Maharashtra,West,400001,2022-05-23,4.9,19.95,Seller Fulfilled,True,True
+S000037,SELL000037,Royal Grocery Traders 037,Business,Grocery,18HYOGT6507KTZ7,ZQVRM2735S,Raipur,Chhattisgarh,Central,492001,2023-01-01,4.5,7.93,Warehouse Fulfilled,True,True
+S000038,SELL000038,Royal Sports Distributors 038,Business,Sports,18QGCFX6783W1ZZ,FSOZS7770P,Indore,Madhya Pradesh,West,452001,2024-02-28,4.8,10.95,Warehouse Fulfilled,True,True
+S000039,SELL000039,Modern Sports Mart 039,Business,Sports,20PRQTN8557IOZ0,UMUHV4431I,Mysuru,Karnataka,South,570001,2025-09-22,4.8,13.12,Seller Fulfilled,True,True
+S000040,SELL000040,Prime Grocery Distributors 040,Business,Grocery,12GXPAX9894DDZ0,LTATI3435I,Lucknow,Uttar Pradesh,North,226001,2025-02-09,4.0,5.68,Seller Fulfilled,False,True
+S000041,SELL000041,National Grocery Store 041,Business,Grocery,18BRJHU7109J3ZL,LDQEH7775E,Howrah,West Bengal,East,711101,2023-09-15,4.2,5.72,Warehouse Fulfilled,True,True
+S000042,SELL000042,Global Beauty Hub 042,Business,Beauty,26CSUCE2941HWZE,MYNOX1869H,Ranchi,Jharkhand,East,834001,2026-06-19,4.6,15.95,Warehouse Fulfilled,True,True
+S000043,SELL000043,Global Electronics Store 043,Business,Electronics,25OJSBJ9909XTZD,QFKPL1334J,Hyderabad,Telangana,South,500001,2022-02-20,3.8,14.92,Warehouse Fulfilled,True,True
+S000044,SELL000044,National Books Mart 044,Business,Books,05ANOGP4034WBZB,QYYOL4713Q,Nagpur,Maharashtra,West,440001,2024-03-29,4.1,10.62,Seller Fulfilled,True,True
+S000045,SELL000045,Smart Electronics Mart 045,Business,Electronics,13DRHHI2102ZSZ3,CHDST4994S,Raipur,Chhattisgarh,Central,492001,2024-11-26,4.4,12.79,Warehouse Fulfilled,False,True
+S000046,SELL000046,Modern Beauty Hub 046,Business,Beauty,26QRPLC9065TIZ2,RKLBW4013R,Guwahati,Assam,East,781001,2024-06-25,4.5,16.32,Warehouse Fulfilled,True,True
+S000047,SELL000047,Elite Fashion Suppliers 047,Business,Fashion,18YYFLQ7429N3Z4,AVUQG7175K,Kochi,Kerala,South,682001,2025-07-29,4.2,23.44,Warehouse Fulfilled,True,True
+S000048,SELL000048,Prime Books Mart 048,Business,Books,22WPJBY8071KRZQ,GAQID4516A,Mumbai,Maharashtra,West,400001,2025-01-11,3.9,8.6,Warehouse Fulfilled,True,True
+S000049,SELL000049,Smart Beauty Solutions 049,Business,Beauty,04QLTLU7034RDZI,HBOMZ2477P,Ahmedabad,Gujarat,West,380001,2023-02-28,4.7,14.34,Warehouse Fulfilled,True,True
+S000050,SELL000050,National Sports Distributors 050,Business,Sports,11RARBC3171UKZ3,TRAEE2748P,Guwahati,Assam,East,781001,2023-09-04,4.6,14.27,Seller Fulfilled,False,True
+S000051,SELL000051,National Grocery Mart 051,Business,Grocery,30MGTJX2146KAZP,UTLLQ8404F,Thiruvananthapuram,Kerala,South,695001,2024-09-21,3.7,5.34,Warehouse Fulfilled,True,True
+S000052,SELL000052,Sai Beauty World 052,Business,Beauty,10RPLTR8675GTZ1,XACUV3963E,Dhanbad,Jharkhand,East,826001,2025-04-27,4.5,12.16,Warehouse Fulfilled,True,True
+S000053,SELL000053,Prime Electronics Distributors 053,Business,Electronics,25VZUHP0289KPZT,DAUJA1718P,Surat,Gujarat,West,395003,2023-11-23,4.6,11.9,Warehouse Fulfilled,True,True
+S000054,SELL000054,Elite Electronics Traders 054,Business,Electronics,10PZITT6158M5Z5,NEPOR5780S,Bengaluru,Karnataka,South,560001,2023-12-18,4.1,10.34,Warehouse Fulfilled,False,True
+S000055,SELL000055,Global Fashion Traders 055,Business,Fashion,15NDYPO2400K6ZT,BJPHA0455K,Warangal,Telangana,South,506002,2024-08-27,4.6,21.95,Seller Fulfilled,True,True
+S000056,SELL000056,National Fashion World 056,Individual,Fashion,12FCTBT3792HBZF,QAZDS7474R,Lucknow,Uttar Pradesh,North,226001,2026-05-12,4.7,24.75,Warehouse Fulfilled,True,True
+S000057,SELL000057,Smart Books Distributors 057,Individual,Books,35COLGJ6474GBZU,YKWKS6713S,Hyderabad,Telangana,South,500001,2025-04-27,4.6,10.51,Seller Fulfilled,True,True
+S000058,SELL000058,Shree Grocery World 058,Business,Grocery,19VMICS0974Y2ZQ,OMNQR3953W,Pune,Maharashtra,West,411001,2024-05-27,4.5,4.28,Warehouse Fulfilled,True,True
+S000059,SELL000059,Shree Beauty Distributors 059,Individual,Beauty,09UUBAZ7095X7Z3,VALMI2145Y,Gurugram,Haryana,North,122001,2024-07-30,4.6,14.61,Warehouse Fulfilled,True,False
+S000060,SELL000060,Modern Sports Suppliers 060,Business,Sports,35QQIHI7451OOZP,ZJXFY1236Z,Kolkata,West Bengal,East,700001,2025-04-28,4.2,14.26,Seller Fulfilled,True,True
+S000061,SELL000061,Elite Fashion World 061,Business,Fashion,01RDOTV4965DHZ7,JUNOP3709E,Nagpur,Maharashtra,West,440001,2022-02-28,4.4,20.28,Warehouse Fulfilled,True,True
+S000062,SELL000062,National Home & Kitchen Store 062,Business,Home & Kitchen,30UNDHB0471DKZE,DXQVS3826I,Bhopal,Madhya Pradesh,West,462001,2023-01-27,3.9,14.32,Warehouse Fulfilled,True,True
+S000063,SELL000063,Elite Books Suppliers 063,Business,Books,27NUDLT6405GAZ5,GRXIP7735W,Hubballi,Karnataka,South,580020,2023-03-30,4.3,8.97,Warehouse Fulfilled,True,True
+S000064,SELL000064,Smart Home & Kitchen Hub 064,Business,Home & Kitchen,04IGDLC3900ZQZF,NEWJN5329L,Lucknow,Uttar Pradesh,North,226001,2023-07-09,4.2,11.38,Seller Fulfilled,True,True
+S000065,SELL000065,Sai Sports Mart 065,Business,Sports,14KYEGA4228IFZP,AWYYP2102L,Rajkot,Gujarat,West,360001,2026-01-23,4.5,13.8,Seller Fulfilled,True,False
+S000066,SELL000066,Global Home & Kitchen Solutions 066,Business,Home & Kitchen,21FIBHX6811P2Z7,GCGON7589C,Bengaluru,Karnataka,South,560001,2024-12-29,4.0,10.27,Seller Fulfilled,True,True
+S000067,SELL000067,Elite Books Enterprises 067,Individual,Books,34OUACP6617WKZM,MJEIR7115N,Delhi,Delhi,North,110001,2024-08-19,4.4,9.36,Seller Fulfilled,False,True
+S000068,SELL000068,Shree Electronics Distributors 068,Business,Electronics,38MTQAO8961ZLZP,COAVD1836Z,Delhi,Delhi,North,110001,2025-11-06,3.8,10.75,Seller Fulfilled,True,True
+S000069,SELL000069,Modern Electronics Distributors 069,Business,Electronics,27KNKAL2711C7ZS,ZIJDL1615J,Kolkata,West Bengal,East,700001,2023-04-08,4.6,11.9,Warehouse Fulfilled,False,True
+S000070,SELL000070,Prime Beauty World 070,Business,Beauty,36VDNTV6049JMZE,NJQEO5198G,Noida,Uttar Pradesh,North,201301,2026-02-24,3.9,16.58,Warehouse Fulfilled,True,True
+S000071,SELL000071,Sai Fashion Hub 071,Business,Fashion,23DYIGH6899VOZY,BLRSW8094T,Bengaluru,Karnataka,South,560001,2024-07-11,4.6,21.29,Warehouse Fulfilled,True,True
+S000072,SELL000072,Elite Sports Enterprises 072,Business,Sports,22AFEGV6120CNZU,DVKXT8366U,Bhubaneswar,Odisha,East,751001,2026-06-02,4.6,12.95,Warehouse Fulfilled,True,True
+S000073,SELL000073,Sai Fashion Store 073,Individual,Fashion,21BEFGB1476P6ZX,NWGHW9764B,Mysuru,Karnataka,South,570001,2022-12-06,4.6,22.17,Warehouse Fulfilled,True,True
+S000074,SELL000074,Prime Beauty Distributors 074,Individual,Beauty,08VVSLQ4036TJZK,NXIWQ0034S,Indore,Madhya Pradesh,West,452001,2024-10-08,4.3,15.59,Warehouse Fulfilled,True,True
+S000075,SELL000075,Shree Electronics Mart 075,Individual,Electronics,21APXBF2683Q8ZS,VCBBD8516E,Howrah,West Bengal,East,711101,2025-03-24,4.5,10.1,Warehouse Fulfilled,True,True
+S000076,SELL000076,Sai Sports Suppliers 076,Business,Sports,21SMWBJ1605FSZW,BGPBL9751Z,Surat,Gujarat,West,395003,2023-07-24,4.0,12.93,Warehouse Fulfilled,True,True
+S000077,SELL000077,Smart Home & Kitchen Solutions 077,Business,Home & Kitchen,34MJXTH5218U6ZJ,XWWUP1883J,Belagavi,Karnataka,South,590001,2022-11-26,4.2,14.16,Seller Fulfilled,True,True
+S000078,SELL000078,Tech Grocery Suppliers 078,Business,Grocery,16EIGHT2127O7Z2,PONUO9979U,Kochi,Kerala,South,682001,2022-08-26,4.9,5.62,Warehouse Fulfilled,True,False
+S000079,SELL000079,Elite Grocery Distributors 079,Business,Grocery,10CPOAZ4905QTZ6,CDXSE1477P,Bhopal,Madhya Pradesh,West,462001,2025-06-29,4.6,6.5,Warehouse Fulfilled,True,True
+S000080,SELL000080,Elite Home & Kitchen Suppliers 080,Business,Home & Kitchen,06MOSJZ0793KXZ2,DCGZV9782T,Bilaspur,Chhattisgarh,Central,495001,2025-05-31,4.7,14.26,Warehouse Fulfilled,True,True
+S000081,SELL000081,Shree Fashion Suppliers 081,Individual,Fashion,06UFBFW7788TXZ7,YAXVR2554M,Chandigarh,Chandigarh,North,160017,2022-11-12,4.4,23.02,Seller Fulfilled,True,True
+S000082,SELL000082,Global Beauty Suppliers 082,Business,Beauty,04CKDJV6449EMZQ,WTPSQ5192Z,Nagpur,Maharashtra,West,440001,2025-05-12,4.4,17.28,Seller Fulfilled,True,True
+S000083,SELL000083,Royal Beauty Hub 083,Business,Beauty,09JRMTE8168L6ZG,NVXFM0542O,Bengaluru,Karnataka,South,560001,2026-01-26,4.2,15.52,Warehouse Fulfilled,False,True
+S000084,SELL000084,Elite Grocery Solutions 084,Business,Grocery,09CJZPQ8805YAZ0,JKLSX9296N,Amritsar,Punjab,North,143001,2024-02-12,4.4,5.29,Warehouse Fulfilled,True,True
+S000085,SELL000085,Smart Fashion Traders 085,Business,Fashion,11BNLFO9473RTZU,XRKCD3473X,Vadodara,Gujarat,West,390001,2024-02-20,4.3,22.65,Warehouse Fulfilled,True,False
+S000086,SELL000086,Sai Electronics Hub 086,Individual,Electronics,19QQNHG9240UPZ4,THHSF7581W,Mumbai,Maharashtra,West,400001,2022-07-25,4.7,12.2,Seller Fulfilled,True,True
+S000087,SELL000087,Sai Beauty Enterprises 087,Business,Beauty,11OQEBC3750NIZ1,PYFXO0685B,Raipur,Chhattisgarh,Central,492001,2023-11-25,4.5,14.38,Warehouse Fulfilled,True,True
+S000088,SELL000088,Smart Grocery Solutions 088,Business,Grocery,21WUKHE0472Y7ZS,FBQNJ7790J,Patna,Bihar,East,800001,2024-09-26,4.7,4.14,Seller Fulfilled,True,True
+S000089,SELL000089,Shree Fashion Distributors 089,Individual,Fashion,34DYJFJ1036USZP,FMIBO9711G,Dehradun,Uttarakhand,North,248001,2025-12-12,4.7,21.11,Warehouse Fulfilled,True,True
+S000090,SELL000090,Tech Sports Store 090,Business,Sports,37WEJBA9539NGZO,EHIGY2185G,Ahmedabad,Gujarat,West,380001,2023-05-16,4.4,12.83,Warehouse Fulfilled,True,True
+S000091,SELL000091,Smart Sports World 091,Business,Sports,36MPBBL4051L2ZB,ICWIV3195P,Indore,Madhya Pradesh,West,452001,2025-04-09,4.0,12.31,Warehouse Fulfilled,True,True
+S000092,SELL000092,Elite Sports Store 092,Business,Sports,12WPUHZ2170JUZE,UTGZI3030E,Coimbatore,Tamil Nadu,South,641001,2024-06-23,4.8,14.94,Warehouse Fulfilled,True,False
+S000093,SELL000093,Prime Beauty Mart 093,Individual,Beauty,17YUGAL0541Z3ZY,YVLFS5667F,Siliguri,West Bengal,East,734001,2022-08-07,4.1,15.43,Warehouse Fulfilled,True,False
+S000094,SELL000094,Smart Sports Store 094,Business,Sports,24IZCBC6928JYZ2,QSTCM5115T,Asansol,West Bengal,East,713301,2026-05-13,4.6,10.25,Seller Fulfilled,True,True
+S000095,SELL000095,Global Home & Kitchen World 095,Individual,Home & Kitchen,28WOLLB5964UBZ8,GZVRK0165B,Hyderabad,Telangana,South,500001,2023-01-25,4.5,14.07,Seller Fulfilled,True,True
+S000096,SELL000096,Shree Books Traders 096,Business,Books,10BECFY5569BTZE,XCWEK9275I,Surat,Gujarat,West,395003,2025-04-01,4.3,8.53,Warehouse Fulfilled,False,True
+S000097,SELL000097,Sai Fashion Hub 097,Individual,Fashion,34MKUAH1027QOZM,XQTCN6814N,Pune,Maharashtra,West,411001,2024-10-24,4.8,23.81,Warehouse Fulfilled,True,True
+S000098,SELL000098,Prime Sports Solutions 098,Individual,Sports,19GDEPO2715VWZQ,STKTT5188S,Vadodara,Gujarat,West,390001,2022-06-04,4.0,14.83,Seller Fulfilled,True,True
+S000099,SELL000099,Modern Sports Solutions 099,Business,Sports,12QHDFZ2370LOZM,ZJINF8957E,Nashik,Maharashtra,West,422001,2023-06-26,4.4,12.27,Warehouse Fulfilled,True,True
+S000100,SELL000100,Royal Sports Enterprises 100,Business,Sports,20WXPJN6912KQZ9,WIXJO1778L,Vadodara,Gujarat,West,390001,2025-06-22,4.7,12.81,Warehouse Fulfilled,False,True
+S000101,SELL000101,Elite Sports Store 101,Business,Sports,12NQBPQ2422K9ZK,FQMOJ3584R,Chennai,Tamil Nadu,South,600001,2022-04-03,4.8,11.52,Seller Fulfilled,True,True
+S000102,SELL000102,Smart Fashion Suppliers 102,Business,Fashion,09TRCJU2992FKZN,CBFCP9959X,Guwahati,Assam,East,781001,2025-11-27,4.8,20.93,Warehouse Fulfilled,True,True
+S000103,SELL000103,Elite Electronics World 103,Business,Electronics,37UGYGN9078JHZP,TDESD4736K,Guwahati,Assam,East,781001,2022-03-09,4.6,11.09,Warehouse Fulfilled,True,True
+S000104,SELL000104,Royal Books Hub 104,Individual,Books,29POGTT2555MRZV,GUPDH2588R,Gurugram,Haryana,North,122001,2022-05-05,4.3,8.76,Warehouse Fulfilled,True,True
+S000105,SELL000105,Global Books World 105,Individual,Books,29EDBAM9632KGZF,FGDFT9532F,Bengaluru,Karnataka,South,560001,2023-11-15,4.1,8.5,Seller Fulfilled,True,True
+S000106,SELL000106,National Fashion Mart 106,Individual,Fashion,02MQOFG9500J6Z0,IAGBI7974Q,Warangal,Telangana,South,506002,2026-05-05,4.0,24.3,Warehouse Fulfilled,True,True
+S000107,SELL000107,Modern Fashion Store 107,Business,Fashion,24LBMCS8358JQZO,WJRNR1687N,Chennai,Tamil Nadu,South,600001,2022-02-22,4.0,20.51,Warehouse Fulfilled,True,True
+S000108,SELL000108,Tech Home & Kitchen Retail 108,Business,Home & Kitchen,08DMLTR5239Q9ZJ,CITVZ6800E,Bhopal,Madhya Pradesh,West,462001,2026-03-08,3.8,12.69,Warehouse Fulfilled,True,True
+S000109,SELL000109,National Fashion Traders 109,Business,Fashion,34ETQHK9526TUZ3,GIFTK4958T,Dhanbad,Jharkhand,East,826001,2025-09-11,4.4,21.21,Warehouse Fulfilled,False,True
+S000110,SELL000110,Smart Beauty Enterprises 110,Business,Beauty,31LKVPN9409P2ZX,UDLEK4993H,Dhanbad,Jharkhand,East,826001,2022-05-31,4.8,13.93,Warehouse Fulfilled,True,True
+S000111,SELL000111,Modern Grocery Solutions 111,Business,Grocery,25VHBGW1307KAZ2,AGXNE6263V,Noida,Uttar Pradesh,North,201301,2023-08-27,4.4,6.42,Seller Fulfilled,True,True
+S000112,SELL000112,Modern Books Mart 112,Business,Books,04QGRTV7865F9ZS,WRXUR7858P,Ranchi,Jharkhand,East,834001,2024-04-27,4.2,9.81,Warehouse Fulfilled,True,True
+S000113,SELL000113,Prime Books Solutions 113,Individual,Books,17GHIJJ3443WVZV,JYURS7575H,Jodhpur,Rajasthan,North,342001,2024-08-29,3.8,11.33,Seller Fulfilled,True,True
+S000114,SELL000114,Sai Sports Hub 114,Business,Sports,37MMLHJ0415OZZ0,IRJSR4733I,Guwahati,Assam,East,781001,2025-02-24,4.2,10.61,Seller Fulfilled,True,True
+S000115,SELL000115,Tech Sports Store 115,Business,Sports,07HBVJH3016KGZ6,JKAPE7120E,Pune,Maharashtra,West,411001,2025-03-29,4.4,10.77,Warehouse Fulfilled,True,True
+S000116,SELL000116,Royal Grocery Enterprises 116,Business,Grocery,13KJUCY1938XJZO,CZYFL0262V,Delhi,Delhi,North,110001,2024-05-28,4.7,7.9,Warehouse Fulfilled,True,True
+S000117,SELL000117,National Electronics Store 117,Business,Electronics,19AJSGD5478Q3ZK,RMZHV7287K,Thiruvananthapuram,Kerala,South,695001,2026-04-11,4.2,11.7,Warehouse Fulfilled,True,True
+S000118,SELL000118,Shree Beauty Retail 118,Business,Beauty,30WFATZ4932THZJ,FZQGL6685I,Bilaspur,Chhattisgarh,Central,495001,2022-07-07,4.6,13.29,Warehouse Fulfilled,True,True
+S000119,SELL000119,Royal Books World 119,Business,Books,31HAIBH7454SLZ8,SPDQH9045D,Patna,Bihar,East,800001,2022-11-15,4.0,10.47,Warehouse Fulfilled,True,True
+S000120,SELL000120,National Beauty Suppliers 120,Business,Beauty,20MVQAW1459HBZI,DVMXA3272S,Hyderabad,Telangana,South,500001,2024-11-15,3.9,14.58,Warehouse Fulfilled,True,True
+S000121,SELL000121,Prime Books Traders 121,Business,Books,36YRZFY3918OVZH,HDJGM8519K,Jabalpur,Madhya Pradesh,Central,482001,2022-04-23,3.6,9.21,Warehouse Fulfilled,True,True
+S000122,SELL000122,Shree Home & Kitchen Traders 122,Business,Home & Kitchen,35FKQLD3971QAZ9,GADKD7072J,Ahmedabad,Gujarat,West,380001,2022-09-22,4.3,14.22,Seller Fulfilled,True,True
+S000123,SELL000123,Smart Electronics Traders 123,Business,Electronics,30XAMAA3910NKZP,EECSA5180L,Surat,Gujarat,West,395003,2022-06-09,4.7,12.88,Warehouse Fulfilled,True,True
+S000124,SELL000124,Smart Electronics Traders 124,Individual,Electronics,09LMOBM1825DRZT,IUOAW2868B,Madurai,Tamil Nadu,South,625001,2025-06-19,4.4,13.45,Warehouse Fulfilled,True,True
+S000125,SELL000125,National Beauty Distributors 125,Business,Beauty,20VXRBR6337LUZC,CZQAN2431X,Nashik,Maharashtra,West,422001,2023-09-28,4.6,13.33,Warehouse Fulfilled,True,True
+S000126,SELL000126,Modern Grocery Mart 126,Individual,Grocery,02GCDGB7903XGZ8,INWXD0673I,Pune,Maharashtra,West,411001,2026-01-29,4.8,6.58,Warehouse Fulfilled,True,True
+S000127,SELL000127,National Fashion Retail 127,Business,Fashion,33HXSTS9534EJZ1,RDJLV8364L,Chandigarh,Chandigarh,North,160017,2022-12-29,4.8,22.4,Warehouse Fulfilled,True,True
+S000128,SELL000128,National Books World 128,Business,Books,28BLUBZ8566EWZV,EPOTT4628J,Raipur,Chhattisgarh,Central,492001,2023-10-10,4.0,8.27,Warehouse Fulfilled,True,True
+S000129,SELL000129,Royal Electronics Hub 129,Business,Electronics,30RNNJQ2634G4ZW,FIUMD5175R,Surat,Gujarat,West,395003,2022-03-19,3.8,14.16,Seller Fulfilled,True,True
+S000130,SELL000130,National Grocery Hub 130,Business,Grocery,25CGZGX8373K3ZH,VHVWE4033P,Delhi,Delhi,North,110001,2026-06-10,4.6,4.16,Warehouse Fulfilled,False,True
+S000131,SELL000131,Elite Grocery Hub 131,Business,Grocery,14HRKAM7854IQZB,GZUEW5877U,Mysuru,Karnataka,South,570001,2022-07-31,4.7,7.35,Warehouse Fulfilled,False,True
+S000132,SELL000132,Global Electronics Suppliers 132,Individual,Electronics,14KNBGH2048SOZG,MVOYK9642P,Bhopal,Madhya Pradesh,West,462001,2025-06-02,4.0,11.86,Warehouse Fulfilled,True,True
+S000133,SELL000133,Tech Grocery Solutions 133,Business,Grocery,32IYPLO2522XMZZ,PDHCE8728Q,Hubballi,Karnataka,South,580020,2025-10-21,4.3,5.01,Warehouse Fulfilled,True,False
+S000134,SELL000134,Royal Fashion Enterprises 134,Business,Fashion,04NEUFC2038O1ZI,EQFBA5099I,Chennai,Tamil Nadu,South,600001,2023-12-18,4.2,22.59,Seller Fulfilled,True,True
+S000135,SELL000135,Prime Electronics Hub 135,Business,Electronics,36AAQAR4086ZRZ7,JPMNH2118Q,Kolkata,West Bengal,East,700001,2022-09-19,4.6,14.14,Warehouse Fulfilled,True,True
+S000136,SELL000136,Smart Books Hub 136,Business,Books,23ZMCTM7933JIZJ,YYJED1016O,Pune,Maharashtra,West,411001,2023-01-05,4.8,9.37,Seller Fulfilled,True,True
+S000137,SELL000137,Shree Fashion Store 137,Individual,Fashion,01CPNTS1803GBZM,ERRIK9740Q,Belagavi,Karnataka,South,590001,2026-04-28,4.4,23.17,Seller Fulfilled,True,True
+S000138,SELL000138,Sai Grocery World 138,Business,Grocery,03KAGGE6142SCZH,VYWVI3968Y,Coimbatore,Tamil Nadu,South,641001,2025-11-19,4.6,7.24,Warehouse Fulfilled,True,True
+S000139,SELL000139,Global Books Suppliers 139,Business,Books,06XLBPN3159YXZO,BORYC9965F,Dehradun,Uttarakhand,North,248001,2026-05-25,4.4,10.14,Warehouse Fulfilled,True,True
+S000140,SELL000140,Global Sports Solutions 140,Business,Sports,15RMNHV9619JNZL,JYTYO3114J,Delhi,Delhi,North,110001,2024-06-21,4.4,11.41,Seller Fulfilled,True,True
+S000141,SELL000141,Global Sports World 141,Business,Sports,25LDCCJ7541ELZQ,JJGAG1267B,Kochi,Kerala,South,682001,2025-08-06,4.4,11.86,Warehouse Fulfilled,False,True
+S000142,SELL000142,Prime Electronics Enterprises 142,Business,Electronics,06RCTGZ5604NNZ4,KHKRY6183K,Thiruvananthapuram,Kerala,South,695001,2024-11-17,4.0,12.19,Warehouse Fulfilled,False,True
+S000143,SELL000143,Tech Home & Kitchen Distributors 143,Business,Home & Kitchen,09JIPHC2646JIZR,PUOFM7154N,Indore,Madhya Pradesh,West,452001,2023-04-28,4.3,10.49,Warehouse Fulfilled,True,True
+S000144,SELL000144,Royal Books Retail 144,Business,Books,13DEJCM5965OUZP,TUMSM5692E,Mumbai,Maharashtra,West,400001,2024-08-25,4.6,8.56,Warehouse Fulfilled,True,True
+S000145,SELL000145,Tech Electronics Store 145,Business,Electronics,21MKJLS3564ZCZM,MLILR6519X,Coimbatore,Tamil Nadu,South,641001,2026-01-29,4.5,12.12,Warehouse Fulfilled,True,True
+S000146,SELL000146,Smart Fashion World 146,Business,Fashion,36XOWFO4167E2ZC,TBYYE4342C,Chennai,Tamil Nadu,South,600001,2024-10-20,4.5,18.12,Warehouse Fulfilled,True,True
+S000147,SELL000147,Tech Beauty World 147,Business,Beauty,31RQWBR0589UQZ6,KPNCK1135P,Delhi,Delhi,North,110001,2023-01-19,4.5,12.51,Warehouse Fulfilled,False,True
+S000148,SELL000148,Modern Grocery Hub 148,Business,Grocery,26ZNDCD4388RMZV,XZDXR9937L,Patna,Bihar,East,800001,2022-03-31,4.5,7.92,Seller Fulfilled,True,True
+S000149,SELL000149,Global Home & Kitchen Enterprises 149,Business,Home & Kitchen,33LAPPJ6112LAZ2,HEWEG4573C,Kanpur,Uttar Pradesh,North,208001,2023-11-12,4.0,12.11,Seller Fulfilled,True,True
+S000150,SELL000150,Elite Books Suppliers 150,Business,Books,29CJBPA5123QLZI,JBDOZ2825Z,Kolkata,West Bengal,East,700001,2022-05-10,4.6,11.77,Seller Fulfilled,True,True
+S000151,SELL000151,Royal Electronics Store 151,Business,Electronics,12UVNBA9379NCZX,RWTZY6033E,Jabalpur,Madhya Pradesh,Central,482001,2025-01-17,4.4,10.18,Seller Fulfilled,True,True
+S000152,SELL000152,Royal Electronics Store 152,Business,Electronics,37ZRFTK3714V7ZZ,YNZLH7859W,Pune,Maharashtra,West,411001,2024-03-30,4.6,14.47,Warehouse Fulfilled,True,False
+S000153,SELL000153,Royal Beauty Hub 153,Business,Beauty,23TFVAT9125DUZM,XSJGY3412A,Mangaluru,Karnataka,South,575001,2024-05-19,3.9,15.61,Warehouse Fulfilled,True,True
+S000154,SELL000154,Royal Electronics Store 154,Business,Electronics,09NFPJW2827JPZZ,NDWAF2257I,Noida,Uttar Pradesh,North,201301,2024-05-22,4.0,12.22,Seller Fulfilled,True,True
+S000155,SELL000155,Smart Grocery Store 155,Business,Grocery,13RQULN7677FPZA,SCROI1903S,Kolkata,West Bengal,East,700001,2022-04-28,3.9,6.55,Warehouse Fulfilled,True,True
+S000156,SELL000156,Sai Electronics World 156,Business,Electronics,11SXYLR8191IUZK,WUCIN8580B,Surat,Gujarat,West,395003,2022-09-16,3.8,13.89,Warehouse Fulfilled,True,True
+S000157,SELL000157,Sai Grocery Suppliers 157,Individual,Grocery,07JBOAL1713GGZZ,KNIYN9596N,Nagpur,Maharashtra,West,440001,2026-04-12,3.9,4.55,Warehouse Fulfilled,True,True
+S000158,SELL000158,Tech Electronics Retail 158,Business,Electronics,04RITJF5449INZ7,DRPIS8126I,Nashik,Maharashtra,West,422001,2025-02-24,3.9,13.87,Warehouse Fulfilled,True,True
+S000159,SELL000159,Elite Books Mart 159,Business,Books,16WKHBP2946MAZL,GVRSX7116D,Siliguri,West Bengal,East,734001,2024-07-14,4.0,10.85,Seller Fulfilled,False,True
+S000160,SELL000160,Royal Home & Kitchen Enterprises 160,Business,Home & Kitchen,32SAYPX7518MLZL,RUSVJ3637K,Mumbai,Maharashtra,West,400001,2023-09-07,4.7,14.27,Seller Fulfilled,False,True
+S000161,SELL000161,Global Grocery Enterprises 161,Individual,Grocery,09ZKVCB1701FWZL,MSIPT7706K,Kolkata,West Bengal,East,700001,2023-04-30,4.6,4.11,Seller Fulfilled,True,True
+S000162,SELL000162,Sai Grocery World 162,Individual,Grocery,18ULIPL2064X6ZG,ANEEI3611L,Mysuru,Karnataka,South,570001,2024-03-26,5.0,6.88,Seller Fulfilled,True,True
+S000163,SELL000163,Sai Electronics Solutions 163,Business,Electronics,15VOACW5162PYZM,UZGGU1361X,Surat,Gujarat,West,395003,2025-10-24,4.4,10.64,Warehouse Fulfilled,True,True
+S000164,SELL000164,Sai Sports Distributors 164,Business,Sports,20MYYHU2189A9Z3,UNOVJ9275A,Patna,Bihar,East,800001,2022-09-12,4.4,11.52,Warehouse Fulfilled,True,True
+S000165,SELL000165,Prime Grocery Enterprises 165,Business,Grocery,29CDEPS6565ZEZJ,PJMMU2341M,Gurugram,Haryana,North,122001,2025-02-02,4.2,6.5,Warehouse Fulfilled,True,True
+S000166,SELL000166,National Grocery Retail 166,Business,Grocery,19VJGJT8364U2ZI,HPFOM0376E,Gurugram,Haryana,North,122001,2025-05-24,4.2,7.7,Warehouse Fulfilled,True,True
+S000167,SELL000167,National Books Store 167,Business,Books,34LKEBS6582Y1ZB,EAQNC7109D,Amritsar,Punjab,North,143001,2024-05-03,4.5,8.12,Warehouse Fulfilled,True,True
+S000168,SELL000168,Elite Home & Kitchen Mart 168,Individual,Home & Kitchen,26JUWJY6661UXZ1,RFTFG8892N,Jaipur,Rajasthan,North,302001,2023-09-02,4.4,14.13,Warehouse Fulfilled,True,True
+S000169,SELL000169,National Home & Kitchen Retail 169,Business,Home & Kitchen,10KMSPJ6303CZZC,MDTQV6179Q,Lucknow,Uttar Pradesh,North,226001,2026-02-12,4.9,12.07,Warehouse Fulfilled,True,True
+S000170,SELL000170,Royal Electronics Mart 170,Business,Electronics,12AWECF7588Z8ZY,VXRUH4252X,Thiruvananthapuram,Kerala,South,695001,2023-05-23,4.0,10.25,Warehouse Fulfilled,False,True
+S000171,SELL000171,Sai Sports Solutions 171,Individual,Sports,02ZNIJC4917OMZ1,KKXKQ8507X,Lucknow,Uttar Pradesh,North,226001,2023-01-24,4.6,12.49,Warehouse Fulfilled,True,True
+S000172,SELL000172,Shree Electronics Distributors 172,Business,Electronics,07HXQCB0307L8ZX,JZTVP6220A,Raipur,Chhattisgarh,Central,492001,2023-03-17,4.5,10.24,Seller Fulfilled,True,True
+S000173,SELL000173,Elite Books Store 173,Business,Books,15HNXTI1951QLZ8,CZEDS0238X,Howrah,West Bengal,East,711101,2024-06-01,4.0,9.06,Warehouse Fulfilled,True,True
+S000174,SELL000174,National Electronics Hub 174,Business,Electronics,20CROCL3494XLZV,LFXXM9375U,Delhi,Delhi,North,110001,2022-05-31,4.3,12.25,Warehouse Fulfilled,True,True
+S000175,SELL000175,Shree Grocery Retail 175,Individual,Grocery,35EANCH8505AGZ8,HPAFD6413J,Nashik,Maharashtra,West,422001,2026-06-16,4.9,6.23,Warehouse Fulfilled,True,True
+S000176,SELL000176,Modern Beauty Traders 176,Business,Beauty,18BHQBW5719D6ZF,LKDBQ8261I,Chennai,Tamil Nadu,South,600001,2023-11-14,4.7,15.12,Warehouse Fulfilled,True,True
+S000177,SELL000177,Royal Grocery Retail 177,Business,Grocery,16IKZBW5574HJZ6,GJGKC1329D,Noida,Uttar Pradesh,North,201301,2023-09-05,4.5,6.03,Warehouse Fulfilled,True,True
+S000178,SELL000178,Tech Beauty Solutions 178,Business,Beauty,21DRLFO4741CRZV,NUJFT2490P,Chennai,Tamil Nadu,South,600001,2024-05-03,4.5,16.78,Warehouse Fulfilled,True,True
+S000179,SELL000179,Prime Beauty World 179,Business,Beauty,23QBVAI2067RQZO,GZYIH8317A,Lucknow,Uttar Pradesh,North,226001,2025-04-10,4.4,15.15,Warehouse Fulfilled,True,True
+S000180,SELL000180,Global Sports Traders 180,Business,Sports,04EGMTV1994CFZF,ZIFZV0137H,Lucknow,Uttar Pradesh,North,226001,2023-01-26,3.7,11.57,Warehouse Fulfilled,True,True
+S000181,SELL000181,National Sports Suppliers 181,Individual,Sports,03BFSBX6706VUZ5,LRRCJ6253C,Kanpur,Uttar Pradesh,North,208001,2022-05-08,4.6,12.59,Warehouse Fulfilled,True,False
+S000182,SELL000182,Royal Beauty Retail 182,Business,Beauty,16PNRLB1462NJZ1,YBYYT3838W,Panaji,Goa,West,403001,2025-01-23,4.3,16.63,Warehouse Fulfilled,True,True
+S000183,SELL000183,Elite Grocery Mart 183,Individual,Grocery,31ZPLGQ5642AZZ2,ZXRDZ5930E,Mumbai,Maharashtra,West,400001,2023-09-04,4.1,7.89,Warehouse Fulfilled,True,True
+S000184,SELL000184,Elite Books Solutions 184,Business,Books,34YSHHD3348ZNZ4,WLLPL0396U,Delhi,Delhi,North,110001,2026-06-17,4.6,9.15,Seller Fulfilled,True,True
+S000185,SELL000185,Royal Beauty Retail 185,Business,Beauty,23WWLGS2937R2ZK,FDOMO4270B,Mumbai,Maharashtra,West,400001,2026-01-02,3.9,17.54,Warehouse Fulfilled,True,True
+S000186,SELL000186,Modern Sports Store 186,Individual,Sports,34AKTFZ2525BVZQ,XHHXE0292X,Jodhpur,Rajasthan,North,342001,2022-10-09,3.9,13.7,Seller Fulfilled,True,True
+S000187,SELL000187,Global Fashion Traders 187,Business,Fashion,26KJKHF6752W7Z8,QLLYT8953U,Mumbai,Maharashtra,West,400001,2024-08-25,3.9,23.4,Seller Fulfilled,True,True
+S000188,SELL000188,Elite Beauty Suppliers 188,Business,Beauty,19FXAGM9029K9Z7,FJVVE9391P,Dehradun,Uttarakhand,North,248001,2023-08-12,4.2,15.88,Warehouse Fulfilled,False,True
+S000189,SELL000189,Tech Grocery Retail 189,Business,Grocery,23FUCTO0433WLZB,UADYC1541U,Howrah,West Bengal,East,711101,2022-03-16,5.0,5.59,Seller Fulfilled,True,True
+S000190,SELL000190,Tech Home & Kitchen Traders 190,Business,Home & Kitchen,27NPMTR6179UBZJ,ZCSBU3271Q,Noida,Uttar Pradesh,North,201301,2023-11-18,4.2,15.93,Seller Fulfilled,True,True
+S000191,SELL000191,Modern Sports Suppliers 191,Business,Sports,07KFMHX1815T5ZJ,PKMBK9706D,Kolkata,West Bengal,East,700001,2023-11-09,4.0,12.29,Seller Fulfilled,True,True
+S000192,SELL000192,Prime Sports World 192,Business,Sports,07GGNJX8444HMZ8,JFJDX1069A,Hyderabad,Telangana,South,500001,2025-06-05,4.7,14.49,Warehouse Fulfilled,True,True
+S000193,SELL000193,Shree Books Retail 193,Individual,Books,28JVUGP3103F6ZK,TYZEF4171Q,Vadodara,Gujarat,West,390001,2023-05-24,3.6,9.53,Warehouse Fulfilled,True,True
+S000194,SELL000194,National Grocery Traders 194,Business,Grocery,17URMHL6527B6ZK,ORKDJ4774W,Pune,Maharashtra,West,411001,2023-04-29,3.8,4.47,Warehouse Fulfilled,True,True
+S000195,SELL000195,Prime Books Enterprises 195,Business,Books,07VLZJN9380M6ZG,KPETF8687Z,Cuttack,Odisha,East,753001,2024-01-23,4.5,8.88,Seller Fulfilled,True,True
+S000196,SELL000196,Royal Grocery Distributors 196,Business,Grocery,03SQZGV9217FXZC,CBFRB2332M,Dhanbad,Jharkhand,East,826001,2026-04-01,4.4,6.66,Seller Fulfilled,True,True
+S000197,SELL000197,Shree Sports Hub 197,Business,Sports,10KXZPC6868KHZ5,YSNLH4870Y,Lucknow,Uttar Pradesh,North,226001,2022-06-09,4.8,10.56,Warehouse Fulfilled,True,True
+S000198,SELL000198,Sai Grocery Retail 198,Business,Grocery,27NEEGS9119Y8Z5,AQYPF1485K,Bhopal,Madhya Pradesh,West,462001,2022-08-27,4.6,6.87,Warehouse Fulfilled,True,True
+S000199,SELL000199,Elite Electronics Retail 199,Business,Electronics,31FIMHT9606K3Z1,XBVYT3074T,Surat,Gujarat,West,395003,2022-04-29,4.5,13.36,Warehouse Fulfilled,True,True
+S000200,SELL000200,Global Electronics World 200,Business,Electronics,18WVDFE4754XWZS,CNAVF6913W,Ahmedabad,Gujarat,West,380001,2025-12-05,3.8,14.97,Seller Fulfilled,False,True
+S000201,SELL000201,Prime Electronics Distributors 201,Business,Electronics,34BQZHC4862YOZA,MMDPC8902D,Chennai,Tamil Nadu,South,600001,2025-08-06,4.9,13.23,Warehouse Fulfilled,True,False
+S000202,SELL000202,Smart Sports Distributors 202,Business,Sports,04WGITO8610HOZY,LELJW5797W,Raipur,Chhattisgarh,Central,492001,2025-01-09,4.0,14.3,Warehouse Fulfilled,True,False
+S000203,SELL000203,Global Fashion Traders 203,Business,Fashion,11XWCAA6029YHZZ,RPAGB3333X,Jabalpur,Madhya Pradesh,Central,482001,2024-08-06,4.6,21.81,Warehouse Fulfilled,True,True
+S000204,SELL000204,Sai Home & Kitchen Store 204,Business,Home & Kitchen,01EUFGZ0349ZVZ8,WDQND4466T,Patna,Bihar,East,800001,2026-04-17,3.9,14.86,Seller Fulfilled,True,True
+S000205,SELL000205,Global Electronics Mart 205,Business,Electronics,34SDAJV5899JQZY,VROUR4171Q,Noida,Uttar Pradesh,North,201301,2024-07-03,4.5,13.52,Warehouse Fulfilled,True,True
+S000206,SELL000206,Modern Fashion Mart 206,Business,Fashion,20EQYFB9652XDZT,AZYVC0744L,Ludhiana,Punjab,North,141001,2022-10-14,4.4,20.02,Warehouse Fulfilled,True,True
+S000207,SELL000207,Royal Grocery Mart 207,Business,Grocery,37KXWFV8758JDZZ,GEIVQ2824U,Chennai,Tamil Nadu,South,600001,2025-09-14,4.4,5.65,Warehouse Fulfilled,True,True
+S000208,SELL000208,Sai Books Distributors 208,Business,Books,36VKUPH5346ZCZU,SDHED5549O,Bengaluru,Karnataka,South,560001,2023-12-07,4.8,10.69,Warehouse Fulfilled,True,True
+S000209,SELL000209,Prime Fashion Distributors 209,Business,Fashion,38PGQPV6846B5Z8,AKDJU2235T,Delhi,Delhi,North,110001,2023-05-09,4.7,20.11,Seller Fulfilled,True,True
+S000210,SELL000210,Smart Grocery Distributors 210,Business,Grocery,12PKUHK0074G6Z6,YWXFI2927N,Chennai,Tamil Nadu,South,600001,2023-05-13,4.1,5.32,Warehouse Fulfilled,True,True
+S000211,SELL000211,Global Grocery Traders 211,Business,Grocery,28MNPBA0835ASZ6,RAOUP5830O,Jaipur,Rajasthan,North,302001,2025-05-19,3.8,4.29,Warehouse Fulfilled,True,True
+S000212,SELL000212,Elite Fashion Mart 212,Individual,Fashion,23EDMJS4210JKZ9,HVBRI4789V,Pune,Maharashtra,West,411001,2022-02-01,4.1,19.33,Seller Fulfilled,True,True
+S000213,SELL000213,National Fashion Mart 213,Business,Fashion,32YGFBA3323XNZR,HXTPY0982C,Warangal,Telangana,South,506002,2023-10-21,4.6,20.66,Warehouse Fulfilled,True,True
+S000214,SELL000214,Elite Grocery Suppliers 214,Business,Grocery,25YRTCT0100WHZN,HJQES1676J,Jabalpur,Madhya Pradesh,Central,482001,2024-08-19,4.6,5.28,Warehouse Fulfilled,True,True
+S000215,SELL000215,Global Sports Retail 215,Business,Sports,14JNVPV8499W1ZO,UNHSH2618Y,Delhi,Delhi,North,110001,2025-04-11,4.5,12.09,Warehouse Fulfilled,True,True
+S000216,SELL000216,Global Sports Suppliers 216,Business,Sports,07GTGAQ3564FWZD,SEVPA0873A,Guwahati,Assam,East,781001,2023-11-23,4.2,14.11,Warehouse Fulfilled,False,True
+S000217,SELL000217,Royal Fashion Retail 217,Business,Fashion,06SVPHC8114U8ZN,DDGLC3744S,Delhi,Delhi,North,110001,2023-01-12,4.8,21.79,Warehouse Fulfilled,True,True
+S000218,SELL000218,Shree Sports Traders 218,Business,Sports,24NXDPY0022KLZN,UFXVL5794H,Ahmedabad,Gujarat,West,380001,2025-07-15,4.1,13.54,Warehouse Fulfilled,True,True
+S000219,SELL000219,National Grocery Suppliers 219,Business,Grocery,26OIMLZ6212WQZ5,LEZKR0216C,Bengaluru,Karnataka,South,560001,2024-12-25,4.5,4.05,Seller Fulfilled,True,True
+S000220,SELL000220,Modern Electronics Distributors 220,Individual,Electronics,12YLTCV2771NPZP,PUATR7014H,Dhanbad,Jharkhand,East,826001,2022-08-08,4.8,12.62,Warehouse Fulfilled,True,True
+S000221,SELL000221,Prime Home & Kitchen Distributors 221,Business,Home & Kitchen,37VKQJW9163PFZ3,NDAPK5628G,Raipur,Chhattisgarh,Central,492001,2024-07-29,4.5,15.94,Seller Fulfilled,True,True
+S000222,SELL000222,Tech Books Enterprises 222,Business,Books,31FCYLK3540QWZ8,PFDCZ3866K,Nagpur,Maharashtra,West,440001,2024-09-01,3.8,8.04,Warehouse Fulfilled,True,True
+S000223,SELL000223,Royal Sports World 223,Individual,Sports,29POKPP0166B6ZG,YMNOT8801G,Bilaspur,Chhattisgarh,Central,495001,2024-12-17,4.8,11.15,Warehouse Fulfilled,False,True
+S000224,SELL000224,Tech Home & Kitchen Enterprises 224,Business,Home & Kitchen,36UVOTL0375REZM,TCHGW9975Q,Mumbai,Maharashtra,West,400001,2025-01-17,4.5,10.2,Seller Fulfilled,False,True
+S000225,SELL000225,Sai Grocery Distributors 225,Individual,Grocery,15KLUAR8510F1ZC,QNMMH7261Z,Mumbai,Maharashtra,West,400001,2025-02-28,4.1,7.34,Warehouse Fulfilled,True,True
+S000226,SELL000226,Sai Sports Enterprises 226,Business,Sports,14ZGWTD6091YUZF,IFAHV7798D,Bilaspur,Chhattisgarh,Central,495001,2022-04-20,3.9,11.16,Warehouse Fulfilled,True,True
+S000227,SELL000227,Smart Grocery Solutions 227,Business,Grocery,36SPQHW9221MSZ5,YAMSW9958P,Thiruvananthapuram,Kerala,South,695001,2024-07-11,4.4,5.42,Warehouse Fulfilled,False,True
+S000228,SELL000228,Smart Books Enterprises 228,Business,Books,18KJOHE6984WQZ9,MNNTS8583R,Mumbai,Maharashtra,West,400001,2023-05-20,4.6,8.33,Warehouse Fulfilled,True,True
+S000229,SELL000229,Smart Books Solutions 229,Business,Books,23WUFJR5158P9ZI,SBZAH9968G,Hubballi,Karnataka,South,580020,2023-09-24,4.4,11.05,Warehouse Fulfilled,True,True
+S000230,SELL000230,Modern Grocery Hub 230,Business,Grocery,02EBVCG4244EPZV,CWCGN0438R,Bengaluru,Karnataka,South,560001,2023-12-26,4.5,6.39,Warehouse Fulfilled,True,True
+S000231,SELL000231,Smart Beauty Enterprises 231,Business,Beauty,36XURBH8406MFZS,AVQMN6580X,Delhi,Delhi,North,110001,2023-05-13,4.5,13.02,Warehouse Fulfilled,True,True
+S000232,SELL000232,Sai Beauty Enterprises 232,Business,Beauty,29UWWTY9893YFZQ,RELLV3472G,Mumbai,Maharashtra,West,400001,2023-09-06,4.4,12.46,Warehouse Fulfilled,True,True
+S000233,SELL000233,National Grocery Mart 233,Business,Grocery,08BNIJI2294APZV,JUMDX5720O,Chennai,Tamil Nadu,South,600001,2022-01-14,4.8,5.33,Warehouse Fulfilled,True,True
+S000234,SELL000234,Smart Home & Kitchen World 234,Business,Home & Kitchen,20ZSRTC5832QWZM,IIZFW1826O,Mumbai,Maharashtra,West,400001,2025-11-24,4.1,11.89,Warehouse Fulfilled,False,False
+S000235,SELL000235,Elite Books World 235,Business,Books,14KLJFY9878YMZV,PPNNP0157C,Mumbai,Maharashtra,West,400001,2023-07-29,4.7,9.57,Warehouse Fulfilled,True,True
+S000236,SELL000236,Sai Grocery Hub 236,Business,Grocery,21ZDMAR4085QPZC,SPMUG8770F,Kanpur,Uttar Pradesh,North,208001,2025-12-21,4.1,7.19,Seller Fulfilled,True,True
+S000237,SELL000237,Smart Sports Suppliers 237,Business,Sports,07YRRCU1336DBZF,VRJBD3861T,Mumbai,Maharashtra,West,400001,2023-06-02,4.5,13.58,Seller Fulfilled,True,True
+S000238,SELL000238,National Beauty Distributors 238,Business,Beauty,22CCBHZ4819H3ZV,OZBUB4667Y,Bhubaneswar,Odisha,East,751001,2025-11-17,4.3,12.22,Seller Fulfilled,False,True
+S000239,SELL000239,Shree Grocery Enterprises 239,Business,Grocery,08AUXGC9015QZZC,FSWCY1449Z,Chandigarh,Chandigarh,North,160017,2023-12-29,4.0,6.45,Warehouse Fulfilled,True,True
+S000240,SELL000240,Royal Sports Distributors 240,Business,Sports,02FRHHX6842JVZV,JHCAK5088M,Belagavi,Karnataka,South,590001,2023-03-31,4.4,12.59,Warehouse Fulfilled,True,True
+S000241,SELL000241,Elite Beauty World 241,Business,Beauty,26RCJFX5368EZZA,QMHLQ2239Z,Coimbatore,Tamil Nadu,South,641001,2022-02-20,4.4,13.77,Seller Fulfilled,False,True
+S000242,SELL000242,Sai Books Solutions 242,Business,Books,37YROJC4141G4ZI,IQPPG9755S,Surat,Gujarat,West,395003,2023-02-28,4.4,9.39,Warehouse Fulfilled,True,True
+S000243,SELL000243,Prime Electronics Traders 243,Individual,Electronics,05KPOTT4929SDZW,AUPYO5562T,Chennai,Tamil Nadu,South,600001,2023-12-04,4.5,13.39,Warehouse Fulfilled,True,False
+S000244,SELL000244,Modern Fashion Retail 244,Business,Fashion,28LEVTP7754PIZ3,FRIIM8129Q,Ahmedabad,Gujarat,West,380001,2024-08-04,4.1,20.84,Warehouse Fulfilled,True,True
+S000245,SELL000245,National Electronics Mart 245,Business,Electronics,05AQUCS9693B5ZQ,EPXJX8488Z,Ahmedabad,Gujarat,West,380001,2022-01-10,4.6,11.03,Warehouse Fulfilled,True,True
+S000246,SELL000246,Modern Electronics Retail 246,Business,Electronics,15EOQJC6580VJZN,ICKLK3928K,Hyderabad,Telangana,South,500001,2022-08-22,4.2,14.31,Warehouse Fulfilled,True,True
+S000247,SELL000247,Smart Grocery World 247,Business,Grocery,10LBHLH1453BVZO,EDCCP3856U,Pune,Maharashtra,West,411001,2024-07-26,4.5,7.25,Warehouse Fulfilled,True,True
+S000248,SELL000248,Sai Electronics Solutions 248,Business,Electronics,07UIXAS8926UYZX,HQYOH6591Z,Mumbai,Maharashtra,West,400001,2023-01-10,4.3,10.71,Warehouse Fulfilled,True,True
+S000249,SELL000249,Sai Beauty Suppliers 249,Business,Beauty,23PZPGA8272HNZR,JLKXM1843T,Jodhpur,Rajasthan,North,342001,2025-08-14,4.8,13.04,Warehouse Fulfilled,True,True
+S000250,SELL000250,Elite Sports World 250,Business,Sports,08NZKPP7739FFZ2,IKLKI6030O,Pune,Maharashtra,West,411001,2022-01-20,4.4,10.98,Warehouse Fulfilled,True,True
+S000251,SELL000251,Elite Beauty Distributors 251,Business,Beauty,33SEBHI2869S3ZW,CMEEK0413O,Surat,Gujarat,West,395003,2022-12-09,3.9,12.19,Warehouse Fulfilled,True,True
+S000252,SELL000252,Prime Grocery Retail 252,Business,Grocery,27ZSYHT8425OAZW,YYIGB9913M,Delhi,Delhi,North,110001,2026-05-02,4.6,6.2,Seller Fulfilled,True,True
+S000253,SELL000253,Royal Sports Hub 253,Individual,Sports,34VNEGD2799BXZC,EQIMI8811A,Bengaluru,Karnataka,South,560001,2026-01-12,4.4,11.09,Warehouse Fulfilled,True,True
+S000254,SELL000254,Prime Fashion Traders 254,Business,Fashion,28NLBJN3765SYZB,QEXOF9162S,Pune,Maharashtra,West,411001,2022-06-28,4.4,24.96,Seller Fulfilled,True,True
+S000255,SELL000255,Royal Grocery World 255,Business,Grocery,35IGACS8180MRZN,GJBPL3565Q,Coimbatore,Tamil Nadu,South,641001,2022-10-13,4.6,7.25,Warehouse Fulfilled,True,True
+S000256,SELL000256,Modern Grocery Retail 256,Business,Grocery,17NSLGI6368ZZZI,JJEQT8725K,Lucknow,Uttar Pradesh,North,226001,2023-08-16,4.5,7.81,Seller Fulfilled,True,True
+S000257,SELL000257,Smart Fashion Traders 257,Individual,Fashion,23XEVPX3721GQZT,NSRTD8658K,Patna,Bihar,East,800001,2022-09-17,4.6,18.93,Warehouse Fulfilled,True,True
+S000258,SELL000258,Smart Sports Suppliers 258,Business,Sports,25ZCELT6114H1Z6,UYZNP5190H,Gurugram,Haryana,North,122001,2025-07-09,4.3,12.26,Warehouse Fulfilled,True,True
+S000259,SELL000259,Prime Grocery Solutions 259,Business,Grocery,19YFULO0384G4ZE,SONKR0988C,Rajkot,Gujarat,West,360001,2025-04-06,3.6,7.1,Warehouse Fulfilled,True,True
+S000260,SELL000260,Royal Books Enterprises 260,Business,Books,24UAFPI6566SGZ1,FJSUJ3801L,Nashik,Maharashtra,West,422001,2024-05-29,4.7,9.98,Warehouse Fulfilled,True,True
+S000261,SELL000261,National Fashion Suppliers 261,Business,Fashion,23IHTFO6904FNZW,EGSVH6818Z,Ranchi,Jharkhand,East,834001,2026-04-11,3.8,18.7,Warehouse Fulfilled,True,True
+S000262,SELL000262,Sai Sports Suppliers 262,Business,Sports,33RZSAW7697YHZ7,LBEHQ3577E,Gwalior,Madhya Pradesh,Central,474001,2024-05-26,4.1,13.44,Warehouse Fulfilled,True,True
+S000263,SELL000263,Shree Home & Kitchen Solutions 263,Business,Home & Kitchen,25VWHTN5880WFZ4,ZRVVE4341J,Nagpur,Maharashtra,West,440001,2025-08-21,4.0,12.38,Warehouse Fulfilled,True,True
+S000264,SELL000264,Shree Books Enterprises 264,Business,Books,12KLGGI2373HVZU,MPNWJ3433X,Vadodara,Gujarat,West,390001,2022-09-29,4.5,10.08,Warehouse Fulfilled,True,True
+S000265,SELL000265,Smart Electronics Retail 265,Business,Electronics,07CVVLT0807L8ZV,RFLWG9579R,Hyderabad,Telangana,South,500001,2022-07-02,4.6,10.51,Warehouse Fulfilled,True,True
+S000266,SELL000266,Sai Sports Retail 266,Business,Sports,26YSECQ6780QFZH,HSHDU5627S,Delhi,Delhi,North,110001,2025-06-03,4.5,12.2,Warehouse Fulfilled,True,True
+S000267,SELL000267,National Beauty Suppliers 267,Individual,Beauty,01VGMGD5594F1ZH,ENVXL8434F,Hubballi,Karnataka,South,580020,2022-07-25,4.0,12.74,Warehouse Fulfilled,True,True
+S000268,SELL000268,Sai Sports Mart 268,Business,Sports,28NWYTL6472SEZ2,URZPJ2931B,Mangaluru,Karnataka,South,575001,2025-02-07,4.5,13.61,Warehouse Fulfilled,True,True
+S000269,SELL000269,Prime Sports Mart 269,Business,Sports,25EZXHP0267EDZ2,TQJKD8857Z,Indore,Madhya Pradesh,West,452001,2026-03-12,4.3,13.23,Warehouse Fulfilled,True,True
+S000270,SELL000270,Shree Beauty Mart 270,Business,Beauty,07BGILU1754LBZS,WBAHW5884R,Noida,Uttar Pradesh,North,201301,2024-12-17,4.7,12.07,Warehouse Fulfilled,True,True
+S000271,SELL000271,National Sports Distributors 271,Business,Sports,13FYJTK8771MZZI,KOZVA9472O,Jaipur,Rajasthan,North,302001,2026-04-12,4.4,14.94,Warehouse Fulfilled,True,True
+S000272,SELL000272,Tech Fashion Traders 272,Individual,Fashion,37CCFTH5544TQZX,VLHCA6475K,Nashik,Maharashtra,West,422001,2023-08-10,4.5,21.51,Warehouse Fulfilled,True,True
+S000273,SELL000273,Modern Grocery World 273,Business,Grocery,12EXHAX1326D2ZI,DBXZH1178W,Mangaluru,Karnataka,South,575001,2022-06-11,4.4,4.81,Warehouse Fulfilled,True,True
+S000274,SELL000274,Shree Books Store 274,Business,Books,06ITEPU6433X7Z6,HKBCQ4722W,Kanpur,Uttar Pradesh,North,208001,2023-05-04,3.8,8.34,Warehouse Fulfilled,True,True
+S000275,SELL000275,Sai Home & Kitchen Enterprises 275,Business,Home & Kitchen,21ORIJO2829TVZA,OOITW7968E,Chennai,Tamil Nadu,South,600001,2022-01-24,4.0,15.72,Seller Fulfilled,True,True
+S000276,SELL000276,Royal Fashion Retail 276,Business,Fashion,35ZCOAL6424AFZL,SEIAS0825F,Patna,Bihar,East,800001,2026-02-10,4.7,23.4,Warehouse Fulfilled,True,True
+S000277,SELL000277,Prime Electronics World 277,Business,Electronics,31AYNAT3085GKZI,PKTVP6866Y,Indore,Madhya Pradesh,West,452001,2024-11-12,4.3,12.5,Warehouse Fulfilled,True,True
+S000278,SELL000278,National Electronics Enterprises 278,Business,Electronics,25ICNFQ9448ZFZW,LISHO4631D,Indore,Madhya Pradesh,West,452001,2022-04-01,4.7,10.06,Seller Fulfilled,True,True
+S000279,SELL000279,Tech Fashion Hub 279,Individual,Fashion,29WTPFK0208AIZJ,ITCUA2144O,Lucknow,Uttar Pradesh,North,226001,2025-09-04,4.3,20.25,Warehouse Fulfilled,True,True
+S000280,SELL000280,National Electronics Solutions 280,Business,Electronics,06APGTN4757WAZB,DRXZE0512I,Jaipur,Rajasthan,North,302001,2022-04-18,4.0,14.02,Warehouse Fulfilled,False,False
+S000281,SELL000281,Prime Beauty Store 281,Business,Beauty,31GIMCD3673XCZS,HQNEY0371R,Delhi,Delhi,North,110001,2022-01-17,4.3,13.75,Warehouse Fulfilled,True,True
+S000282,SELL000282,National Home & Kitchen Suppliers 282,Individual,Home & Kitchen,20FUXCX8814PLZJ,QNHPO4350B,Ludhiana,Punjab,North,141001,2026-02-09,4.8,14.56,Warehouse Fulfilled,True,True
+S000283,SELL000283,Modern Fashion Solutions 283,Business,Fashion,21FZIGD6300S1ZR,XFPKF7925F,Jodhpur,Rajasthan,North,342001,2022-01-20,4.8,18.01,Seller Fulfilled,True,True
+S000284,SELL000284,Global Electronics Hub 284,Individual,Electronics,22BLUHW8127H4ZV,UMBSY5857W,Ahmedabad,Gujarat,West,380001,2022-05-03,4.9,10.71,Warehouse Fulfilled,True,True
+S000285,SELL000285,Modern Sports Distributors 285,Business,Sports,09BPWLR4873SHZ0,UDRMJ2855K,Nagpur,Maharashtra,West,440001,2026-03-12,3.9,10.48,Warehouse Fulfilled,True,True
+S000286,SELL000286,Tech Grocery Distributors 286,Business,Grocery,05EOJAR5708MYZA,XNPUU2095E,Chennai,Tamil Nadu,South,600001,2023-08-21,4.2,5.26,Seller Fulfilled,True,True
+S000287,SELL000287,Elite Home & Kitchen Store 287,Business,Home & Kitchen,35GQVLY8294KPZT,HQECI6511L,Guwahati,Assam,East,781001,2022-10-06,4.6,13.51,Warehouse Fulfilled,True,True
+S000288,SELL000288,Shree Beauty Hub 288,Business,Beauty,03DPGPB9678TDZN,OMTEA9405N,Amritsar,Punjab,North,143001,2024-07-14,4.2,13.59,Warehouse Fulfilled,True,True
+S000289,SELL000289,National Sports Traders 289,Business,Sports,32OZUCL8650T6ZF,TENHG4801G,Siliguri,West Bengal,East,734001,2022-10-31,3.9,11.24,Warehouse Fulfilled,True,True
+S000290,SELL000290,Sai Home & Kitchen Traders 290,Individual,Home & Kitchen,15MGGJV3928XZZ9,WRDSQ8619B,Siliguri,West Bengal,East,734001,2025-02-12,4.6,11.5,Warehouse Fulfilled,True,True
+S000291,SELL000291,Tech Electronics Mart 291,Business,Electronics,07ZFRBQ5289OBZ2,XAWOB5585U,Kolkata,West Bengal,East,700001,2024-02-02,4.6,14.69,Seller Fulfilled,True,True
+S000292,SELL000292,Tech Electronics Enterprises 292,Business,Electronics,21SRGBY8457OGZS,MBHIT6004A,Gurugram,Haryana,North,122001,2022-09-21,3.9,14.24,Seller Fulfilled,True,True
+S000293,SELL000293,Sai Electronics World 293,Business,Electronics,20GKAAR8899EFZ7,JIQXL1075P,Kanpur,Uttar Pradesh,North,208001,2024-10-13,3.7,13.42,Warehouse Fulfilled,True,True
+S000294,SELL000294,Elite Home & Kitchen Retail 294,Business,Home & Kitchen,15ZJCGM9315ZHZM,GMPTC7279U,Gurugram,Haryana,North,122001,2023-05-19,4.5,12.99,Warehouse Fulfilled,True,True
+S000295,SELL000295,Sai Beauty Distributors 295,Business,Beauty,37CYBTL6613XPZL,THCUI9060K,Patna,Bihar,East,800001,2024-12-12,4.1,17.96,Warehouse Fulfilled,True,True
+S000296,SELL000296,Royal Books Suppliers 296,Business,Books,10QWHHB6799QLZF,YZJIV1364F,Rajkot,Gujarat,West,360001,2025-03-04,4.4,9.55,Warehouse Fulfilled,True,True
+S000297,SELL000297,Prime Sports Traders 297,Individual,Sports,31RMIPM8622P4Z2,PKMJN8376V,Vadodara,Gujarat,West,390001,2024-01-03,4.6,15.0,Warehouse Fulfilled,False,True
+S000298,SELL000298,Modern Home & Kitchen Traders 298,Business,Home & Kitchen,34HCIBK9116NGZF,WMPBX5535T,Guwahati,Assam,East,781001,2025-03-25,4.7,14.78,Seller Fulfilled,True,True
+S000299,SELL000299,Global Fashion World 299,Business,Fashion,11TZOGE7033VNZ7,VDPNJ5211S,Kanpur,Uttar Pradesh,North,208001,2024-01-05,4.8,18.2,Warehouse Fulfilled,True,True
+S000300,SELL000300,Global Grocery Suppliers 300,Business,Grocery,01WZDAO7053XMZB,HWQJE8338N,Madurai,Tamil Nadu,South,625001,2022-03-19,3.9,4.93,Warehouse Fulfilled,True,True
+S000301,SELL000301,Global Grocery Retail 301,Business,Grocery,10MSVJB4204G2Z8,PAEYQ9407R,Madurai,Tamil Nadu,South,625001,2023-10-25,3.8,4.59,Warehouse Fulfilled,True,True
+S000302,SELL000302,Royal Grocery Enterprises 302,Business,Grocery,24AJUBH6815P7Z4,MGDJT9812B,Cuttack,Odisha,East,753001,2024-03-21,4.5,5.35,Seller Fulfilled,True,False
+S000303,SELL000303,Elite Beauty Solutions 303,Business,Beauty,03QJKLM2055LGZJ,ZDOQY4384B,Raipur,Chhattisgarh,Central,492001,2025-11-21,4.7,15.68,Seller Fulfilled,True,True
+S000304,SELL000304,Prime Beauty Store 304,Business,Beauty,36HEKBV2168VIZE,KJBTM9363V,Kanpur,Uttar Pradesh,North,208001,2025-12-08,4.8,14.35,Warehouse Fulfilled,False,False
+S000305,SELL000305,Royal Grocery World 305,Business,Grocery,29EGUHS8324WZZ4,PKKUE8262J,Delhi,Delhi,North,110001,2024-10-13,4.0,6.98,Warehouse Fulfilled,True,False
+S000306,SELL000306,Royal Electronics Suppliers 306,Business,Electronics,35FKECY5664O8ZN,ILBWN4231N,Hyderabad,Telangana,South,500001,2025-11-20,3.8,11.28,Warehouse Fulfilled,True,True
+S000307,SELL000307,Smart Books Retail 307,Individual,Books,18THHCL1728TFZG,FEIKM7526O,Rajkot,Gujarat,West,360001,2024-02-15,4.3,9.5,Warehouse Fulfilled,True,True
+S000308,SELL000308,Global Sports Retail 308,Business,Sports,03YAIBH3312ORZB,PBZXC9757M,Kolkata,West Bengal,East,700001,2022-03-10,4.2,11.59,Warehouse Fulfilled,False,True
+S000309,SELL000309,Sai Beauty Enterprises 309,Business,Beauty,25MTXGT8808DLZN,HIZVC7703J,Ranchi,Jharkhand,East,834001,2022-07-10,4.2,17.91,Warehouse Fulfilled,True,True
+S000310,SELL000310,Sai Books World 310,Individual,Books,25YUBFJ7644OYZ7,DSHJD2649P,Coimbatore,Tamil Nadu,South,641001,2022-07-27,4.2,11.9,Seller Fulfilled,True,True
+S000311,SELL000311,Prime Grocery Store 311,Business,Grocery,29XQDHY9826N6ZD,DLTMD5702F,Hubballi,Karnataka,South,580020,2024-03-15,4.5,7.36,Warehouse Fulfilled,True,True
+S000312,SELL000312,National Home & Kitchen Suppliers 312,Business,Home & Kitchen,17WUWHW1117ULZP,UYGNK5186Y,Bengaluru,Karnataka,South,560001,2022-12-16,4.5,15.86,Seller Fulfilled,True,True
+S000313,SELL000313,Elite Beauty Store 313,Business,Beauty,36BYFTS2222YPZM,UXCSO0644L,Delhi,Delhi,North,110001,2023-01-14,4.3,14.29,Warehouse Fulfilled,True,True
+S000314,SELL000314,Global Home & Kitchen Store 314,Business,Home & Kitchen,08GATAA7778Z9ZJ,NLQED0973A,Coimbatore,Tamil Nadu,South,641001,2025-11-27,4.5,10.51,Seller Fulfilled,True,True
+S000315,SELL000315,Global Grocery Hub 315,Business,Grocery,29TTAFR4983B6ZE,CJCQK2205M,Nashik,Maharashtra,West,422001,2024-12-06,4.3,6.14,Seller Fulfilled,True,True
+S000316,SELL000316,Prime Beauty Enterprises 316,Business,Beauty,20CBDBF2499SMZH,XCFXT8279U,Siliguri,West Bengal,East,734001,2022-03-13,4.4,17.4,Warehouse Fulfilled,True,True
+S000317,SELL000317,Elite Electronics Retail 317,Individual,Electronics,24CYNJC4721WPZE,HNSNN4586D,Madurai,Tamil Nadu,South,625001,2023-03-10,4.7,10.63,Warehouse Fulfilled,True,False
+S000318,SELL000318,Sai Sports World 318,Business,Sports,07CPXGZ4695IYZ4,INKFH8995U,Dhanbad,Jharkhand,East,826001,2022-05-18,3.9,12.78,Warehouse Fulfilled,True,True
+S000319,SELL000319,Tech Sports World 319,Business,Sports,32ZFTFW4301AWZQ,AACVW7139J,Ludhiana,Punjab,North,141001,2022-08-19,4.3,10.74,Seller Fulfilled,True,True
+S000320,SELL000320,National Electronics Enterprises 320,Business,Electronics,14UGWAI1448R1ZY,VZUKN5015B,Patna,Bihar,East,800001,2023-12-06,4.7,11.32,Warehouse Fulfilled,True,True
+S000321,SELL000321,Prime Fashion Distributors 321,Business,Fashion,12KKVLP0272UDZW,YAVDH7857T,Noida,Uttar Pradesh,North,201301,2025-11-21,4.3,20.77,Warehouse Fulfilled,True,True
+S000322,SELL000322,Prime Beauty Solutions 322,Business,Beauty,37RRAFS5512ILZ9,KKMYL0568M,Kolkata,West Bengal,East,700001,2023-09-13,4.2,17.06,Seller Fulfilled,True,True
+S000323,SELL000323,Sai Fashion Store 323,Individual,Fashion,08WKWCI6173LKZX,TLHXY7438C,Surat,Gujarat,West,395003,2023-10-20,4.2,20.92,Warehouse Fulfilled,True,True
+S000324,SELL000324,Smart Sports Suppliers 324,Business,Sports,13OQALQ2357X6ZT,XGHRI8452N,Patna,Bihar,East,800001,2022-04-26,4.4,10.79,Warehouse Fulfilled,True,True
+S000325,SELL000325,Modern Sports World 325,Business,Sports,03MWQPA4091KUZB,XQVTB7018K,Hyderabad,Telangana,South,500001,2023-02-16,4.7,11.25,Seller Fulfilled,True,True
+S000326,SELL000326,Royal Home & Kitchen Suppliers 326,Business,Home & Kitchen,20KGGAI8571IEZM,ANJGG2241N,Gurugram,Haryana,North,122001,2022-09-11,4.6,11.45,Seller Fulfilled,True,True
+S000327,SELL000327,National Beauty Hub 327,Business,Beauty,35RKIHW4932CNZG,CDIBE4958R,Coimbatore,Tamil Nadu,South,641001,2023-06-14,4.6,16.13,Warehouse Fulfilled,True,True
+S000328,SELL000328,Global Grocery Mart 328,Business,Grocery,04MBCBM2997T7Z5,TWQZI5453F,Jaipur,Rajasthan,North,302001,2023-07-06,4.5,6.05,Warehouse Fulfilled,True,False
+S000329,SELL000329,Sai Beauty Retail 329,Business,Beauty,30CZWLD7477H9ZX,XZLSQ3294V,Bengaluru,Karnataka,South,560001,2023-06-01,4.5,17.66,Warehouse Fulfilled,True,True
+S000330,SELL000330,Royal Beauty Suppliers 330,Business,Beauty,21PACLD5772JUZY,GGZTY5992G,Vadodara,Gujarat,West,390001,2025-10-18,4.4,15.74,Seller Fulfilled,True,True
+S000331,SELL000331,Royal Sports Hub 331,Business,Sports,21ZJRLM9639H5Z5,EVNSL8276B,Noida,Uttar Pradesh,North,201301,2023-09-04,4.6,12.41,Warehouse Fulfilled,True,True
+S000332,SELL000332,Prime Home & Kitchen Store 332,Business,Home & Kitchen,28RWHHV1971SMZS,GCLTZ9758E,Bhopal,Madhya Pradesh,West,462001,2023-05-08,4.8,14.83,Warehouse Fulfilled,True,True
+S000333,SELL000333,Sai Books Traders 333,Business,Books,07KPUCC3290YPZI,SYNKC2278M,Gwalior,Madhya Pradesh,Central,474001,2023-06-16,4.8,9.62,Seller Fulfilled,True,True
+S000334,SELL000334,Global Sports Solutions 334,Business,Sports,14JSZAN5190TLZH,DXJDA8624T,Hyderabad,Telangana,South,500001,2024-12-30,4.5,12.38,Warehouse Fulfilled,False,True
+S000335,SELL000335,Modern Fashion Retail 335,Business,Fashion,36DJAFN9656MNZF,QLEIM6683J,Vadodara,Gujarat,West,390001,2026-02-26,4.2,23.66,Warehouse Fulfilled,True,True
+S000336,SELL000336,Shree Home & Kitchen Mart 336,Business,Home & Kitchen,25NEJHE0102XOZT,IPZAD7621Y,Agra,Uttar Pradesh,North,282001,2023-09-21,4.3,15.32,Warehouse Fulfilled,True,True
+S000337,SELL000337,Elite Electronics Traders 337,Individual,Electronics,28OQNJO6532NCZO,UPTGR9097A,Delhi,Delhi,North,110001,2025-06-25,3.8,14.45,Warehouse Fulfilled,True,True
+S000338,SELL000338,Smart Home & Kitchen Traders 338,Individual,Home & Kitchen,35BBSLW5197WOZF,DHFHN1284F,Coimbatore,Tamil Nadu,South,641001,2023-02-15,4.3,15.92,Warehouse Fulfilled,True,False
+S000339,SELL000339,Sai Sports Enterprises 339,Business,Sports,16UXVPV8949BVZ7,DGEKU5807V,Gurugram,Haryana,North,122001,2022-12-29,4.2,10.29,Seller Fulfilled,True,True
+S000340,SELL000340,Sai Grocery Suppliers 340,Business,Grocery,27ZJJHB9494BNZA,DQSZV7929N,Ludhiana,Punjab,North,141001,2022-09-23,4.5,6.53,Warehouse Fulfilled,True,False
+S000341,SELL000341,Modern Electronics Mart 341,Business,Electronics,02PCEJC4429IJZI,MLLVJ4401Q,Guwahati,Assam,East,781001,2023-10-22,4.6,12.66,Seller Fulfilled,True,True
+S000342,SELL000342,Royal Fashion Store 342,Business,Fashion,29ZFIFP2805COZU,WAXYP2927Q,Nagpur,Maharashtra,West,440001,2025-04-20,4.2,18.46,Warehouse Fulfilled,True,True
+S000343,SELL000343,National Grocery Hub 343,Business,Grocery,29GSXTB4102OBZM,VWIOY6747R,Patna,Bihar,East,800001,2022-10-02,4.3,7.61,Seller Fulfilled,True,True
+S000344,SELL000344,Smart Sports Traders 344,Business,Sports,25IEQBA4765QVZL,BNPRV0185R,Kanpur,Uttar Pradesh,North,208001,2022-09-26,4.1,10.11,Seller Fulfilled,True,True
+S000345,SELL000345,Tech Sports Distributors 345,Individual,Sports,18IUSBO3938K7Z6,RAEAA2580G,Kochi,Kerala,South,682001,2024-12-31,4.5,12.97,Seller Fulfilled,True,True
+S000346,SELL000346,Shree Electronics Distributors 346,Business,Electronics,34VOLFX4430A7ZX,QNMOH9109T,Chennai,Tamil Nadu,South,600001,2023-06-02,4.4,10.77,Warehouse Fulfilled,True,True
+S000347,SELL000347,Shree Books Hub 347,Business,Books,08TEMGZ2124J6ZX,XBSQX7174X,Noida,Uttar Pradesh,North,201301,2022-10-08,4.3,11.59,Warehouse Fulfilled,True,True
+S000348,SELL000348,Shree Sports Suppliers 348,Business,Sports,21FYCAY0665BHZ1,EFMNZ4427L,Hyderabad,Telangana,South,500001,2023-06-23,4.7,14.87,Warehouse Fulfilled,True,True
+S000349,SELL000349,Elite Grocery Mart 349,Business,Grocery,32ERYBG9174D7ZZ,UQXCB0119F,Vadodara,Gujarat,West,390001,2023-04-26,3.6,6.69,Warehouse Fulfilled,False,True
+S000350,SELL000350,Shree Fashion Hub 350,Business,Fashion,10BVMAE5690Q1ZY,UXZYE7766I,Kanpur,Uttar Pradesh,North,208001,2023-06-09,4.5,21.2,Warehouse Fulfilled,False,True
+S000351,SELL000351,Sai Sports Traders 351,Individual,Sports,15MWYLD9855V1ZW,XIVFD4601W,Pune,Maharashtra,West,411001,2025-10-18,4.2,13.69,Warehouse Fulfilled,True,True
+S000352,SELL000352,Sai Sports Retail 352,Business,Sports,19FRBBV3461UDZ3,VMICM5717B,Ranchi,Jharkhand,East,834001,2025-06-27,4.2,13.67,Warehouse Fulfilled,True,True
+S000353,SELL000353,Elite Beauty Store 353,Individual,Beauty,38PMCJU4787AGZ9,YUCZH0505N,Jodhpur,Rajasthan,North,342001,2024-09-06,4.7,15.89,Warehouse Fulfilled,True,True
+S000354,SELL000354,Sai Electronics Enterprises 354,Business,Electronics,34VREGH1027UUZP,PSPIA0790L,Noida,Uttar Pradesh,North,201301,2025-03-11,4.6,10.91,Warehouse Fulfilled,True,True
+S000355,SELL000355,Sai Books Suppliers 355,Individual,Books,04ZDOGF9111PKZK,ZMBVZ9931V,Chennai,Tamil Nadu,South,600001,2024-04-22,4.4,8.25,Seller Fulfilled,True,True
+S000356,SELL000356,National Grocery World 356,Business,Grocery,26DVSJE5309FLZ9,JWAKS5114X,Guwahati,Assam,East,781001,2023-11-24,4.4,6.75,Seller Fulfilled,True,True
+S000357,SELL000357,Royal Beauty Distributors 357,Business,Beauty,36OHSCE1962ABZM,LFTPL7100S,Kolkata,West Bengal,East,700001,2025-06-09,3.8,15.86,Seller Fulfilled,True,True
+S000358,SELL000358,Sai Sports Enterprises 358,Business,Sports,27WEGHU4876HVZW,LTFNF2909O,Mumbai,Maharashtra,West,400001,2023-11-09,4.9,10.25,Warehouse Fulfilled,True,True
+S000359,SELL000359,Shree Fashion Suppliers 359,Business,Fashion,20NARFG1819LNZC,XOQNR8837D,Delhi,Delhi,North,110001,2022-06-30,4.7,21.13,Warehouse Fulfilled,True,True
+S000360,SELL000360,Smart Electronics Distributors 360,Business,Electronics,13ZEVLP2200U8Z9,QVNZW5436D,Delhi,Delhi,North,110001,2022-07-06,4.6,14.82,Warehouse Fulfilled,True,True
+S000361,SELL000361,Elite Books Solutions 361,Business,Books,03XBRHF0781C7ZP,UAMVR3799U,Mysuru,Karnataka,South,570001,2023-04-02,4.7,9.33,Seller Fulfilled,True,True
+S000362,SELL000362,Elite Home & Kitchen Enterprises 362,Business,Home & Kitchen,15KHDFX6363C8ZE,BJNND7970L,Chandigarh,Chandigarh,North,160017,2022-01-05,4.3,14.98,Warehouse Fulfilled,False,True
+S000363,SELL000363,Shree Books Traders 363,Individual,Books,25EOXFU5435EOZ8,IHDDA0904K,Rajkot,Gujarat,West,360001,2026-01-08,4.6,9.64,Warehouse Fulfilled,True,True
+S000364,SELL000364,Smart Sports Mart 364,Business,Sports,22JTFGF9831NFZC,EDRAU8739B,Ludhiana,Punjab,North,141001,2026-01-07,4.2,13.79,Warehouse Fulfilled,True,True
+S000365,SELL000365,Elite Electronics Suppliers 365,Business,Electronics,16KNSFS2906BGZU,BHZEZ0780Z,Guwahati,Assam,East,781001,2022-10-03,4.9,10.02,Warehouse Fulfilled,True,True
+S000366,SELL000366,Elite Grocery Hub 366,Business,Grocery,07PHCJY0632LTZ9,EQTKT4310D,Dhanbad,Jharkhand,East,826001,2025-11-17,4.5,6.92,Warehouse Fulfilled,True,True
+S000367,SELL000367,Modern Home & Kitchen Distributors 367,Business,Home & Kitchen,37OOYHW6257W2Z1,HCSBW0165R,Noida,Uttar Pradesh,North,201301,2025-11-19,4.6,11.64,Warehouse Fulfilled,False,False
+S000368,SELL000368,Sai Fashion Distributors 368,Business,Fashion,35ZVCGK0850DEZK,CXXLP6579J,Patna,Bihar,East,800001,2024-11-15,4.2,22.91,Seller Fulfilled,True,True
+S000369,SELL000369,Global Books Mart 369,Business,Books,05EKHJD7933KEZW,RDEXW5486C,Lucknow,Uttar Pradesh,North,226001,2025-11-07,4.3,10.69,Seller Fulfilled,False,True
+S000370,SELL000370,Modern Grocery Solutions 370,Business,Grocery,32QDPJV8479LXZG,FZLSE1371G,Dehradun,Uttarakhand,North,248001,2025-02-25,4.4,6.28,Seller Fulfilled,True,True
+S000371,SELL000371,Modern Sports Store 371,Individual,Sports,11DWELE3804NIZI,ACVPB8275S,Ahmedabad,Gujarat,West,380001,2022-01-27,4.4,10.13,Warehouse Fulfilled,True,True
+S000372,SELL000372,Sai Sports Store 372,Business,Sports,13AZHJU5695U5ZA,JCDTK5798I,Chennai,Tamil Nadu,South,600001,2022-05-08,4.6,11.48,Seller Fulfilled,True,True
+S000373,SELL000373,National Electronics Hub 373,Individual,Electronics,20ZIHLL4025JBZV,TISLL7292T,Agra,Uttar Pradesh,North,282001,2025-02-23,4.3,12.55,Warehouse Fulfilled,True,True
+S000374,SELL000374,Smart Electronics Distributors 374,Business,Electronics,10HDBTS2745FBZA,WJXCI3805K,Kolkata,West Bengal,East,700001,2025-11-04,4.2,12.76,Warehouse Fulfilled,True,True
+S000375,SELL000375,Elite Sports Mart 375,Individual,Sports,35DAMLY2752AKZ9,ESWKQ8854J,Lucknow,Uttar Pradesh,North,226001,2025-08-19,4.3,12.94,Seller Fulfilled,True,True
+S000376,SELL000376,Prime Fashion Suppliers 376,Business,Fashion,37KWDLB2814ATZH,WFUDM6937P,Jaipur,Rajasthan,North,302001,2023-01-18,4.8,23.15,Warehouse Fulfilled,True,True
+S000377,SELL000377,Sai Home & Kitchen Retail 377,Business,Home & Kitchen,13HZYAG0187VYZ3,FUMMG1863D,Kochi,Kerala,South,682001,2023-11-08,4.4,15.62,Warehouse Fulfilled,True,True
+S000378,SELL000378,National Sports Store 378,Business,Sports,24EWNTM5045LQZ4,NUCVA4781Z,Delhi,Delhi,North,110001,2024-01-04,3.8,13.54,Warehouse Fulfilled,True,False
+S000379,SELL000379,Modern Sports Retail 379,Business,Sports,29FZXBX6299CJZB,HVELW2347Y,Delhi,Delhi,North,110001,2022-07-08,4.3,14.42,Warehouse Fulfilled,True,True
+S000380,SELL000380,National Sports Hub 380,Business,Sports,06NUIBF8792G1ZQ,FCTLT2648F,Delhi,Delhi,North,110001,2026-03-21,4.9,10.04,Seller Fulfilled,True,True
+S000381,SELL000381,National Grocery Mart 381,Individual,Grocery,36HAZCE4471UUZA,SPPBH4627W,Jaipur,Rajasthan,North,302001,2023-10-20,4.3,7.18,Seller Fulfilled,True,True
+S000382,SELL000382,Modern Electronics Solutions 382,Business,Electronics,18CTXTS7964UWZL,UKBQK7158L,Indore,Madhya Pradesh,West,452001,2024-09-23,3.8,14.49,Seller Fulfilled,True,True
+S000383,SELL000383,Modern Fashion Hub 383,Business,Fashion,04KOWHL2045NAZF,HOEGM5044X,Mysuru,Karnataka,South,570001,2025-10-04,4.5,19.49,Warehouse Fulfilled,True,True
+S000384,SELL000384,Smart Sports Enterprises 384,Business,Sports,12TYFJK5445D7ZG,AIHSX8952X,Coimbatore,Tamil Nadu,South,641001,2024-07-29,4.6,10.19,Warehouse Fulfilled,True,True
+S000385,SELL000385,National Electronics Mart 385,Individual,Electronics,32KFDFE8338TRZK,ADEHI8881B,Ahmedabad,Gujarat,West,380001,2024-07-12,4.5,12.17,Warehouse Fulfilled,True,True
+S000386,SELL000386,National Books Enterprises 386,Business,Books,31JWLHO9852WNZV,ISJSO4013T,Delhi,Delhi,North,110001,2025-12-06,4.7,9.43,Warehouse Fulfilled,True,True
+S000387,SELL000387,Shree Grocery Store 387,Business,Grocery,09ECNPC0760GEZA,DEHQC1089E,Surat,Gujarat,West,395003,2024-03-20,4.7,4.12,Seller Fulfilled,True,True
+S000388,SELL000388,Modern Sports Store 388,Individual,Sports,20YDZPT3932V1ZP,VRLWW5012K,Chennai,Tamil Nadu,South,600001,2025-10-19,4.7,14.83,Seller Fulfilled,True,True
+S000389,SELL000389,Modern Electronics Hub 389,Business,Electronics,33QSCPS0833JGZY,NGTEX2801S,Bengaluru,Karnataka,South,560001,2025-03-18,4.5,12.69,Seller Fulfilled,False,True
+S000390,SELL000390,Royal Books Mart 390,Business,Books,38OVDHL6638HCZ1,DHHIF6151W,Gurugram,Haryana,North,122001,2024-11-15,4.0,8.74,Warehouse Fulfilled,True,True
+S000391,SELL000391,National Books Traders 391,Individual,Books,24RXBPK7164OJZ4,JASBM9473E,Cuttack,Odisha,East,753001,2025-01-29,4.4,10.2,Warehouse Fulfilled,True,True
+S000392,SELL000392,National Books Suppliers 392,Individual,Books,31FAVLV1678VOZR,ZSLGV1126K,Pune,Maharashtra,West,411001,2025-10-06,4.5,8.4,Warehouse Fulfilled,True,True
+S000393,SELL000393,Royal Beauty World 393,Business,Beauty,05GKGGM1367IOZV,WEQMZ9946F,Jodhpur,Rajasthan,North,342001,2022-11-09,4.5,14.19,Warehouse Fulfilled,True,True
+S000394,SELL000394,Global Fashion Distributors 394,Business,Fashion,33EYOPD4773UIZY,EFRBL2010Y,Pune,Maharashtra,West,411001,2025-10-23,4.6,24.15,Warehouse Fulfilled,True,True
+S000395,SELL000395,Shree Grocery Retail 395,Business,Grocery,21JTTPY1877GAZK,QIVZI4778I,Mangaluru,Karnataka,South,575001,2023-07-29,4.7,4.56,Seller Fulfilled,True,True
+S000396,SELL000396,Shree Electronics Traders 396,Individual,Electronics,02NDMLK6770B3ZL,FBITT2842Y,Gurugram,Haryana,North,122001,2025-04-06,4.5,13.85,Warehouse Fulfilled,True,True
+S000397,SELL000397,Elite Grocery Retail 397,Business,Grocery,32SVPJV8977R8ZN,QFLYN2806R,Hyderabad,Telangana,South,500001,2026-05-01,4.5,7.43,Warehouse Fulfilled,True,True
+S000398,SELL000398,Modern Home & Kitchen Traders 398,Business,Home & Kitchen,23KBAGB2559AJZB,WWAWD5616Q,Howrah,West Bengal,East,711101,2025-06-11,4.6,14.54,Warehouse Fulfilled,True,True
+S000399,SELL000399,Sai Grocery Suppliers 399,Individual,Grocery,16HUJGC1415FGZ4,DQBKG0850A,Bengaluru,Karnataka,South,560001,2026-04-09,4.4,4.25,Warehouse Fulfilled,True,True
+S000400,SELL000400,Royal Sports Distributors 400,Business,Sports,18WPSCK6965S2ZK,VFGZW1713Q,Surat,Gujarat,West,395003,2022-04-06,3.8,13.24,Warehouse Fulfilled,True,False
+S000401,SELL000401,Prime Home & Kitchen World 401,Business,Home & Kitchen,22TJLBG7183JBZ0,ZZONV4049F,Madurai,Tamil Nadu,South,625001,2025-08-31,4.3,13.53,Warehouse Fulfilled,True,True
+S000402,SELL000402,Modern Fashion Distributors 402,Business,Fashion,38SKIPS8763L7ZG,BQIUM1484A,Patna,Bihar,East,800001,2024-09-24,4.6,24.21,Warehouse Fulfilled,True,True
+S000403,SELL000403,Shree Fashion Hub 403,Business,Fashion,26TQOJF0829PHZQ,ZNXBK3748U,Hyderabad,Telangana,South,500001,2023-01-18,4.0,22.21,Warehouse Fulfilled,True,True
+S000404,SELL000404,Shree Home & Kitchen Suppliers 404,Business,Home & Kitchen,04GLOHH2466KYZA,SPKQR1364M,Vadodara,Gujarat,West,390001,2025-04-24,4.0,15.0,Warehouse Fulfilled,True,True
+S000405,SELL000405,Sai Fashion Hub 405,Business,Fashion,16HDEFA3477RQZV,KRIBQ6603Y,Delhi,Delhi,North,110001,2022-04-25,4.0,24.46,Seller Fulfilled,True,True
+S000406,SELL000406,Tech Books Store 406,Individual,Books,18UBXLZ0015TCZV,QQFZU4165I,Hyderabad,Telangana,South,500001,2025-05-27,4.9,11.47,Warehouse Fulfilled,True,True
+S000407,SELL000407,National Sports Retail 407,Business,Sports,16SXQPQ9847C8Z5,VLVYZ3915V,Indore,Madhya Pradesh,West,452001,2022-12-10,4.6,11.71,Warehouse Fulfilled,True,True
+S000408,SELL000408,Sai Beauty Enterprises 408,Business,Beauty,16GEDHG4764SSZH,SHUIB0785E,Bhopal,Madhya Pradesh,West,462001,2024-10-29,4.6,16.96,Seller Fulfilled,True,True
+S000409,SELL000409,Tech Grocery Hub 409,Business,Grocery,16ZELLW5409BIZI,YTOSX0348Z,Chennai,Tamil Nadu,South,600001,2024-09-14,4.5,7.61,Seller Fulfilled,True,True
+S000410,SELL000410,Smart Books Hub 410,Business,Books,08HOMCM4413JZZC,ZXPAY3275C,Patna,Bihar,East,800001,2025-11-29,4.4,8.92,Warehouse Fulfilled,True,True
+S000411,SELL000411,National Grocery Enterprises 411,Business,Grocery,18YPPBK6124Q6Z4,UJVUD1569S,Kochi,Kerala,South,682001,2026-04-18,4.1,7.44,Warehouse Fulfilled,True,True
+S000412,SELL000412,Tech Fashion Traders 412,Business,Fashion,02UUFLZ2063U4ZH,HKPHT4591X,Chennai,Tamil Nadu,South,600001,2022-01-15,4.3,19.44,Warehouse Fulfilled,True,True
+S000413,SELL000413,National Beauty Store 413,Business,Beauty,09ZKOLX2429KRZ6,XLZYK4316O,Delhi,Delhi,North,110001,2025-03-02,4.3,13.65,Warehouse Fulfilled,True,True
+S000414,SELL000414,Modern Sports Suppliers 414,Business,Sports,02RUTFC7342B2Z3,QJFXK6969K,Delhi,Delhi,North,110001,2024-09-17,4.1,11.53,Seller Fulfilled,True,True
+S000415,SELL000415,Shree Sports Mart 415,Business,Sports,08WQNLV7133G1ZY,IBNMN4476S,Lucknow,Uttar Pradesh,North,226001,2022-11-28,3.9,12.54,Warehouse Fulfilled,True,True
+S000416,SELL000416,Tech Books Retail 416,Business,Books,13FNZHA4439ORZ2,FAEIU3597S,Gurugram,Haryana,North,122001,2022-07-06,4.7,9.89,Warehouse Fulfilled,True,True
+S000417,SELL000417,Shree Home & Kitchen World 417,Business,Home & Kitchen,26WMWBX9411REZH,EWMQZ0053M,Nagpur,Maharashtra,West,440001,2024-03-31,4.5,13.13,Seller Fulfilled,True,True
+S000418,SELL000418,Sai Sports Suppliers 418,Business,Sports,03IQTBJ6528B1ZI,GFVDI9242F,Hyderabad,Telangana,South,500001,2025-09-07,4.8,12.59,Warehouse Fulfilled,True,True
+S000419,SELL000419,Global Books World 419,Business,Books,21NEIPK0274XYZO,NWQHU5644B,Bengaluru,Karnataka,South,560001,2023-05-05,4.5,11.9,Warehouse Fulfilled,True,True
+S000420,SELL000420,Smart Books Distributors 420,Business,Books,11XPYHR7032BLZ6,QKTDB3207H,Bhopal,Madhya Pradesh,West,462001,2026-02-18,4.6,11.68,Warehouse Fulfilled,True,True
+S000421,SELL000421,Royal Grocery Solutions 421,Individual,Grocery,32OLWJP7712D3ZT,LKVGR5134K,Mumbai,Maharashtra,West,400001,2025-05-26,4.9,5.82,Warehouse Fulfilled,True,True
+S000422,SELL000422,Shree Grocery Hub 422,Business,Grocery,38SAQGF6137VEZA,RRHZX1504L,Mumbai,Maharashtra,West,400001,2022-08-28,4.7,7.83,Warehouse Fulfilled,True,True
+S000423,SELL000423,Elite Books Distributors 423,Business,Books,07EACLW7749VLZW,CUUUZ0509K,Amritsar,Punjab,North,143001,2026-04-01,4.2,11.1,Seller Fulfilled,True,True
+S000424,SELL000424,Shree Beauty Store 424,Business,Beauty,09BZUAK0189MEZY,PXZFB1642N,Gurugram,Haryana,North,122001,2023-03-28,4.6,13.38,Warehouse Fulfilled,True,False
+S000425,SELL000425,Prime Electronics Mart 425,Business,Electronics,11YMJHD4764VPZM,XGMFC9251Y,Nashik,Maharashtra,West,422001,2026-03-14,4.7,10.38,Warehouse Fulfilled,False,True
+S000426,SELL000426,Prime Grocery Retail 426,Individual,Grocery,31STNPY6592NIZN,VDROP6108R,Jaipur,Rajasthan,North,302001,2023-01-25,4.4,4.8,Warehouse Fulfilled,True,True
+S000427,SELL000427,Global Fashion World 427,Business,Fashion,10QUUJC4761ZWZP,RTPHB7422S,Ludhiana,Punjab,North,141001,2022-09-03,4.8,22.73,Seller Fulfilled,True,True
+S000428,SELL000428,Tech Grocery Suppliers 428,Business,Grocery,37RCBJD8661O4ZY,LFXGB9454H,Mumbai,Maharashtra,West,400001,2025-03-22,4.7,5.96,Warehouse Fulfilled,False,True
+S000429,SELL000429,National Fashion Retail 429,Business,Fashion,30ZFMCC6459XCZD,VZLNL7794F,Kolkata,West Bengal,East,700001,2024-09-06,4.8,18.23,Seller Fulfilled,True,True
+S000430,SELL000430,Shree Beauty Hub 430,Business,Beauty,17NRACM1027O7ZZ,NNXSR6974S,Jodhpur,Rajasthan,North,342001,2022-01-25,4.6,14.28,Seller Fulfilled,True,True
+S000431,SELL000431,Modern Fashion Store 431,Business,Fashion,26CEECG1030GKZD,OYIMF7236T,Vadodara,Gujarat,West,390001,2025-06-09,4.3,19.29,Seller Fulfilled,True,True
+S000432,SELL000432,Smart Home & Kitchen Store 432,Business,Home & Kitchen,30PNAPF2777AAZ4,SKZDV7933A,Delhi,Delhi,North,110001,2025-03-25,4.6,14.89,Warehouse Fulfilled,True,True
+S000433,SELL000433,Smart Sports Mart 433,Business,Sports,07NPXGT8407MSZ7,RFOTD7899H,Raipur,Chhattisgarh,Central,492001,2022-11-03,4.4,10.05,Seller Fulfilled,True,True
+S000434,SELL000434,Modern Books Hub 434,Business,Books,02SKRPI6717TSZ5,KSUME5760W,Ludhiana,Punjab,North,141001,2023-09-07,4.1,11.43,Warehouse Fulfilled,True,True
+S000435,SELL000435,Prime Fashion Suppliers 435,Individual,Fashion,29QHSTT7246NFZ1,NSSVF5729Q,Hubballi,Karnataka,South,580020,2026-03-05,4.2,20.53,Warehouse Fulfilled,True,True
+S000436,SELL000436,Smart Electronics Enterprises 436,Business,Electronics,31FGFGP1674H9ZO,WQWRK3800L,Jaipur,Rajasthan,North,302001,2025-05-25,4.1,12.88,Seller Fulfilled,True,True
+S000437,SELL000437,Royal Home & Kitchen Hub 437,Business,Home & Kitchen,33ZCKBD9318H3ZQ,XCXJR7455J,Kanpur,Uttar Pradesh,North,208001,2022-06-10,4.3,11.72,Warehouse Fulfilled,True,True
+S000438,SELL000438,Royal Sports Distributors 438,Business,Sports,33WBOLY1199Z7ZH,GKOHN1808X,Delhi,Delhi,North,110001,2022-05-27,3.9,11.72,Seller Fulfilled,True,True
+S000439,SELL000439,Smart Grocery Store 439,Individual,Grocery,11WOYJP1255EJZ5,XXAPZ1376E,Ludhiana,Punjab,North,141001,2024-01-14,4.6,6.08,Seller Fulfilled,True,True
+S000440,SELL000440,Global Fashion Store 440,Individual,Fashion,22QFCAL6532YJZP,ZBAAD8632H,Lucknow,Uttar Pradesh,North,226001,2022-06-13,4.1,20.78,Warehouse Fulfilled,True,True
+S000441,SELL000441,Tech Electronics Distributors 441,Business,Electronics,24OEYCW8115K2ZY,ZWCQP6260J,Gwalior,Madhya Pradesh,Central,474001,2022-08-01,4.2,10.78,Warehouse Fulfilled,True,True
+S000442,SELL000442,Prime Fashion Suppliers 442,Business,Fashion,37UWZJJ6684X4ZB,HNJSZ5504C,Chennai,Tamil Nadu,South,600001,2022-12-16,3.7,22.64,Warehouse Fulfilled,True,True
+S000443,SELL000443,Modern Sports Store 443,Business,Sports,14TZTLW5634CZZR,UUVIH0856I,Chennai,Tamil Nadu,South,600001,2025-11-29,4.4,12.95,Seller Fulfilled,True,True
+S000444,SELL000444,Modern Beauty Hub 444,Business,Beauty,19CQRAQ5200ZEZZ,XTUBG8943H,Pune,Maharashtra,West,411001,2025-01-10,4.1,12.54,Warehouse Fulfilled,True,True
+S000445,SELL000445,Tech Electronics Hub 445,Individual,Electronics,04IUQTD0174SOZ4,ZVLKT0753O,Howrah,West Bengal,East,711101,2023-12-06,4.2,12.68,Seller Fulfilled,True,True
+S000446,SELL000446,Tech Home & Kitchen Distributors 446,Business,Home & Kitchen,35LJJGV2683DFZS,XXDGJ5893T,Noida,Uttar Pradesh,North,201301,2026-06-20,3.6,12.24,Warehouse Fulfilled,True,True
+S000447,SELL000447,Smart Fashion Distributors 447,Business,Fashion,28CCBBE7371LRZE,HXZQL8698F,Mangaluru,Karnataka,South,575001,2025-07-04,4.1,23.35,Warehouse Fulfilled,False,True
+S000448,SELL000448,Modern Home & Kitchen Store 448,Business,Home & Kitchen,28WPXBF2827WTZ1,HSNDE7288C,Siliguri,West Bengal,East,734001,2023-01-09,4.0,10.66,Seller Fulfilled,True,True
+S000449,SELL000449,Global Beauty Solutions 449,Business,Beauty,11DTNPD5940QOZN,XTSFB2154Y,Bengaluru,Karnataka,South,560001,2024-12-31,3.7,17.83,Warehouse Fulfilled,True,True
+S000450,SELL000450,Global Electronics Enterprises 450,Business,Electronics,10ZSNCJ4327AAZ6,CAEKT1851K,Rajkot,Gujarat,West,360001,2023-12-02,4.3,13.93,Warehouse Fulfilled,True,True
+S000451,SELL000451,Royal Electronics Enterprises 451,Individual,Electronics,29ZMPGE2877VMZ0,ZNQNA7251Y,Guwahati,Assam,East,781001,2022-04-25,4.2,11.96,Seller Fulfilled,True,True
+S000452,SELL000452,Smart Home & Kitchen Traders 452,Business,Home & Kitchen,15KRBLX4120SQZK,FMNIK4818W,Amritsar,Punjab,North,143001,2023-05-25,4.3,15.85,Warehouse Fulfilled,True,False
+S000453,SELL000453,Shree Books Hub 453,Business,Books,04GYPJA1820IYZ1,FZIMU3397Z,Hyderabad,Telangana,South,500001,2024-03-07,4.6,9.25,Warehouse Fulfilled,True,True
+S000454,SELL000454,Modern Grocery Enterprises 454,Business,Grocery,38PAKBF6085M3ZF,IKSJL4111Q,Gurugram,Haryana,North,122001,2023-02-11,4.3,4.21,Warehouse Fulfilled,True,False
+S000455,SELL000455,Royal Beauty Traders 455,Business,Beauty,06JNVHB9520WAZX,UJAUQ0461Y,Mumbai,Maharashtra,West,400001,2022-09-03,4.3,13.46,Warehouse Fulfilled,False,True
+S000456,SELL000456,National Books Retail 456,Business,Books,08GHYGS3788M4Z7,DJAEE1405B,Hubballi,Karnataka,South,580020,2022-11-19,4.4,10.74,Seller Fulfilled,True,False
+S000457,SELL000457,Tech Electronics Solutions 457,Business,Electronics,27AIRGV1382JFZN,OGNYJ9671X,Lucknow,Uttar Pradesh,North,226001,2026-06-09,3.9,12.44,Warehouse Fulfilled,True,True
+S000458,SELL000458,Elite Home & Kitchen Mart 458,Business,Home & Kitchen,35ZHRBR7007TBZ4,ERMQR4200Y,Nagpur,Maharashtra,West,440001,2026-01-23,4.0,15.39,Warehouse Fulfilled,True,True
+S000459,SELL000459,Elite Books Mart 459,Business,Books,23SQJCF8914CEZ1,RBNNG6128Z,Delhi,Delhi,North,110001,2023-10-25,4.6,9.1,Warehouse Fulfilled,True,True
+S000460,SELL000460,Modern Electronics Retail 460,Business,Electronics,21UIYLI3553OMZS,PAMEA9502A,Kolkata,West Bengal,East,700001,2025-01-14,4.3,10.0,Warehouse Fulfilled,True,True
+S000461,SELL000461,National Electronics Solutions 461,Business,Electronics,12RWWLY6811RRZE,YMWYL0715X,Warangal,Telangana,South,506002,2026-01-16,3.8,14.84,Warehouse Fulfilled,True,True
+S000462,SELL000462,Modern Sports Retail 462,Business,Sports,01OLGLA3045G8ZK,OFXCR1943F,Mumbai,Maharashtra,West,400001,2025-08-05,4.2,10.48,Seller Fulfilled,True,True
+S000463,SELL000463,Tech Fashion Mart 463,Business,Fashion,14GUMPI9872R1ZE,LELIV3999E,Hyderabad,Telangana,South,500001,2022-03-07,4.5,23.85,Seller Fulfilled,True,True
+S000464,SELL000464,Tech Home & Kitchen Solutions 464,Business,Home & Kitchen,09SHQAG0894VHZ1,PRPDU8706B,Lucknow,Uttar Pradesh,North,226001,2022-01-27,4.8,11.25,Warehouse Fulfilled,True,True
+S000465,SELL000465,Tech Sports Solutions 465,Business,Sports,27DVQLP5803BIZ6,UAZMV4687F,Cuttack,Odisha,East,753001,2024-05-01,4.7,13.97,Warehouse Fulfilled,True,True
+S000466,SELL000466,Shree Books Store 466,Business,Books,37XHWBC3325J2Z8,BZBLZ1107O,Hyderabad,Telangana,South,500001,2024-11-29,3.9,10.9,Warehouse Fulfilled,True,True
+S000467,SELL000467,National Fashion Retail 467,Business,Fashion,22HDPFK0583CHZS,OCLHF9971D,Delhi,Delhi,North,110001,2026-03-09,3.9,22.47,Warehouse Fulfilled,True,True
+S000468,SELL000468,Sai Electronics Retail 468,Business,Electronics,03KWCHB7049UPZO,JDSYZ6110G,Indore,Madhya Pradesh,West,452001,2025-09-08,4.0,14.99,Warehouse Fulfilled,True,True
+S000469,SELL000469,Royal Home & Kitchen Distributors 469,Business,Home & Kitchen,27TZVGA7676TFZM,DHVLM9150G,Ahmedabad,Gujarat,West,380001,2026-01-26,4.2,11.44,Warehouse Fulfilled,True,True
+S000470,SELL000470,Prime Books Solutions 470,Individual,Books,07TWCGZ3928I1Z1,CLPIZ5679C,Surat,Gujarat,West,395003,2024-03-24,3.5,8.14,Warehouse Fulfilled,True,True
+S000471,SELL000471,Tech Home & Kitchen Store 471,Individual,Home & Kitchen,04JSNJU5498Y9ZV,MVSXA2274H,Hyderabad,Telangana,South,500001,2023-10-07,3.7,14.93,Warehouse Fulfilled,True,True
+S000472,SELL000472,National Grocery World 472,Business,Grocery,38BHQJB6533UAZG,QESSD3153M,Bengaluru,Karnataka,South,560001,2023-12-30,4.0,5.06,Warehouse Fulfilled,True,True
+S000473,SELL000473,Shree Home & Kitchen World 473,Business,Home & Kitchen,22TJNTF1707HMZA,NNPEV0337X,Bhubaneswar,Odisha,East,751001,2026-02-12,3.9,11.95,Seller Fulfilled,True,True
+S000474,SELL000474,National Books Enterprises 474,Business,Books,22GMFCL0150RPZZ,MOLWX1247C,Mumbai,Maharashtra,West,400001,2026-02-05,4.7,9.53,Warehouse Fulfilled,True,True
+S000475,SELL000475,Smart Sports Distributors 475,Individual,Sports,02GJFFI2583FDZO,GBRIY3024P,Chennai,Tamil Nadu,South,600001,2026-04-27,4.1,13.26,Seller Fulfilled,True,True
+S000476,SELL000476,Tech Beauty Store 476,Business,Beauty,08GJOFL5289NMZ1,YMMIY1122S,Mumbai,Maharashtra,West,400001,2025-03-02,4.0,15.01,Seller Fulfilled,True,True
+S000477,SELL000477,Elite Beauty World 477,Business,Beauty,24TNUFB9938JLZV,OYRIG2530L,Hubballi,Karnataka,South,580020,2024-06-03,4.2,14.37,Warehouse Fulfilled,True,True
+S000478,SELL000478,Modern Electronics Distributors 478,Business,Electronics,32XCZLZ9128MEZM,DLUTX8578H,Nashik,Maharashtra,West,422001,2024-06-08,4.6,10.65,Warehouse Fulfilled,True,True
+S000479,SELL000479,National Books Mart 479,Business,Books,31PISBU9033GWZF,TBYKK7363X,Gwalior,Madhya Pradesh,Central,474001,2024-12-09,4.1,8.29,Seller Fulfilled,True,True
+S000480,SELL000480,Shree Electronics Distributors 480,Business,Electronics,17EYCAO8539B6ZZ,BCDBA7895X,Pune,Maharashtra,West,411001,2023-10-19,4.3,13.28,Warehouse Fulfilled,True,True
+S000481,SELL000481,Elite Sports World 481,Business,Sports,32IMAHO3415CLZH,PFYRO4888G,Bengaluru,Karnataka,South,560001,2023-04-24,4.1,11.87,Warehouse Fulfilled,True,True
+S000482,SELL000482,Global Electronics World 482,Individual,Electronics,08LBRFK3544X5ZM,WTVIQ4392A,Patna,Bihar,East,800001,2023-08-13,3.7,13.47,Warehouse Fulfilled,True,True
+S000483,SELL000483,Modern Fashion Mart 483,Business,Fashion,20LZMBS0782MJZY,OHLYJ3337W,Bhopal,Madhya Pradesh,West,462001,2023-06-14,4.5,22.36,Warehouse Fulfilled,False,True
+S000484,SELL000484,National Beauty Hub 484,Business,Beauty,30KZCTG6637OUZY,KITVA8052F,Madurai,Tamil Nadu,South,625001,2023-08-05,4.1,16.18,Seller Fulfilled,True,True
+S000485,SELL000485,Smart Electronics Store 485,Business,Electronics,23HNNBY8459AMZL,VKOZM9022M,Dhanbad,Jharkhand,East,826001,2024-01-08,4.7,10.1,Warehouse Fulfilled,True,True
+S000486,SELL000486,Modern Beauty Enterprises 486,Individual,Beauty,37MGMPR6371KQZL,KGRJL9741C,Rajkot,Gujarat,West,360001,2025-05-07,4.4,13.12,Seller Fulfilled,True,True
+S000487,SELL000487,Tech Electronics Mart 487,Individual,Electronics,32FGCBJ3348C2ZN,AKUAZ7058K,Mumbai,Maharashtra,West,400001,2024-09-30,4.3,10.79,Warehouse Fulfilled,True,True
+S000488,SELL000488,Modern Fashion Store 488,Individual,Fashion,08RNPPM3234N9ZR,TLMGT7299R,Gurugram,Haryana,North,122001,2024-03-03,4.7,23.7,Warehouse Fulfilled,True,True
+S000489,SELL000489,Royal Fashion Distributors 489,Business,Fashion,30GAELC6938KIZF,KCVFS9777P,Hubballi,Karnataka,South,580020,2024-02-22,4.4,22.75,Warehouse Fulfilled,True,True
+S000490,SELL000490,Sai Grocery Distributors 490,Individual,Grocery,30WWZAM9263FNZO,QLSKG9676Z,Dhanbad,Jharkhand,East,826001,2023-11-06,4.4,4.53,Warehouse Fulfilled,True,True
+S000491,SELL000491,Sai Fashion Store 491,Business,Fashion,03FIUJJ1376YGZX,WGGXX8151U,Ranchi,Jharkhand,East,834001,2022-10-04,4.3,24.36,Warehouse Fulfilled,True,True
+S000492,SELL000492,Royal Fashion Enterprises 492,Business,Fashion,27FIGJB7017MTZM,CAQHT5636I,Guwahati,Assam,East,781001,2022-08-31,4.1,23.88,Warehouse Fulfilled,True,True
+S000493,SELL000493,Smart Beauty Store 493,Business,Beauty,21POCPR3727IUZU,GLSHI2209V,Cuttack,Odisha,East,753001,2025-07-28,4.8,13.64,Warehouse Fulfilled,True,True
+S000494,SELL000494,National Sports World 494,Business,Sports,26CVYCV4275FBZ5,CSDOZ3083H,Delhi,Delhi,North,110001,2023-04-18,4.5,11.15,Seller Fulfilled,True,True
+S000495,SELL000495,Modern Fashion World 495,Business,Fashion,07WJOCT0063HPZH,BABAV5331M,Chandigarh,Chandigarh,North,160017,2023-01-12,4.7,21.44,Warehouse Fulfilled,True,True
+S000496,SELL000496,Tech Sports Store 496,Individual,Sports,05DZVHX2068DFZW,NNIZB5583H,Hyderabad,Telangana,South,500001,2025-10-06,4.9,13.79,Seller Fulfilled,True,True
+S000497,SELL000497,National Sports Suppliers 497,Business,Sports,15DLKHA6506GEZH,PNXCE7314N,Patna,Bihar,East,800001,2023-05-21,4.3,13.88,Seller Fulfilled,True,True
+S000498,SELL000498,National Beauty World 498,Business,Beauty,27YTPPW8924DKZT,VLOWS9562U,Bhopal,Madhya Pradesh,West,462001,2025-12-13,4.6,15.12,Warehouse Fulfilled,True,True
+S000499,SELL000499,Modern Fashion Hub 499,Business,Fashion,31KATGO6838S5ZR,WHTPV0309B,Kanpur,Uttar Pradesh,North,208001,2025-02-16,4.3,23.36,Warehouse Fulfilled,False,True
+S000500,SELL000500,Prime Home & Kitchen Suppliers 500,Business,Home & Kitchen,16BELLJ3263U6ZS,VVIRU0397P,Mumbai,Maharashtra,West,400001,2022-04-22,4.6,15.42,Warehouse Fulfilled,True,True

@@ -1,0 +1,52 @@
+[
+  {
+    "EventName": "Republic Day Sale",
+    "EventType": "Sale",
+    "StartDate": "2024-01-20",
+    "EndDate": "2024-01-27",
+    "OrderMultiplier": 1.4,
+    "DiscountMultiplier": 1.1,
+    "AffectedCategory": "All",
+    "AffectedWarehouse": null
+  },
+  {
+    "EventName": "Summer Cooling Demand",
+    "EventType": "Seasonal",
+    "StartDate": "2024-04-15",
+    "EndDate": "2024-06-15",
+    "OrderMultiplier": 2.5,
+    "DiscountMultiplier": 1.0,
+    "AffectedCategory": "Air Conditioner",
+    "AffectedWarehouse": null
+  },
+  {
+    "EventName": "Back to School",
+    "EventType": "Seasonal",
+    "StartDate": "2024-05-20",
+    "EndDate": "2024-06-20",
+    "OrderMultiplier": 1.7,
+    "DiscountMultiplier": 1.15,
+    "AffectedCategory": "Books",
+    "AffectedWarehouse": null
+  },
+  {
+    "EventName": "Diwali Sale",
+    "EventType": "Festival",
+    "StartDate": "2024-10-20",
+    "EndDate": "2024-11-05",
+    "OrderMultiplier": 2.5,
+    "DiscountMultiplier": 1.3,
+    "AffectedCategory": "All",
+    "AffectedWarehouse": null
+  },
+  {
+    "EventName": "Warehouse Maintenance",
+    "EventType": "Operations",
+    "StartDate": "2024-07-10",
+    "EndDate": "2024-07-20",
+    "OrderMultiplier": 1.0,
+    "DiscountMultiplier": 1.0,
+    "AffectedCategory": "All",
+    "AffectedWarehouse": "WH000008"
+  }
+]

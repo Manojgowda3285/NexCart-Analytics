@@ -1,0 +1,31 @@
+WarehouseID,WarehouseCode,WarehouseName,WarehouseType,City,State,Region,Pincode,Capacity,ManagerName,ContactNumber,TemperatureControlled,OperatingCostPerMonth,OpeningDate,IsActive
+W000001,WH000001,Bengaluru Regional Warehouse 01,Regional Warehouse,Bengaluru,Karnataka,South,560001,134628,Aryan Maharaj,8196001338,False,773158,2024-02-12,True
+W000002,WH000002,Ahmedabad Fulfillment Center 02,Fulfillment Center,Ahmedabad,Gujarat,West,380001,64328,Rushil Saini,0265423511,False,460990,2020-03-25,True
+W000003,WH000003,Lucknow Regional Warehouse 03,Regional Warehouse,Lucknow,Uttar Pradesh,North,226001,149439,Gunbir Parmer,7816184959,False,845852,2019-10-16,True
+W000004,WH000004,Pune Regional Warehouse 04,Regional Warehouse,Pune,Maharashtra,West,411001,72059,Ekaraj Bath,1647525534,True,426793,2021-11-09,True
+W000005,WH000005,Kolkata Regional Warehouse 05,Regional Warehouse,Kolkata,West Bengal,East,700001,320284,Onveer Walla,4835030564,False,1330889,2024-03-11,True
+W000006,WH000006,Gurugram Fulfillment Center 06,Fulfillment Center,Gurugram,Haryana,North,122001,497400,Siddharth Murty,2423884969,True,2605397,2025-06-01,True
+W000007,WH000007,Mumbai Fulfillment Center 07,Fulfillment Center,Mumbai,Maharashtra,West,400001,65256,Janaki Kanda,0122691669,False,426476,2022-02-03,True
+W000008,WH000008,Pune Fulfillment Center 08,Fulfillment Center,Pune,Maharashtra,West,411001,341988,Zayan Apte,1462704828,False,1274870,2026-03-06,True
+W000009,WH000009,Surat Fulfillment Center 09,Fulfillment Center,Surat,Gujarat,West,395003,161943,Chanchal Tripathi,8809570154,True,992002,2018-08-18,True
+W000010,WH000010,Bengaluru Fulfillment Center 10,Fulfillment Center,Bengaluru,Karnataka,South,560001,137546,Dalbir Khosla,8227824896,True,734701,2026-01-19,True
+W000011,WH000011,Chandigarh Fulfillment Center 11,Fulfillment Center,Chandigarh,Chandigarh,North,160017,179935,Sai Muni,7133150983,True,940570,2026-05-10,True
+W000012,WH000012,Thiruvananthapuram Fulfillment Center 12,Fulfillment Center,Thiruvananthapuram,Kerala,South,695001,326484,Abhimanyu Bobal,5183473829,False,1618801,2019-07-21,False
+W000013,WH000013,Hubballi Fulfillment Center 13,Fulfillment Center,Hubballi,Karnataka,South,580020,57185,Xavier Solanki,6566701065,False,440066,2022-09-26,True
+W000014,WH000014,Nagpur Fulfillment Center 14,Fulfillment Center,Nagpur,Maharashtra,West,440001,311348,Yuvraj Handa,6247317810,False,1754816,2018-02-17,True
+W000015,WH000015,Chennai Regional Warehouse 15,Regional Warehouse,Chennai,Tamil Nadu,South,600001,548419,Girik Khalsa,3602606474,False,2279786,2021-04-17,True
+W000016,WH000016,Surat Fulfillment Center 16,Fulfillment Center,Surat,Gujarat,West,395003,544329,Vidhi Dubey,9805009788,False,2276183,2023-09-11,True
+W000017,WH000017,Patna Sort Center 17,Sort Center,Patna,Bihar,East,800001,161874,Dakshesh Trivedi,1361939909,False,966161,2019-10-24,True
+W000018,WH000018,Ludhiana Fulfillment Center 18,Fulfillment Center,Ludhiana,Punjab,North,141001,120037,Oni Virk,3462475107,False,869951,2022-01-26,True
+W000019,WH000019,Howrah Regional Warehouse 19,Regional Warehouse,Howrah,West Bengal,East,711101,123796,Ethan Yogi,5135427849,False,826286,2018-12-17,True
+W000020,WH000020,Kolkata Regional Warehouse 20,Regional Warehouse,Kolkata,West Bengal,East,700001,519822,Chandani Chawla,8244935348,True,2131869,2024-03-01,True
+W000021,WH000021,Panaji Fulfillment Center 21,Fulfillment Center,Panaji,Goa,West,403001,277760,Zayan Behl,0524278680,False,1765492,2025-12-30,True
+W000022,WH000022,Gwalior Fulfillment Center 22,Fulfillment Center,Gwalior,Madhya Pradesh,Central,474001,307422,Faqid Dixit,2620450533,False,1742717,2018-09-20,True
+W000023,WH000023,Delhi Fulfillment Center 23,Fulfillment Center,Delhi,Delhi,North,110001,134432,Irya Ray,6025634216,True,703770,2020-07-26,True
+W000024,WH000024,Bengaluru Fulfillment Center 24,Fulfillment Center,Bengaluru,Karnataka,South,560001,153695,Upma Kapadia,3303654145,False,824782,2024-01-18,True
+W000025,WH000025,Cuttack Fulfillment Center 25,Fulfillment Center,Cuttack,Odisha,East,753001,311953,Garima Bala,4019655698,False,1454801,2020-02-19,True
+W000026,WH000026,Chandigarh Fulfillment Center 26,Fulfillment Center,Chandigarh,Chandigarh,North,160017,146941,Lekha Gupta,8835615951,False,944855,2025-04-30,True
+W000027,WH000027,Belagavi Sort Center 27,Sort Center,Belagavi,Karnataka,South,590001,142236,Yashica More,8236629946,True,757288,2023-01-12,True
+W000028,WH000028,Hyderabad Fulfillment Center 28,Fulfillment Center,Hyderabad,Telangana,South,500001,177310,Daksha Mangat,5777387214,False,739523,2024-03-04,True
+W000029,WH000029,Chandigarh Fulfillment Center 29,Fulfillment Center,Chandigarh,Chandigarh,North,160017,120967,Girik Keer,0037917693,False,748896,2019-11-13,True
+W000030,WH000030,Vadodara Fulfillment Center 30,Fulfillment Center,Vadodara,Gujarat,West,390001,457685,Warda Ratta,6328708317,False,2172634,2020-12-22,False
