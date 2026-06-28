@@ -10,11 +10,17 @@ Grain:
 One row = One Product within One Order
 """
 
+
+import json
 import random
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
+
+# ------------------------------------------------------
+# RANDOM SEED
+# ------------------------------------------------------
 
 random.seed(42)
 np.random.seed(42)
@@ -27,9 +33,9 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 GENERATED_FOLDER = PROJECT_ROOT / "data" / "generated"
 
-OUTPUT_FOLDER = GENERATED_FOLDER
+CONFIG_FOLDER = PROJECT_ROOT / "config"
 
-OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+OUTPUT_FILE = GENERATED_FOLDER / "fact_order_items.csv"
 
 # ------------------------------------------------------
 # CONFIG
@@ -37,7 +43,7 @@ OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 
 TOTAL_ORDERS = 75000
 
-MAX_ITEMS_PER_ORDER = 4
+MAX_ITEMS_PER_ORDER = 6
 
 # ------------------------------------------------------
 # LOAD DIMENSIONS
@@ -64,51 +70,82 @@ dim_warehouse = pd.read_csv(
 )
 
 # ------------------------------------------------------
-# LOOKUPS
+# LOAD BUSINESS EVENTS
 # ------------------------------------------------------
 
-customer_lookup = dim_customer.set_index("CustomerID")
+with open(
+    CONFIG_FOLDER / "business_events.json",
+    "r",
+    encoding="utf-8"
+) as file:
 
-product_lookup = dim_product.set_index("ProductID")
-
-seller_lookup = dim_seller.set_index("SellerID")
-
-warehouse_lookup = dim_warehouse.set_index("WarehouseID")
-
-# ------------------------------------------------------
-# ID HELPERS
-# ------------------------------------------------------
-
-def generate_order_id(number):
-
-    return f"ORD{number:08d}"
+    BUSINESS_EVENTS = json.load(file)
 
 
-def generate_order_item_id(number):
+# ======================================================
+# ID GENERATORS
+# ======================================================
 
-    return f"OI{number:09d}"
+def generate_order_id(order_number):
 
-# ------------------------------------------------------
-# HELPER FUNCTIONS
-# ------------------------------------------------------
+    return f"ORD{order_number:08d}"
 
-def choose_order_date():
 
-    return dim_date.sample(1).iloc[0]
+def generate_order_item_id(order_item_number):
 
+    return f"OI{order_item_number:09d}"
+
+
+# ======================================================
+# BUSINESS EVENTS
+# ======================================================
+
+DEFAULT_EVENT = {
+    "EventName": "Normal",
+    "EventType": "Normal",
+    "OrderMultiplier": 1.0,
+    "DiscountMultiplier": 1.0,
+    "AffectedCategory": "All",
+    "AffectedWarehouse": None
+}
+
+
+def get_active_event(order_date):
+
+    order_date = pd.to_datetime(order_date)
+
+    for event in BUSINESS_EVENTS:
+
+        start = pd.to_datetime(event["StartDate"])
+        end = pd.to_datetime(event["EndDate"])
+
+        if start <= order_date <= end:
+            return event
+
+    return DEFAULT_EVENT
+
+
+# ======================================================
+# CUSTOMER
+# ======================================================
 
 def choose_customer():
 
     return dim_customer.sample(1).iloc[0]
 
 
-def choose_products(item_count):
+# ======================================================
+# ORDER DATE
+# ======================================================
 
-    return dim_product.sample(
-        n=item_count,
-        replace=False
-    )
+def choose_order_date():
 
+    return dim_date.sample(1).iloc[0]
+
+
+# ======================================================
+# PAYMENT
+# ======================================================
 
 def choose_payment_method():
 
@@ -123,164 +160,68 @@ def choose_payment_method():
             "Cash on Delivery"
         ],
 
-        weights=[42,22,16,8,5,7]
+        weights=[42, 22, 16, 8, 5, 7]
 
     )[0]
 
 
-# ------------------------------------------------------
-# GENERATE FACT ORDER ITEMS
-# ------------------------------------------------------
+# ======================================================
+# PRODUCTS
+# ======================================================
 
-def generate_fact_order_items():
+def choose_products(item_count):
 
-    rows = []
+    return dim_product.sample(
 
-    order_item_number = 1
+        n=item_count,
 
-    for order_number in range(1, TOTAL_ORDERS + 1):
+        replace=False
 
-        # -------------------------------------------------
-        # Order Level Information
-        # -------------------------------------------------
+    )
 
-        order_id = generate_order_id(order_number)
 
-        customer = choose_customer()
+# ======================================================
+# SELLER
+# ======================================================
 
-        customer_id = customer["CustomerID"]
-
-        customer_region = customer["Region"]
-
-        order_date = choose_order_date()
-
-        order_date_key = order_date["DateKey"]
-
-        payment_method = choose_payment_method()
-
-        # -------------------------------------------------
-        # Number of Items in this Order
-        # -------------------------------------------------
-
-        item_count = random.choices(
-
-            [1, 2, 3, 4, 5, 6],
-
-            weights=[60, 25, 8, 4, 2, 1]
-
-        )[0]
-
-        selected_products = choose_products(item_count)
-
-        # -------------------------------------------------
-        # One Row Per Product
-        # -------------------------------------------------
-
-        for _, product in selected_products.iterrows():
-
-            # ---------------------------------------------
-            # Seller
-            # ---------------------------------------------
-
-            seller = choose_seller(
-
-                product["Category"]
-
-            )
-
-            # ---------------------------------------------
-            # Warehouse
-            # ---------------------------------------------
-
-            warehouse = choose_warehouse(
-
-                customer_region
-
-            )
-
-            # ---------------------------------------------
-            # Quantity
-            # ---------------------------------------------
-
-            quantity = generate_quantity(
-
-                product["Category"]
-
-            )
-
-            # ---------------------------------------------
-            # Shipping
-            # ---------------------------------------------
-
-            shipping_charge = generate_shipping_charge(
-
-                product["Category"]
-
-            )
-
-            # ---------------------------------------------
-            # Create Fact Row
-            # ---------------------------------------------
-
-            rows.append(
-
-    build_order_row(
-
-        order_item_id=generate_order_item_id(order_item_number),
-
-        order_id=order_id,
-
-        order_date_key=order_date_key,
-
-        customer_id=customer_id,
-
-        payment_method=payment_method,
-
-        product=product,
-
-        seller=seller,
-
-        warehouse=warehouse,
-
-        quantity=quantity,
-
-        shipping_charge=shipping_charge
-
-    ))    
-            order_item_number += 1
-
-    fact_orders = pd.DataFrame(rows)
-
-    return fact_orders
-
-# ------------------------------------------------------
-# HELPER FUNCTIONS
-# ------------------------------------------------------
-
-def choose_seller(product_category):
+def choose_seller(category):
 
     eligible = dim_seller[
-        dim_seller["BusinessCategory"] == product_category
+
+        dim_seller["BusinessCategory"] == category
+
     ]
+
+    if len(eligible) == 0:
+
+        return dim_seller.sample(1).iloc[0]
 
     return eligible.sample(1).iloc[0]
 
 
+# ======================================================
+# WAREHOUSE
+# ======================================================
+
 def choose_warehouse(customer_region):
 
     same_region = dim_warehouse[
+
         dim_warehouse["Region"] == customer_region
+
     ]
 
     other_region = dim_warehouse[
+
         dim_warehouse["Region"] != customer_region
+
     ]
 
     use_same_region = random.choices(
 
         [True, False],
 
-        weights=[70,30]
+        weights=[70, 30]
 
     )[0]
 
@@ -291,52 +232,68 @@ def choose_warehouse(customer_region):
     return other_region.sample(1).iloc[0]
 
 
+# ======================================================
+# QUANTITY
+# ======================================================
+
 def generate_quantity(category):
 
-    if category == "Electronics":
+    rules = {
 
-        return random.choices(
+        "Electronics": [1, 2],
 
-            [1,2],
+        "Fashion": [1, 2, 3],
 
-            weights=[90,10]
+        "Home & Kitchen": [1, 2],
 
-        )[0]
+        "Beauty": [1, 2, 3],
 
-    elif category == "Grocery":
+        "Books": [1, 2, 3],
 
-        return random.randint(1,5)
+        "Sports": [1, 2],
 
-    elif category == "Books":
+        "Grocery": [1, 2, 3, 4, 5]
 
-        return random.randint(1,3)
+    }
 
-    else:
+    return random.choice(
 
-        return random.randint(1,2)
+        rules.get(category, [1])
 
+    )
+
+
+# ======================================================
+# SHIPPING
+# ======================================================
 
 def generate_shipping_charge(category):
 
     shipping = {
 
-        "Electronics": (120,350),
+        "Electronics": (120, 350),
 
-        "Fashion": (60,150),
+        "Fashion": (60, 150),
 
-        "Home & Kitchen": (80,220),
+        "Home & Kitchen": (80, 220),
 
-        "Beauty": (40,100),
+        "Beauty": (40, 100),
 
-        "Books": (40,80),
+        "Books": (40, 80),
 
-        "Sports": (80,180),
+        "Sports": (80, 180),
 
-        "Grocery": (20,70)
+        "Grocery": (20, 70)
 
     }
 
-    minimum, maximum = shipping[category]
+    minimum, maximum = shipping.get(
+
+        category,
+
+        (50, 100)
+
+    )
 
     return random.randint(
 
@@ -345,51 +302,50 @@ def generate_shipping_charge(category):
         maximum
 
     )
-
-# ------------------------------------------------------
+# ======================================================
 # DISCOUNT
-# ------------------------------------------------------
+# ======================================================
 
-def generate_discount_percent(category):
+def generate_discount_percent(category, event):
 
     rules = {
 
-        "Electronics": (5,20),
+        "Electronics": (5, 20),
 
-        "Fashion": (20,50),
+        "Fashion": (20, 50),
 
-        "Home & Kitchen": (10,30),
+        "Home & Kitchen": (10, 30),
 
-        "Beauty": (10,30),
+        "Beauty": (10, 30),
 
-        "Books": (5,15),
+        "Books": (5, 15),
 
-        "Sports": (10,25),
+        "Sports": (10, 25),
 
-        "Grocery": (0,10)
+        "Grocery": (0, 10)
 
     }
 
-    minimum, maximum = rules[category]
+    minimum, maximum = rules.get(category, (5, 15))
 
-    return round(
+    discount = random.uniform(
 
-        random.uniform(
+        minimum,
 
-            minimum,
-
-            maximum
-
-        ),
-
-        2
+        maximum
 
     )
 
+    discount *= event["DiscountMultiplier"]
 
-# ------------------------------------------------------
+    discount = min(discount, 70)
+
+    return round(discount, 2)
+
+
+# ======================================================
 # PRICE CALCULATOR
-# ------------------------------------------------------
+# ======================================================
 
 def calculate_order_amount(
 
@@ -401,7 +357,9 @@ def calculate_order_amount(
 
     shipping_charge,
 
-    category
+    category,
+
+    event
 
 ):
 
@@ -409,15 +367,15 @@ def calculate_order_amount(
 
     discount_percent = generate_discount_percent(
 
-        category
+        category,
+
+        event
 
     )
 
     discount_amount = round(
 
-        gross_amount *
-
-        discount_percent / 100,
+        gross_amount * discount_percent / 100,
 
         2
 
@@ -425,9 +383,7 @@ def calculate_order_amount(
 
     taxable_amount = round(
 
-        gross_amount -
-
-        discount_amount,
+        gross_amount - discount_amount,
 
         2
 
@@ -435,9 +391,7 @@ def calculate_order_amount(
 
     tax_amount = round(
 
-        taxable_amount *
-
-        gst_percent / 100,
+        taxable_amount * gst_percent / 100,
 
         2
 
@@ -470,15 +424,17 @@ def calculate_order_amount(
     }
 
 
-# ------------------------------------------------------
-# BUILD ORDER ROW
-# ------------------------------------------------------
+# ======================================================
+# BUILD FACT ROW
+# ======================================================
 
 def build_order_row(
 
     order_item_id,
 
     order_id,
+
+    order_date,
 
     order_date_key,
 
@@ -494,7 +450,11 @@ def build_order_row(
 
     quantity,
 
-    shipping_charge
+    shipping_charge,
+
+    event
+
+  
 
 ):
 
@@ -508,9 +468,31 @@ def build_order_row(
 
         shipping_charge=shipping_charge,
 
-        category=product["Category"]
+        category=product["Category"],
+
+        event=event
 
     )
+
+    lifecycle = generate_order_lifecycle(
+
+    order_date=order_date,
+
+    category=product["Category"],
+
+    event=event)
+
+    delivery_date_key = None
+
+    if lifecycle["DeliveryDate"] is not None:
+
+        delivery_date_key = int(
+
+            lifecycle["DeliveryDate"]
+
+            .strftime("%Y%m%d")
+
+        )
 
     return {
 
@@ -519,6 +501,8 @@ def build_order_row(
         "OrderID": order_id,
 
         "OrderDateKey": order_date_key,
+
+        "DeliveryDateKey": delivery_date_key,
 
         "CustomerID": customer_id,
 
@@ -548,6 +532,430 @@ def build_order_row(
 
         "ShippingCharge": shipping_charge,
 
-        "TotalAmount": pricing["TotalAmount"]
+        "TotalAmount": pricing["TotalAmount"],
+
+        "OrderStatus": lifecycle["OrderStatus"],
+
+        "DeliveryDays": lifecycle["DeliveryDays"],
+
+        "IsReturned": lifecycle["IsReturned"],
+
+        "CustomerRating": lifecycle["CustomerRating"],
+
+        "EventName": event["EventName"],
+
+        "EventType": event["EventType"]
 
     }
+
+# ======================================================
+# ORDER LIFECYCLE
+# ======================================================
+
+def generate_order_lifecycle(order_date, category, event):
+
+    # ----------------------------
+    # Cancellation
+    # ----------------------------
+
+    cancellation_probability = 0.05
+
+    if event["EventType"] == "Operations":
+
+        cancellation_probability = 0.08
+
+    if random.random() < cancellation_probability:
+
+        return {
+
+            "OrderStatus": "Cancelled",
+
+            "DeliveryDate": None,
+
+            "DeliveryDays": None,
+
+            "IsReturned": False,
+
+            "CustomerRating": None
+
+        }
+
+    # ----------------------------
+    # Delivery Days
+    # ----------------------------
+
+    delivery_days = random.randint(2, 7)
+
+    if event["EventType"] == "Operations":
+
+        delivery_days += 3
+
+    delivery_date = (
+
+        pd.to_datetime(order_date)
+
+        + pd.Timedelta(days=delivery_days)
+
+    )
+
+    # ----------------------------
+    # Return Probability
+    # ----------------------------
+
+    return_probability = {
+
+        "Electronics": 0.06,
+
+        "Fashion": 0.15,
+
+        "Home & Kitchen": 0.08,
+
+        "Beauty": 0.07,
+
+        "Books": 0.03,
+
+        "Sports": 0.05,
+
+        "Grocery": 0.01
+
+    }
+
+    is_returned = (
+
+        random.random()
+
+        <
+
+        return_probability.get(category, 0.05)
+
+    )
+
+    status = "Returned" if is_returned else "Delivered"
+
+    # ----------------------------
+    # Customer Rating
+    # ----------------------------
+
+    if status == "Returned":
+
+        rating = round(
+
+            random.uniform(1.5, 3.5),
+
+            1
+
+        )
+
+    else:
+
+        rating = round(
+
+            random.uniform(3.8, 5.0),
+
+            1
+
+        )
+
+    return {
+
+        "OrderStatus": status,
+
+        "DeliveryDate": delivery_date,
+
+        "DeliveryDays": delivery_days,
+
+        "IsReturned": is_returned,
+
+        "CustomerRating": rating
+
+    }
+
+# ======================================================
+# FACT ORDER ITEMS GENERATOR
+# ======================================================
+
+def generate_fact_order_items():
+
+    rows = []
+
+    order_item_number = 1
+
+    for order_number in range(1, TOTAL_ORDERS + 1):
+
+        if order_number % 2000 == 0:
+            print(f"Generated {order_number:,} orders...")
+
+        # ---------------------------------------------
+        # Order Information
+        # ---------------------------------------------
+
+        order_id = generate_order_id(order_number)
+
+        order_date = choose_order_date()
+
+        order_date_key = order_date["DateKey"]
+
+        event = get_active_event(
+
+            order_date["FullDate"]
+
+        )
+
+        customer = choose_customer()
+
+        customer_id = customer["CustomerID"]
+
+        customer_region = customer["Region"]
+
+        payment_method = choose_payment_method()
+
+        # ---------------------------------------------
+        # Number of Items
+        # ---------------------------------------------
+
+        item_count = random.choices(
+
+            [1, 2, 3, 4, 5, 6],
+
+            weights=[60, 25, 8, 4, 2, 1]
+
+        )[0]
+
+        # Increase basket size during major events
+
+        if event["OrderMultiplier"] > 1:
+
+            if random.random() < 0.60:
+
+                item_count = min(
+
+                    item_count + 1,
+
+                    MAX_ITEMS_PER_ORDER
+
+                )
+
+        # ---------------------------------------------
+        # Products
+        # ---------------------------------------------
+
+        selected_products = choose_products(
+
+            item_count
+
+        )
+
+        # ---------------------------------------------
+        # One Row Per Product
+        # ---------------------------------------------
+
+        for _, product in selected_products.iterrows():
+
+            seller = choose_seller(
+
+                product["Category"]
+
+            )
+
+            warehouse = choose_warehouse(
+
+                customer_region
+
+            )
+
+            quantity = generate_quantity(
+
+                product["Category"]
+
+            )
+
+            shipping_charge = generate_shipping_charge(
+
+                product["Category"]
+
+            )
+
+            row = build_order_row(
+
+                order_item_id=generate_order_item_id(
+                    order_item_number
+                ),
+
+                order_id=order_id,
+
+                order_date_key=order_date_key,
+                
+                order_date = order_date["FullDate"],
+              
+                customer_id=customer_id,
+
+                payment_method=payment_method,
+
+                product=product,
+
+                seller=seller,
+
+                warehouse=warehouse,
+
+                quantity=quantity,
+
+                shipping_charge=shipping_charge,
+
+                event=event
+
+            )
+
+            rows.append(
+
+                row
+
+            )
+
+            order_item_number += 1
+
+    fact_orders = pd.DataFrame(
+
+        rows
+
+    )
+
+    return fact_orders
+
+
+# ======================================================
+# VALIDATION
+# ======================================================
+
+def validate_data(fact_orders):
+
+    print("\nRunning validations...")
+
+    # -----------------------------------------
+    # Duplicate OrderItemID
+    # -----------------------------------------
+
+    duplicate_count = fact_orders["OrderItemID"].duplicated().sum()
+
+    if duplicate_count > 0:
+
+        raise ValueError(
+
+            f"Duplicate OrderItemID found : {duplicate_count}"
+
+        )
+
+    # -----------------------------------------
+    # Null Check
+    # -----------------------------------------
+
+    required_columns = [
+
+        "OrderItemID",
+
+        "OrderID",
+
+        "CustomerID",
+
+        "ProductID",
+
+        "SellerID",
+
+        "WarehouseID"
+
+    ]
+
+    for column in required_columns:
+
+        if fact_orders[column].isnull().sum() > 0:
+
+            raise ValueError(
+
+                f"Null values found in {column}"
+
+            )
+
+    # -----------------------------------------
+    # Price Validation
+    # -----------------------------------------
+
+    if (fact_orders["TotalAmount"] <= 0).any():
+
+        raise ValueError(
+
+            "Invalid TotalAmount found."
+
+        )
+
+    print("All validations passed.")
+
+# ======================================================
+# EXPORT
+# ======================================================
+
+def export_csv(fact_orders):
+
+    OUTPUT_FILE.parent.mkdir(
+
+        parents=True,
+
+        exist_ok=True
+
+    )
+
+    fact_orders.to_csv(
+
+        OUTPUT_FILE,
+
+        index=False
+
+    )
+
+    print(
+
+        f"\nSaved : {OUTPUT_FILE}"
+
+    )
+
+# ======================================================
+# MAIN
+# ======================================================
+
+def main():
+
+    print(
+
+        "\nGenerating Fact Order Items...\n"
+
+    )
+
+    fact_orders = generate_fact_order_items()
+
+    
+
+    validate_data(
+
+        fact_orders
+
+    )
+
+    export_csv(
+
+        fact_orders
+
+    )
+
+    print(
+
+        "\nFact Order Items Generated Successfully."
+
+    )
+
+
+if __name__ == "__main__":
+
+    main()
+
+
+
+
+
