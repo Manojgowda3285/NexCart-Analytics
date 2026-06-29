@@ -906,3 +906,11 @@ FullDate,DateKey,Day,Month,MonthName,Year,Quarter,DayName,DayOfWeek,WeekOfYear,I
 2026-06-23,20260623,23,6,June,2026,Q2,Tuesday,2,26,False,FY2026-27,Monsoon
 2026-06-24,20260624,24,6,June,2026,Q2,Wednesday,3,26,False,FY2026-27,Monsoon
 2026-06-25,20260625,25,6,June,2026,Q2,Thursday,4,26,False,FY2026-27,Monsoon
+2026-06-26,20260626,26,6,June,2026,Q2,Friday,5,26,False,FY2026-27,Monsoon
+2026-06-27,20260627,27,6,June,2026,Q2,Saturday,6,26,True,FY2026-27,Monsoon
+2026-06-28,20260628,28,6,June,2026,Q2,Sunday,7,26,True,FY2026-27,Monsoon
+2026-06-29,20260629,29,6,June,2026,Q2,Monday,1,27,False,FY2026-27,Monsoon
+2026-06-30,20260630,30,6,June,2026,Q2,Tuesday,2,27,False,FY2026-27,Monsoon
+2026-07-01,20260701,1,7,July,2026,Q3,Wednesday,3,27,False,FY2026-27,Monsoon
+2026-07-02,20260702,2,7,July,2026,Q3,Thursday,4,27,False,FY2026-27,Monsoon
+2026-07-03,20260703,3,7,July,2026,Q3,Friday,5,27,False,FY2026-27,Monsoon

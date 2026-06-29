@@ -145,7 +145,8 @@ def main():
 
     start_date = "2024-01-01"
 
-    end_date = datetime.today().date()
+    # end_date = datetime.today().date()
+    end_date = "2026-07-03"
 
     dim_date = generate_date_range(
         start_date,
